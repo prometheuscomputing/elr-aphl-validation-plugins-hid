@@ -3,7 +3,7 @@
 	<groupId>gov.nist.hit.elr</groupId>
 	<!-- <artifactId>elr-r1-validation-plugins-daart</artifactId> -->
 	<artifactId>elr-r1-validation-plugins</artifactId>
-	<version>1.0.3-sitt.1</version>
+	<version>1.0.3-sitt.2</version>
 	<build>
 		<pluginManagement>
 			<plugins>
