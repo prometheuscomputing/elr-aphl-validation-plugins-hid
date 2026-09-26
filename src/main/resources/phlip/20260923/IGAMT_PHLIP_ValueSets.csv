@@ -1,0 +1,3632 @@
+Value Set Name,Code,CodeSystem
+Conclusion PCR result,260373001,SCT
+Conclusion PCR result,42425007,SCT
+Conclusion PCR result,419984006,SCT
+Conclusion PCR result,281267002,SCT
+Conclusion PCR result,260415000,SCT
+Conclusion PCR result,123840003,SCT
+Conclusion PCR result,125159002,SCT
+(Non-coded date),(Date),(none)
+(Non-coded date/time),(DateTime),(none)
+(Non-coded number),(Numeric),(none)
+(Non-coded structured number),(StructNum),(none)
+(Non-coded string),(String),(none)
+EV culture result,260373001,SCT
+EV culture result,281267002,SCT
+EV culture result,82334004,SCT
+EV culture result,264868006,SCT
+EV culture result,260415000,SCT
+EV culture result,264887000,SCT
+EV culture result,123840003,SCT
+EV culture result,125159002,SCT
+EV culture result,281273001,SCT
+EV culture result,125154007,SCT
+EV culture result,373121007,SCT
+Flu A B virus screen DFA,419984006,SCT
+Flu A B virus screen DFA,281267002,SCT
+Flu A B virus screen DFA,407479009,SCT
+Flu A B virus screen DFA,407480007,SCT
+Flu A B virus screen DFA,260385009,SCT
+Flu A B virus screen DFA,123840003,SCT
+Flu A B virus screen DFA,125159002,SCT
+Flu A B virus screen DFA,281273001,SCT
+Flu A B virus screen DFA,125154007,SCT
+Flu A B virus screen DFA,373121007,SCT
+Race,2131-1,CDCREC
+Race,2106-3,CDCREC
+Race,UNK,NULLFL
+Ethnicity,2135-2,CDCREC
+Ethnicity,2186-5,CDCREC
+Ethnicity,UNK,NULLFL
+Patient location,I,HL70004
+Patient location,282E00000X,HCPTNUCC
+Patient location,O,HL70004
+Pregnancy status,60001007,SCT
+Pregnancy status,77386006,SCT
+Pregnancy status,UNK,NULLFL
+CF IF Neut result,281267002,SCT
+CF IF Neut result,260385009,SCT
+CF IF Neut result,10828004,SCT
+CF IF Neut result,123840003,SCT
+CF IF Neut result,125159002,SCT
+CF IF Neut result,281273001,SCT
+CF IF Neut result,125154007,SCT
+CF IF Neut result,373121007,SCT
+(Non-coded text),(Text),(none)
+(Non-coded ID format),(Identifier),(none)
+Age value units,d,UCUM
+Age value units,h,UCUM
+Age value units,min,UCUM
+Age value units,mo,UCUM
+Age value units,s,UCUM
+Age value units,UNK,NULLFL
+Age value units,wk,UCUM
+Age value units,a,UCUM
+Units of measure,{Ct},UCUM
+Units of measure,IU/mL,UCUM
+Units of measure,ug/mL,UCUM
+Units of measure,mm,UCUM
+Units of measure,mg/L,UCUM
+Units of measure,d,UCUM
+Units of measure,h,UCUM
+Units of measure,min,UCUM
+Units of measure,mo,UCUM
+Units of measure,s,UCUM
+Units of measure,wk,UCUM
+Units of measure,a,UCUM
+Units of measure,%,UCUM
+Yes No,N,HL70136
+Yes No,Y,HL70136
+Yes No Unknown,N,HL70136
+Yes No Unknown,UNK,NULLFL
+Yes No Unknown,Y,HL70136
+Sex,F,HL70001
+Sex,M,HL70001
+Sex,U,HL70001
+Race,1002-5,CDCREC
+Race,2028-9,CDCREC
+Race,2054-5,CDCREC
+Race,2076-8,CDCREC
+Conclusion PCR result,281273001,SCT
+Conclusion PCR result,125154007,SCT
+Conclusion PCR result,373121007,SCT
+Drug test result,281267002,SCT
+Drug test result,82334004,SCT
+Drug test result,30714006,SCT
+Drug test result,123840003,SCT
+Drug test result,125159002,SCT
+Drug test result,281273001,SCT
+Drug test result,125154007,SCT
+Drug test result,131196009,SCT
+Drug test result,373121007,SCT
+EIA result,260373001,SCT
+EIA result,281267002,SCT
+EIA result,82334004,SCT
+EIA result,260415000,SCT
+EIA result,123840003,SCT
+EIA result,125159002,SCT
+EIA result,281273001,SCT
+EIA result,125154007,SCT
+EIA result,373121007,SCT
+Respiratory pathogen PCR,6771007,SCT
+Respiratory pathogen PCR,72597004,SCT
+Respiratory pathogen PCR,83593001,SCT
+Respiratory pathogen PCR,72877003,SCT
+Respiratory pathogen PCR,55982000,SCT
+Respiratory pathogen PCR,86886003,SCT
+Respiratory pathogen PCR,38219001,SCT
+Respiratory pathogen PCR,24071003,SCT
+Respiratory pathogen PCR,74924008,SCT
+Respiratory pathogen PCR,1293004,SCT
+Respiratory pathogen PCR,3096006,SCT
+Respiratory pathogen PCR,49018005,SCT
+Respiratory pathogen PCR,82059001,SCT
+Respiratory pathogen PCR,27555004,SCT
+Respiratory pathogen PCR,89585007,SCT
+Respiratory pathogen PCR,41988004,SCT
+Respiratory pathogen PCR,62408001,SCT
+Respiratory pathogen PCR,48171002,SCT
+Respiratory pathogen PCR,39164004,SCT
+Flu A H subtype,419984006,SCT
+Flu A H subtype,941000124100,SCT
+Flu A H subtype,951000124103,SCT
+Flu A H subtype,281267002,SCT
+Flu A H subtype,446396002,SCT
+Flu A H subtype,221000124104,SCT
+Flu A H subtype,446397006,SCT
+Flu A H subtype,446645007,SCT
+Flu A H subtype,446648009,SCT
+Flu A H subtype,446649001,SCT
+Flu A H subtype,123840003,SCT
+Flu A H subtype,125159002,SCT
+Flu A H subtype,281273001,SCT
+Flu A H subtype,125154007,SCT
+Flu A H subtype,373121007,SCT
+Respiratory pathogen PCR,2185006,SCT
+Respiratory pathogen PCR,417810000,SCT
+Respiratory pathogen PCR,417811001,SCT
+Respiratory pathogen PCR,448520007,SCT
+Respiratory pathogen PCR,704980004,SCT
+Respiratory pathogen PCR,2247004,SCT
+Respiratory pathogen PCR,68957002,SCT
+Respiratory pathogen PCR,46957004,SCT
+Respiratory pathogen PCR,66111006,SCT
+Respiratory pathogen PCR,417812008,SCT
+Respiratory pathogen PCR,417813003,SCT
+Respiratory pathogen PCR,417814009,SCT
+Respiratory pathogen PCR,417815005,SCT
+Respiratory pathogen PCR,417816006,SCT
+Respiratory pathogen PCR,725064005,SCT
+Respiratory pathogen PCR,446373002,SCT
+Respiratory pathogen PCR,84101006,SCT
+Respiratory pathogen PCR,407370007,SCT
+Respiratory pathogen PCR,697942007,SCT
+Respiratory pathogen PCR,417818007,SCT
+Respiratory pathogen PCR,407371006,SCT
+Respiratory pathogen PCR,57757007,SCT
+Respiratory pathogen PCR,53744000,SCT
+Respiratory pathogen PCR,72254008,SCT
+Respiratory pathogen PCR,38203008,SCT
+Respiratory pathogen PCR,52657009,SCT
+Respiratory pathogen PCR,2793000,SCT
+Respiratory pathogen PCR,7543009,SCT
+Respiratory pathogen PCR,24747003,SCT
+Respiratory pathogen PCR,72593000,SCT
+Respiratory pathogen PCR,42067008,SCT
+Respiratory pathogen PCR,58445002,SCT
+Respiratory pathogen PCR,30840007,SCT
+Respiratory pathogen PCR,38889001,SCT
+Respiratory pathogen PCR,23831003,SCT
+Respiratory pathogen PCR,36204005,SCT
+Flu B lineage,419984006,SCT
+Flu B lineage,281267002,SCT
+Flu B lineage,427672003,SCT
+Flu B lineage,426959005,SCT
+Flu B lineage,260415000,SCT
+Flu B lineage,123840003,SCT
+Flu B lineage,125159002,SCT
+Flu B lineage,281273001,SCT
+Flu B lineage,125154007,SCT
+Flu B lineage,373121007,SCT
+Flu B lineage PCR,419984006,SCT
+Flu B lineage PCR,281267002,SCT
+Flu B lineage PCR,427672003,SCT
+Flu B lineage PCR,426959005,SCT
+HAI results,125154007,SCT
+HAI results,373121007,SCT
+Non-respiratory pathogens,419984006,SCT
+Non-respiratory pathogens,281267002,SCT
+Non-respiratory pathogens,919722731000087109,SCT
+Non-respiratory pathogens,347362891000087107,SCT
+Non-respiratory pathogens,260415000,SCT
+Non-respiratory pathogens,123840003,SCT
+Non-respiratory pathogens,125159002,SCT
+Non-respiratory pathogens,281273001,SCT
+Respiratory pathogen PCR,58657002,SCT
+Respiratory pathogen PCR,15652005,SCT
+Respiratory pathogen PCR,74305002,SCT
+Respiratory pathogen PCR,50346001,SCT
+Respiratory pathogen PCR,70855006,SCT
+Respiratory pathogen PCR,21813007,SCT
+Respiratory pathogen PCR,19319001,SCT
+Respiratory pathogen PCR,82519006,SCT
+Respiratory pathogen PCR,21206001,SCT
+Respiratory pathogen PCR,74533001,SCT
+Respiratory pathogen PCR,12842000,SCT
+Respiratory pathogen PCR,7746003,SCT
+Respiratory pathogen PCR,75565006,SCT
+Respiratory pathogen PCR,91072000,SCT
+Respiratory pathogen PCR,34632007,SCT
+Respiratory pathogen PCR,30154001,SCT
+Respiratory pathogen PCR,43794009,SCT
+Respiratory pathogen PCR,31183009,SCT
+Respiratory pathogen PCR,17833003,SCT
+Respiratory pathogen PCR,59056002,SCT
+Respiratory pathogen PCR,79968007,SCT
+Respiratory pathogen PCR,60066004,SCT
+Respiratory pathogen PCR,427004,SCT
+Respiratory pathogen PCR,16815003,SCT
+Respiratory pathogen PCR,4433000,SCT
+Respiratory pathogen PCR,46506009,SCT
+Respiratory pathogen PCR,53038008,SCT
+Respiratory pathogen PCR,66619009,SCT
+Respiratory pathogen PCR,69239002,SCT
+Respiratory pathogen PCR,12997006,SCT
+Respiratory pathogen PCR,78434004,SCT
+Respiratory pathogen PCR,90779008,SCT
+Respiratory pathogen PCR,68874003,SCT
+Respiratory pathogen PCR,421603003,SCT
+Respiratory pathogen PCR,421124007,SCT
+Respiratory pathogen PCR,421887001,SCT
+Respiratory pathogen PCR,420441008,SCT
+Respiratory pathogen PCR,421170000,SCT
+Respiratory pathogen PCR,19965007,SCT
+Respiratory pathogen PCR,15302007,SCT
+Respiratory pathogen PCR,13687007,SCT
+Respiratory pathogen PCR,19551004,SCT
+Respiratory pathogen PCR,416730002,SCT
+Respiratory pathogen PCR,407489008,SCT
+Respiratory pathogen PCR,407491000,SCT
+Flu B lineage PCR,260415000,SCT
+Flu B lineage PCR,123840003,SCT
+Flu B lineage PCR,125159002,SCT
+Flu B lineage PCR,281273001,SCT
+Flu B lineage PCR,125154007,SCT
+Flu B lineage PCR,373121007,SCT
+Flu viruses,419984006,SCT
+Flu viruses,941000124100,SCT
+Flu viruses,951000124103,SCT
+Flu viruses,281267002,SCT
+Flu viruses,407479009,SCT
+Flu viruses,446396002,SCT
+Flu viruses,221000124104,SCT
+Flu viruses,700349009,SCT
+Flu viruses,446397006,SCT
+Flu viruses,446645007,SCT
+Flu viruses,446648009,SCT
+Flu viruses,446649001,SCT
+Flu viruses,407480007,SCT
+Flu viruses,427672003,SCT
+Flu viruses,426959005,SCT
+Flu viruses,407482004,SCT
+Flu viruses,264868006,SCT
+Flu viruses,264887000,SCT
+Flu viruses,123840003,SCT
+Flu viruses,125159002,SCT
+Flu viruses,281273001,SCT
+Flu viruses,125154007,SCT
+Flu viruses,373121007,SCT
+Flu viruses HAI,281267002,SCT
+Flu viruses HAI,446396002,SCT
+Flu viruses HAI,221000124104,SCT
+Flu viruses HAI,446645007,SCT
+Flu viruses HAI,427672003,SCT
+Flu viruses HAI,426959005,SCT
+Flu viruses HAI,260385009,SCT
+Flu viruses HAI,123840003,SCT
+Flu viruses HAI,125159002,SCT
+Flu viruses HAI,281273001,SCT
+Flu viruses HAI,125154007,SCT
+Flu viruses HAI,373121007,SCT
+HAI results,260373001,SCT
+HAI results,281267002,SCT
+HAI results,260415000,SCT
+HAI results,123840003,SCT
+HAI results,125159002,SCT
+HAI results,281273001,SCT
+Non-respiratory pathogens,125154007,SCT
+Non-respiratory pathogens,373121007,SCT
+Pre-screen method,104257009,SCT
+Pre-screen method,9718006,SCT
+Pre-screen method,12717000,SCT
+Pre-screen results,419984006,SCT
+Pre-screen results,407479009,SCT
+Pre-screen results,446396002,SCT
+Pre-screen results,221000124104,SCT
+Pre-screen results,446645007,SCT
+Pre-screen results,407480007,SCT
+Pre-screen results,455371000124106,SCT
+Pre-screen results,373121007,SCT
+Pre-screen results,260415000,SCT
+Pyro results,103709008,SCT
+Pyro results,281267002,SCT
+Pyro results,82334004,SCT
+Pyro results,123840003,SCT
+Pyro results,125159002,SCT
+Pyro results,281273001,SCT
+Pyro results,125154007,SCT
+Pyro results,373068000,SCT
+Ql culture result,62604006,SCT
+Ql culture result,281267002,SCT
+Ql culture result,82334004,SCT
+Ql culture result,46651001,SCT
+Ql culture result,264868006,SCT
+Ql culture result,264887000,SCT
+Ql culture result,123840003,SCT
+Ql culture result,125159002,SCT
+Ql culture result,281273001,SCT
+Ql culture result,125154007,SCT
+Ql culture result,373121007,SCT
+Respiratory pathogen PCR,243579005,SCT
+Respiratory pathogen PCR,26183002,SCT
+Respiratory pathogen PCR,5247005,SCT
+Respiratory pathogen PCR,103514009,SCT
+Respiratory pathogen PCR,407444007,SCT
+Respiratory viruses,29576004,SCT
+Respiratory viruses,417802001,SCT
+Respiratory viruses,417803006,SCT
+Respiratory viruses,417804000,SCT
+Respiratory viruses,417805004,SCT
+Respiratory viruses,417806003,SCT
+Respiratory viruses,417807007,SCT
+Respiratory viruses,417808002,SCT
+Respiratory viruses,417809005,SCT
+Respiratory viruses,2185006,SCT
+Respiratory viruses,417810000,SCT
+Respiratory viruses,417811001,SCT
+Respiratory viruses,448520007,SCT
+Respiratory viruses,704980004,SCT
+Respiratory viruses,2247004,SCT
+Respiratory viruses,68957002,SCT
+Respiratory viruses,46957004,SCT
+Respiratory viruses,66111006,SCT
+Respiratory viruses,417812008,SCT
+Respiratory viruses,417813003,SCT
+Respiratory viruses,417815005,SCT
+Respiratory viruses,417816006,SCT
+Respiratory viruses,725064005,SCT
+Respiratory viruses,446373002,SCT
+Respiratory viruses,84101006,SCT
+Respiratory viruses,407370007,SCT
+Respiratory viruses,407371006,SCT
+Respiratory viruses,57757007,SCT
+Respiratory viruses,53744000,SCT
+Respiratory viruses,72254008,SCT
+Respiratory viruses,38203008,SCT
+Respiratory viruses,52657009,SCT
+Respiratory viruses,2793000,SCT
+Results PLT103,941000124100,SCT
+Results PLT103,281267002,SCT
+Results PLT103,407479009,SCT
+Results PLT103,221000124104,SCT
+Results PLT103,260415000,SCT
+Results PLT103,123840003,SCT
+Results PLT103,125159002,SCT
+Results PLT103,281273001,SCT
+Results PLT103,125154007,SCT
+Results PLT103,373121007,SCT
+Results PLT171,260373001,SCT
+Respiratory viruses,7543009,SCT
+Respiratory viruses,24747003,SCT
+Respiratory viruses,72593000,SCT
+Respiratory viruses,42067008,SCT
+Respiratory viruses,34632007,SCT
+Respiratory viruses,30154001,SCT
+Respiratory viruses,43794009,SCT
+Respiratory viruses,31183009,SCT
+Respiratory viruses,17833003,SCT
+Respiratory viruses,59056002,SCT
+Respiratory viruses,79968007,SCT
+Respiratory viruses,60066004,SCT
+Respiratory viruses,427004,SCT
+Respiratory viruses,16815003,SCT
+Respiratory viruses,4433000,SCT
+Respiratory viruses,46506009,SCT
+Respiratory viruses,53038008,SCT
+Respiratory viruses,66619009,SCT
+Respiratory viruses,69239002,SCT
+Respiratory viruses,12997006,SCT
+Respiratory viruses,78434004,SCT
+Respiratory viruses,90779008,SCT
+Respiratory viruses,68874003,SCT
+Respiratory viruses,421603003,SCT
+Respiratory viruses,421124007,SCT
+Respiratory viruses,421887001,SCT
+Respiratory viruses,420441008,SCT
+Respiratory viruses,421170000,SCT
+Respiratory viruses,19965007,SCT
+Respiratory viruses,15302007,SCT
+Respiratory viruses,13687007,SCT
+Respiratory viruses,19551004,SCT
+Respiratory viruses,416730002,SCT
+Respiratory viruses,407489008,SCT
+Respiratory viruses,407491000,SCT
+Respiratory viruses,407493002,SCT
+Respiratory viruses,89117003,SCT
+Respiratory viruses,128359006,SCT
+Respiratory viruses,128360001,SCT
+Respiratory viruses,407498006,SCT
+Respiratory viruses,450615008,SCT
+Respiratory viruses,450616009,SCT
+Respiratory viruses,473282007,SCT
+Respiratory viruses,473283002,SCT
+Respiratory viruses,473284008,SCT
+Respiratory viruses,473285009,SCT
+Respiratory viruses,473286005,SCT
+Respiratory viruses,473287001,SCT
+Respiratory viruses,44172002,SCT
+Respiratory viruses,22580008,SCT
+Respiratory viruses,55174004,SCT
+Respiratory viruses,16362001,SCT
+Respiratory viruses,6415009,SCT
+Respiratory viruses,417770000,SCT
+Respiratory viruses,417771001,SCT
+Respiratory viruses,38220007,SCT
+Respiratory viruses,422298007,SCT
+Respiratory viruses,450869008,SCT
+Respiratory viruses,450870009,SCT
+Respiratory viruses,281267002,SCT
+Respiratory viruses,407479009,SCT
+Respiratory viruses,221000124104,SCT
+Respiratory viruses,446645007,SCT
+Respiratory viruses,446648009,SCT
+Respiratory viruses,407480007,SCT
+Respiratory viruses,427672003,SCT
+Respiratory viruses,426959005,SCT
+Respiratory viruses,281268007,SCT
+Respiratory viruses,46651001,SCT
+Respiratory viruses,80897008,SCT
+Respiratory viruses,52584002,SCT
+Respiratory viruses,50384007,SCT
+Respiratory viruses,264868006,SCT
+Respiratory viruses,260415000,SCT
+Respiratory pathogen PCR,74871001,SCT
+Respiratory pathogen PCR,53349007,SCT
+Respiratory pathogen PCR,54435006,SCT
+Respiratory pathogen PCR,30490000,SCT
+Respiratory pathogen PCR,23376009,SCT
+Respiratory pathogen PCR,37443004,SCT
+Respiratory pathogen PCR,7479004,SCT
+Respiratory pathogen PCR,33974008,SCT
+Respiratory pathogen PCR,62313001,SCT
+Respiratory pathogen PCR,9141005,SCT
+Respiratory pathogen PCR,10722007,SCT
+Respiratory pathogen PCR,49787000,SCT
+Respiratory pathogen PCR,81190003,SCT
+Respiratory pathogen PCR,74922007,SCT
+Respiratory pathogen PCR,85158000,SCT
+Respiratory pathogen PCR,19493000,SCT
+Respiratory pathogen PCR,42084002,SCT
+Respiratory pathogen PCR,15030000,SCT
+Respiratory pathogen PCR,5488007,SCT
+Respiratory pathogen PCR,73993004,SCT
+Respiratory pathogen PCR,89860009,SCT
+Respiratory pathogen PCR,22212008,SCT
+Respiratory pathogen PCR,66122005,SCT
+Respiratory pathogen PCR,1098002,SCT
+Respiratory pathogen PCR,41476007,SCT
+Respiratory pathogen PCR,12612001,SCT
+Respiratory pathogen PCR,85881001,SCT
+Respiratory pathogen PCR,15646009,SCT
+Respiratory pathogen PCR,65003007,SCT
+Respiratory pathogen PCR,32522009,SCT
+Respiratory pathogen PCR,90717001,SCT
+Respiratory pathogen PCR,91125002,SCT
+Respiratory pathogen PCR,79804005,SCT
+Respiratory pathogen PCR,90336009,SCT
+Respiratory pathogen PCR,23684001,SCT
+Respiratory pathogen PCR,68883008,SCT
+Respiratory pathogen PCR,29576004,SCT
+Respiratory pathogen PCR,417802001,SCT
+Respiratory pathogen PCR,417803006,SCT
+Respiratory pathogen PCR,417804000,SCT
+Respiratory pathogen PCR,417805004,SCT
+Respiratory pathogen PCR,417806003,SCT
+Respiratory pathogen PCR,417807007,SCT
+Respiratory pathogen PCR,417808002,SCT
+Respiratory pathogen PCR,417809005,SCT
+Respiratory pathogen PCR,37870004,SCT
+Respiratory pathogen PCR,407493002,SCT
+Respiratory pathogen PCR,89117003,SCT
+Respiratory pathogen PCR,128359006,SCT
+Respiratory pathogen PCR,128360001,SCT
+Respiratory pathogen PCR,407498006,SCT
+Respiratory pathogen PCR,450615008,SCT
+Respiratory pathogen PCR,450616009,SCT
+Respiratory pathogen PCR,473282007,SCT
+Respiratory pathogen PCR,473283002,SCT
+Respiratory pathogen PCR,473284008,SCT
+Respiratory pathogen PCR,473285009,SCT
+Respiratory pathogen PCR,473286005,SCT
+Respiratory pathogen PCR,473287001,SCT
+Respiratory pathogen PCR,6415009,SCT
+Respiratory pathogen PCR,417770000,SCT
+Respiratory pathogen PCR,417771001,SCT
+Respiratory pathogen PCR,1838001,SCT
+Respiratory pathogen PCR,38220007,SCT
+Respiratory pathogen PCR,419984006,SCT
+Respiratory pathogen PCR,281267002,SCT
+Respiratory pathogen PCR,407479009,SCT
+Respiratory pathogen PCR,446396002,SCT
+Respiratory pathogen PCR,221000124104,SCT
+Respiratory pathogen PCR,446645007,SCT
+Respiratory pathogen PCR,407480007,SCT
+Respiratory pathogen PCR,281268007,SCT
+Respiratory pathogen PCR,80897008,SCT
+Respiratory pathogen PCR,697932005,SCT
+Respiratory pathogen PCR,58720004,SCT
+Respiratory pathogen PCR,260415000,SCT
+Respiratory pathogen PCR,123840003,SCT
+Respiratory pathogen PCR,125159002,SCT
+Respiratory pathogen PCR,281273001,SCT
+Respiratory pathogen PCR,125154007,SCT
+Respiratory pathogen PCR,373121007,SCT
+Respiratory viruses,407444007,SCT
+Respiratory viruses,112652003,SCT
+Country,GR,ISO3166_1
+Country,GL,ISO3166_1
+Country,GD,ISO3166_1
+Country,GP,ISO3166_1
+Country,GU,ISO3166_1
+Country,GT,ISO3166_1
+Country,GG,ISO3166_1
+Country,GN,ISO3166_1
+Country,GW,ISO3166_1
+Country,GY,ISO3166_1
+Country,HT,ISO3166_1
+Country,HM,ISO3166_1
+Country,VA,ISO3166_1
+Country,HN,ISO3166_1
+Country,HK,ISO3166_1
+Country,HU,ISO3166_1
+Country,IS,ISO3166_1
+Country,IN,ISO3166_1
+Country,ID,ISO3166_1
+Country,IR,ISO3166_1
+Country,IQ,ISO3166_1
+Country,IE,ISO3166_1
+Country,IM,ISO3166_1
+Country,IL,ISO3166_1
+Country,IT,ISO3166_1
+Country,JM,ISO3166_1
+Country,JP,ISO3166_1
+Country,JE,ISO3166_1
+Country,JO,ISO3166_1
+Country,KZ,ISO3166_1
+Country,KE,ISO3166_1
+Country,KI,ISO3166_1
+Country,KP,ISO3166_1
+Country,KR,ISO3166_1
+Country,KW,ISO3166_1
+Country,KG,ISO3166_1
+Country,LA,ISO3166_1
+Country,LV,ISO3166_1
+Country,LB,ISO3166_1
+Country,LS,ISO3166_1
+Country,LR,ISO3166_1
+Country,LY,ISO3166_1
+Country,LI,ISO3166_1
+Country,LT,ISO3166_1
+Country,LU,ISO3166_1
+Country,MO,ISO3166_1
+Country,MK,ISO3166_1
+Country,MG,ISO3166_1
+Country,MW,ISO3166_1
+Country,MY,ISO3166_1
+Country,MV,ISO3166_1
+Country,ML,ISO3166_1
+Country,MT,ISO3166_1
+Country,MH,ISO3166_1
+Country,MQ,ISO3166_1
+Country,MR,ISO3166_1
+Country,MU,ISO3166_1
+Country,YT,ISO3166_1
+Country,MX,ISO3166_1
+Country,FM,ISO3166_1
+Country,MD,ISO3166_1
+Country,MC,ISO3166_1
+Country,MN,ISO3166_1
+Respiratory viruses,243633006,SCT
+Respiratory viruses,74871001,SCT
+Respiratory viruses,53349007,SCT
+Respiratory viruses,54435006,SCT
+Respiratory viruses,30490000,SCT
+Respiratory viruses,23376009,SCT
+Respiratory viruses,37443004,SCT
+Respiratory viruses,7479004,SCT
+Respiratory viruses,33974008,SCT
+Respiratory viruses,62313001,SCT
+Respiratory viruses,9141005,SCT
+Respiratory viruses,10722007,SCT
+Respiratory viruses,49787000,SCT
+Respiratory viruses,81190003,SCT
+Respiratory viruses,74922007,SCT
+Respiratory viruses,85158000,SCT
+Respiratory viruses,19493000,SCT
+Respiratory viruses,42084002,SCT
+Respiratory viruses,15030000,SCT
+Respiratory viruses,5488007,SCT
+Respiratory viruses,73993004,SCT
+Respiratory viruses,89860009,SCT
+Respiratory viruses,22212008,SCT
+Respiratory viruses,66122005,SCT
+Respiratory viruses,1098002,SCT
+Respiratory viruses,41476007,SCT
+Respiratory viruses,12612001,SCT
+Respiratory viruses,85881001,SCT
+Respiratory viruses,15646009,SCT
+Respiratory viruses,65003007,SCT
+Respiratory viruses,32522009,SCT
+Respiratory viruses,90717001,SCT
+Respiratory viruses,91125002,SCT
+Respiratory viruses,79804005,SCT
+Respiratory viruses,90336009,SCT
+Respiratory viruses,23684001,SCT
+Respiratory viruses,68883008,SCT
+Respiratory viruses,58445002,SCT
+Respiratory viruses,30840007,SCT
+Respiratory viruses,38889001,SCT
+Respiratory viruses,23831003,SCT
+Respiratory viruses,6771007,SCT
+Respiratory viruses,72597004,SCT
+Respiratory viruses,83593001,SCT
+Respiratory viruses,72877003,SCT
+Respiratory viruses,55982000,SCT
+Respiratory viruses,86886003,SCT
+Respiratory viruses,38219001,SCT
+Respiratory viruses,24071003,SCT
+Respiratory viruses,74924008,SCT
+Respiratory viruses,1293004,SCT
+Respiratory viruses,3096006,SCT
+Respiratory viruses,49018005,SCT
+Respiratory viruses,82059001,SCT
+Respiratory viruses,27555004,SCT
+Respiratory viruses,89585007,SCT
+Respiratory viruses,41988004,SCT
+Respiratory viruses,62408001,SCT
+Respiratory viruses,48171002,SCT
+Respiratory viruses,243579005,SCT
+Respiratory viruses,39164004,SCT
+Respiratory viruses,36204005,SCT
+Respiratory viruses,37870004,SCT
+Respiratory viruses,58657002,SCT
+Respiratory viruses,15652005,SCT
+Respiratory viruses,74305002,SCT
+Respiratory viruses,50346001,SCT
+Respiratory viruses,70855006,SCT
+Respiratory viruses,21813007,SCT
+Respiratory viruses,19319001,SCT
+Respiratory viruses,82519006,SCT
+Respiratory viruses,21206001,SCT
+Respiratory viruses,74533001,SCT
+Respiratory viruses,12842000,SCT
+Respiratory viruses,7746003,SCT
+Respiratory viruses,75565006,SCT
+Respiratory viruses,91072000,SCT
+Respiratory viruses,264887000,SCT
+Respiratory viruses,106551006,SCT
+Respiratory viruses,5210005,SCT
+Respiratory viruses,123840003,SCT
+Respiratory viruses,125159002,SCT
+Respiratory viruses,281273001,SCT
+Respiratory viruses,125154007,SCT
+Respiratory viruses,373121007,SCT
+Respiratory viruses,373068000,SCT
+Respiratory viruses,417831002,SCT
+Respiratory viruses,446613002,SCT
+Respiratory viruses,260385009,SCT
+Respiratory viruses,10828004,SCT
+Results PLT103,42425007,SCT
+Results PLT103,419984006,SCT
+Results PLT171,419984006,SCT
+Results PLT171,941000124100,SCT
+Results PLT171,951000124103,SCT
+Results PLT171,281267002,SCT
+Results PLT171,407479009,SCT
+Results PLT171,446396002,SCT
+Results PLT171,221000124104,SCT
+Results PLT171,446645007,SCT
+Results PLT171,446648009,SCT
+Results PLT171,407480007,SCT
+Results PLT171,427672003,SCT
+Results PLT171,426959005,SCT
+Results PLT171,260415000,SCT
+Results PLT171,123840003,SCT
+Results PLT171,125159002,SCT
+Results PLT171,281273001,SCT
+Results PLT171,125154007,SCT
+Results PLT171,373121007,SCT
+Results PLT196,419984006,SCT
+Results PLT196,941000124100,SCT
+Results PLT196,951000124103,SCT
+Results PLT196,281267002,SCT
+Results PLT196,407479009,SCT
+Results PLT196,446396002,SCT
+Results PLT196,221000124104,SCT
+Results PLT196,446645007,SCT
+Results PLT196,446648009,SCT
+Results PLT196,260415000,SCT
+Results PLT196,123840003,SCT
+Results PLT196,125159002,SCT
+Results PLT196,281273001,SCT
+Results PLT196,125154007,SCT
+Results PLT196,373121007,SCT
+Sample type tested results,119303007,SCT
+Sample type tested results,123038009,SCT
+Target PCR result,260373001,SCT
+Target PCR result,419984006,SCT
+Target PCR result,281267002,SCT
+Target PCR result,260415000,SCT
+Target PCR result,123840003,SCT
+Target PCR result,125159002,SCT
+Target PCR result,281273001,SCT
+Target PCR result,125154007,SCT
+Target PCR result,373121007,SCT
+Country,AF,ISO3166_1
+Country,AX,ISO3166_1
+Country,AL,ISO3166_1
+Country,DZ,ISO3166_1
+Country,AS,ISO3166_1
+Country,AD,ISO3166_1
+Country,AO,ISO3166_1
+Country,AI,ISO3166_1
+Country,AQ,ISO3166_1
+Country,AG,ISO3166_1
+Country,AR,ISO3166_1
+Country,AM,ISO3166_1
+Country,AW,ISO3166_1
+Country,AU,ISO3166_1
+Country,AT,ISO3166_1
+Country,AZ,ISO3166_1
+Country,BS,ISO3166_1
+Country,BH,ISO3166_1
+Country,BD,ISO3166_1
+Country,BB,ISO3166_1
+Country,BY,ISO3166_1
+Country,BE,ISO3166_1
+Country,BZ,ISO3166_1
+Country,BJ,ISO3166_1
+Country,BM,ISO3166_1
+Country,BT,ISO3166_1
+Country,BO,ISO3166_1
+Country,BA,ISO3166_1
+Country,BW,ISO3166_1
+Country,BV,ISO3166_1
+Country,BR,ISO3166_1
+Country,IO,ISO3166_1
+Country,BN,ISO3166_1
+Country,BG,ISO3166_1
+Country,BF,ISO3166_1
+Country,BI,ISO3166_1
+Country,KH,ISO3166_1
+Country,CM,ISO3166_1
+Country,CA,ISO3166_1
+Country,CV,ISO3166_1
+Country,KY,ISO3166_1
+Country,CF,ISO3166_1
+Country,TD,ISO3166_1
+Country,CL,ISO3166_1
+Country,CN,ISO3166_1
+Country,CX,ISO3166_1
+Country,CC,ISO3166_1
+Country,CO,ISO3166_1
+Country,KM,ISO3166_1
+Country,CG,ISO3166_1
+Country,CD,ISO3166_1
+Country,CK,ISO3166_1
+Country,CR,ISO3166_1
+Country,CI,ISO3166_1
+Country,HR,ISO3166_1
+Country,CU,ISO3166_1
+Country,CY,ISO3166_1
+Country,CZ,ISO3166_1
+Country,DK,ISO3166_1
+Country,DJ,ISO3166_1
+Country,DM,ISO3166_1
+Country,DO,ISO3166_1
+Country,EC,ISO3166_1
+Country,EG,ISO3166_1
+Country,SV,ISO3166_1
+Country,GQ,ISO3166_1
+Country,ER,ISO3166_1
+Country,EE,ISO3166_1
+Country,ET,ISO3166_1
+Country,FK,ISO3166_1
+Country,FO,ISO3166_1
+Country,FJ,ISO3166_1
+Country,FI,ISO3166_1
+Country,FR,ISO3166_1
+Country,GF,ISO3166_1
+Country,PF,ISO3166_1
+Country,TF,ISO3166_1
+Country,GA,ISO3166_1
+Country,GM,ISO3166_1
+Country,GE,ISO3166_1
+Country,DE,ISO3166_1
+Country,GH,ISO3166_1
+Country,GI,ISO3166_1
+Country,ME,ISO3166_1
+Country,MS,ISO3166_1
+Country,MA,ISO3166_1
+Country,MZ,ISO3166_1
+Country,MM,ISO3166_1
+Country,NA,ISO3166_1
+Country,NR,ISO3166_1
+Country,NP,ISO3166_1
+Country,NL,ISO3166_1
+Country,AN,ISO3166_1
+Country,NC,ISO3166_1
+Country,NZ,ISO3166_1
+Country,NI,ISO3166_1
+Country,NE,ISO3166_1
+Country,NG,ISO3166_1
+Country,NU,ISO3166_1
+Country,NF,ISO3166_1
+Country,MP,ISO3166_1
+Country,NO,ISO3166_1
+Country,OM,ISO3166_1
+Country,PK,ISO3166_1
+Country,PW,ISO3166_1
+Country,PS,ISO3166_1
+Country,PA,ISO3166_1
+Country,PG,ISO3166_1
+Country,PY,ISO3166_1
+Country,PE,ISO3166_1
+Country,PH,ISO3166_1
+Country,PN,ISO3166_1
+Country,PL,ISO3166_1
+Country,PT,ISO3166_1
+Country,PR,ISO3166_1
+Country,QA,ISO3166_1
+Country,RE,ISO3166_1
+Country,RO,ISO3166_1
+Country,RU,ISO3166_1
+Country,RW,ISO3166_1
+Country,SH,ISO3166_1
+Country,KN,ISO3166_1
+Country,LC,ISO3166_1
+Country,PM,ISO3166_1
+Country,VC,ISO3166_1
+Country,WS,ISO3166_1
+Country,SM,ISO3166_1
+Country,ST,ISO3166_1
+Country,SA,ISO3166_1
+Country,SN,ISO3166_1
+Country,RS,ISO3166_1
+Country,SC,ISO3166_1
+Country,SL,ISO3166_1
+Country,SG,ISO3166_1
+Country,SK,ISO3166_1
+Country,SI,ISO3166_1
+Country,SB,ISO3166_1
+Country,SO,ISO3166_1
+Country,ZA,ISO3166_1
+Country,GS,ISO3166_1
+Country,ES,ISO3166_1
+Country,LK,ISO3166_1
+Country,SD,ISO3166_1
+Country,SR,ISO3166_1
+Country,SJ,ISO3166_1
+Country,SZ,ISO3166_1
+Country,SE,ISO3166_1
+Country,CH,ISO3166_1
+Country,SY,ISO3166_1
+Country,TW,ISO3166_1
+Country,TJ,ISO3166_1
+Country,TZ,ISO3166_1
+Country,TH,ISO3166_1
+Country,TL,ISO3166_1
+Country,TG,ISO3166_1
+Country,TK,ISO3166_1
+Country,TO,ISO3166_1
+Country,TT,ISO3166_1
+Country,TN,ISO3166_1
+Country,TR,ISO3166_1
+Country,TM,ISO3166_1
+Country,TC,ISO3166_1
+Country,TV,ISO3166_1
+Country,UG,ISO3166_1
+Country,UA,ISO3166_1
+Country,AE,ISO3166_1
+Country,GB,ISO3166_1
+Country,US,ISO3166_1
+Country,UM,ISO3166_1
+Country,UY,ISO3166_1
+Country,UZ,ISO3166_1
+Country,VU,ISO3166_1
+Country,VE,ISO3166_1
+Country,VN,ISO3166_1
+Country,VG,ISO3166_1
+Country,VI,ISO3166_1
+Country,WF,ISO3166_1
+Country,EH,ISO3166_1
+Country,YE,ISO3166_1
+Country,ZM,ISO3166_1
+Country,ZW,ISO3166_1
+Ethnicity,H,HL70189
+Ethnicity,N,HL70189
+Ethnicity,U,HL70189
+PCR Commercial Conclusion result,260373001,SCT
+PCR Commercial Conclusion result,419984006,SCT
+PCR Commercial Conclusion result,260415000,SCT
+PCR Commercial Conclusion result,125154007,SCT
+PCR Commercial Conclusion result,720735008,SCT
+PCR Commercial Conclusion result,455371000124106,SCT
+PCR Commercial Conclusion result,10828004,SCT
+PCR Commercial Conclusion result,260385009,SCT
+IA result,10828004,SCT
+IA result,260408008,SCT
+IA result,260385009,SCT
+IA result,82334004,SCT
+IA result,42425007,SCT
+Respiratory pathogen PCR,840533007,SCT
+Symptom,49727002,SCT
+Symptom,426000000,SCT
+Symptom,267036007,SCT
+Symptom,84229001,SCT
+Symptom,25064002,SCT
+Symptom,62315008,SCT
+Symptom,103001002,SCT
+Symptom,43724002,SCT
+Symptom,230145002,SCT
+Symptom,68962001,SCT
+Symptom,36955009,SCT
+Symptom,44169009,SCT
+Symptom,162397003,SCT
+Symptom,68235000,SCT
+Symptom,64531003,SCT
+Symptom,422587007,SCT
+Respiratory pathogen PCR,716254000,SCT
+Respiratory pathogen PCR,716255004,SCT
+Respiratory viruses,716255004,SCT
+Respiratory viruses,49872002,SCT
+SARS-CoV-2 variant lineage,OTH,NULLFL
+Flu A H subtype,260415000,SCT
+Respiratory viruses,57421000284105,SCT
+Gastrointestinal pathogens,61221000284108,SCT
+Gastrointestinal pathogens,33160002,SCT
+Gastrointestinal pathogens,35408001,SCT
+Gastrointestinal pathogens,83821001,SCT
+Gastrointestinal pathogens,103561005,SCT
+Gastrointestinal pathogens,4716008,SCT
+Gastrointestinal pathogens,407166006,SCT
+Gastrointestinal pathogens,116394005,SCT
+Gastrointestinal pathogens,116397003,SCT
+Gastrointestinal pathogens,83285000,SCT
+Gastrointestinal pathogens,116396007,SCT
+Gastrointestinal pathogens,78181009,SCT
+Gastrointestinal pathogens,407359000,SCT
+Gastrointestinal pathogens,38643006,SCT
+Gastrointestinal pathogens,416138003,SCT
+Gastrointestinal pathogens,27268008,SCT
+Gastrointestinal pathogens,407362002,SCT
+Gastrointestinal pathogens,838549008,SCT
+Gastrointestinal pathogens,34872001,SCT
+Gastrointestinal pathogens,75953000,SCT
+Gastrointestinal pathogens,65255000,SCT
+Gastrointestinal pathogens,260415000,SCT
+Gastrointestinal pathogens,455371000124106,SCT
+Gastrointestinal pathogens,373121007,SCT
+Respiratory viruses,423043004,SCT
+Respiratory viruses,422793002,SCT
+Respiratory viruses,422982005,SCT
+Respiratory viruses,428234001,SCT
+Respiratory viruses,34561000284106,SCT
+Respiratory viruses,34631000284102,SCT
+Respiratory viruses,34711000284104,SCT
+Respiratory viruses,43801000284106,SCT
+Respiratory viruses,33101000284104,SCT
+Respiratory viruses,33111000284102,SCT
+Respiratory viruses,43741000284104,SCT
+Respiratory viruses,43751000284101,SCT
+Respiratory viruses,4821000284108,SCT
+Respiratory viruses,33211000284108,SCT
+Respiratory viruses,33231000284102,SCT
+Respiratory viruses,43761000284103,SCT
+Respiratory viruses,43791000284107,SCT
+Respiratory viruses,43811000284108,SCT
+Respiratory viruses,43781000284105,SCT
+Respiratory pathogen PCR,423043004,SCT
+Respiratory pathogen PCR,422793002,SCT
+Respiratory pathogen PCR,422982005,SCT
+Respiratory pathogen PCR,428234001,SCT
+Respiratory pathogen PCR,34561000284106,SCT
+Respiratory pathogen PCR,34631000284102,SCT
+Respiratory pathogen PCR,34711000284104,SCT
+Respiratory pathogen PCR,43801000284106,SCT
+Respiratory pathogen PCR,33101000284104,SCT
+Respiratory pathogen PCR,33111000284102,SCT
+Respiratory pathogen PCR,43741000284104,SCT
+Respiratory pathogen PCR,43751000284101,SCT
+Respiratory pathogen PCR,4821000284108,SCT
+Respiratory pathogen PCR,33211000284108,SCT
+Respiratory pathogen PCR,33231000284102,SCT
+Respiratory pathogen PCR,43761000284103,SCT
+Respiratory pathogen PCR,43791000284107,SCT
+Respiratory pathogen PCR,43811000284108,SCT
+Respiratory pathogen PCR,43781000284105,SCT
+Flu A H subtype,66661000284106,SCT
+Results PLT171,66661000284106,SCT
+Results PLT196,66661000284106,SCT
+Target PCR result,455371000124106,SCT
+Respiratory viruses,3551000284101,SCT
+Respiratory viruses,191000284100,SCT
+Respiratory viruses,453931000124108,SCT
+Respiratory viruses,211000284101,SCT
+Respiratory viruses,438391000124101,SCT
+Respiratory viruses,1441000284102,SCT
+Respiratory viruses,43741000284104,SCT
+Respiratory viruses,2491000284101,SCT
+Respiratory viruses,43751000284101,SCT
+Respiratory viruses,43761000284103,SCT
+Respiratory viruses,43771000284108,SCT
+Respiratory viruses,43781000284105,SCT
+Respiratory viruses,43791000284107,SCT
+Respiratory viruses,43801000284106,SCT
+Respiratory viruses,43811000284108,SCT
+Respiratory viruses,43821000284104,SCT
+Respiratory viruses,43831000284102,SCT
+Respiratory viruses,43841000284109,SCT
+Respiratory viruses,43851000284107,SCT
+Respiratory viruses,33101000284104,SCT
+Respiratory viruses,33111000284102,SCT
+Respiratory viruses,43881000284103,SCT
+Respiratory viruses,43891000284101,SCT
+Respiratory viruses,43901000284100,SCT
+Respiratory viruses,43911000284103,SCT
+Respiratory viruses,33211000284108,SCT
+Respiratory viruses,33221000284104,SCT
+Respiratory viruses,33231000284102,SCT
+Respiratory viruses,43961000284101,SCT
+Respiratory viruses,44051000284101,SCT
+Respiratory viruses,44061000284103,SCT
+Respiratory viruses,44071000284108,SCT
+Respiratory viruses,44081000284105,SCT
+Respiratory viruses,44091000284107,SCT
+Respiratory viruses,44101000284101,SCT
+Respiratory viruses,44111000284104,SCT
+Respiratory viruses,44121000284108,SCT
+Respiratory viruses,44131000284105,SCT
+Respiratory viruses,44141000284103,SCT
+Respiratory viruses,44151000284100,SCT
+Respiratory viruses,44161000284102,SCT
+Respiratory viruses,44171000284107,SCT
+Respiratory viruses,44181000284109,SCT
+Respiratory viruses,44191000284106,SCT
+Respiratory viruses,44201000284108,SCT
+Respiratory viruses,44211000284105,SCT
+Respiratory viruses,44221000284101,SCT
+Respiratory viruses,44231000284104,SCT
+Respiratory viruses,44241000284106,SCT
+Respiratory viruses,44251000284109,SCT
+Respiratory viruses,44261000284107,SCT
+Respiratory viruses,44271000284102,SCT
+Respiratory viruses,44281000284100,SCT
+Respiratory viruses,44291000284103,SCT
+Respiratory viruses,44301000284104,SCT
+Respiratory viruses,44311000284102,SCT
+Respiratory viruses,44321000284106,SCT
+Respiratory viruses,44331000284108,SCT
+Respiratory viruses,44341000284101,SCT
+Respiratory viruses,44351000284103,SCT
+Respiratory viruses,44361000284100,SCT
+Respiratory viruses,44371000284105,SCT
+Respiratory viruses,44381000284107,SCT
+Respiratory viruses,44391000284109,SCT
+Respiratory viruses,44401000284107,SCT
+Respiratory viruses,44411000284109,SCT
+Respiratory viruses,44421000284100,SCT
+Respiratory viruses,44431000284103,SCT
+Respiratory viruses,44441000284105,SCT
+Respiratory viruses,44451000284108,SCT
+Respiratory viruses,44461000284106,SCT
+Respiratory viruses,44471000284101,SCT
+Respiratory viruses,44481000284104,SCT
+Respiratory viruses,44491000284102,SCT
+Respiratory viruses,44501000284106,SCT
+Respiratory viruses,44511000284108,SCT
+Respiratory viruses,44521000284104,SCT
+Respiratory viruses,44531000284102,SCT
+Respiratory viruses,44541000284109,SCT
+Respiratory viruses,44551000284107,SCT
+Respiratory viruses,44561000284105,SCT
+Respiratory viruses,44571000284100,SCT
+Respiratory viruses,44581000284103,SCT
+Respiratory viruses,44591000284101,SCT
+Respiratory viruses,44601000284105,SCT
+Respiratory viruses,44611000284107,SCT
+Respiratory viruses,44621000284103,SCT
+Respiratory viruses,44631000284101,SCT
+Respiratory viruses,44641000284108,SCT
+Respiratory viruses,44651000284106,SCT
+Respiratory viruses,44661000284109,SCT
+Respiratory viruses,44671000284104,SCT
+Respiratory viruses,44681000284102,SCT
+Respiratory viruses,44691000284100,SCT
+Respiratory viruses,44701000284100,SCT
+Respiratory viruses,44711000284103,SCT
+Respiratory viruses,44721000284107,SCT
+Respiratory viruses,44731000284109,SCT
+Respiratory viruses,44741000284102,SCT
+Respiratory viruses,44751000284104,SCT
+Flu viruses,111000284107,SCT
+Flu viruses,121000284103,SCT
+Flu viruses,131000284101,SCT
+Flu viruses,141000284108,SCT
+Flu viruses,151000284106,SCT
+Flu viruses,161000284109,SCT
+Flu viruses,41000284101,SCT
+Flu viruses,81000284107,SCT
+Flu viruses,191000284100,SCT
+Flu viruses,61000284100,SCT
+Flu viruses,1441000284102,SCT
+Flu A H subtype,111000284107,SCT
+Flu A H subtype,121000284103,SCT
+Flu A H subtype,131000284101,SCT
+Flu A H subtype,141000284108,SCT
+Flu A H subtype,151000284106,SCT
+Flu A H subtype,161000284109,SCT
+Flu A H subtype,41000284101,SCT
+Flu A H subtype,81000284107,SCT
+Flu A H subtype,191000284100,SCT
+Flu A H subtype,61000284100,SCT
+Flu A H subtype,1441000284102,SCT
+Flu A H subtype,1591000284106,SCT
+Respiratory pathogen PCR,3551000284101,SCT
+Respiratory pathogen PCR,4561000284100,SCT
+Respiratory pathogen PCR,4571000284105,SCT
+Respiratory pathogen PCR,4501000284104,SCT
+Respiratory pathogen PCR,4511000284102,SCT
+Respiratory pathogen PCR,4521000284106,SCT
+Respiratory pathogen PCR,4611000284103,SCT
+Respiratory pathogen PCR,4581000284107,SCT
+Respiratory pathogen PCR,4591000284109,SCT
+Respiratory pathogen PCR,4601000284100,SCT
+Respiratory pathogen PCR,4531000284108,SCT
+Respiratory pathogen PCR,4541000284101,SCT
+Respiratory pathogen PCR,4551000284103,SCT
+Respiratory pathogen PCR,43741000284104,SCT
+Respiratory pathogen PCR,43751000284101,SCT
+Respiratory pathogen PCR,43761000284103,SCT
+Respiratory pathogen PCR,43781000284105,SCT
+Respiratory pathogen PCR,43791000284107,SCT
+Respiratory pathogen PCR,43801000284106,SCT
+Respiratory pathogen PCR,43811000284108,SCT
+Respiratory pathogen PCR,43821000284104,SCT
+Respiratory pathogen PCR,43831000284102,SCT
+Respiratory pathogen PCR,43841000284109,SCT
+Respiratory pathogen PCR,43851000284107,SCT
+Respiratory pathogen PCR,33101000284104,SCT
+Respiratory pathogen PCR,33111000284102,SCT
+Respiratory pathogen PCR,43881000284103,SCT
+Respiratory pathogen PCR,43891000284101,SCT
+Respiratory pathogen PCR,43901000284100,SCT
+Respiratory pathogen PCR,43911000284103,SCT
+Respiratory pathogen PCR,33211000284108,SCT
+Respiratory pathogen PCR,33221000284104,SCT
+Respiratory pathogen PCR,33231000284102,SCT
+Respiratory pathogen PCR,43961000284101,SCT
+Respiratory pathogen PCR,44051000284101,SCT
+Respiratory pathogen PCR,44061000284103,SCT
+Respiratory pathogen PCR,44071000284108,SCT
+Respiratory pathogen PCR,44081000284105,SCT
+Respiratory pathogen PCR,44091000284107,SCT
+Respiratory pathogen PCR,44101000284101,SCT
+Respiratory pathogen PCR,44111000284104,SCT
+Respiratory pathogen PCR,44121000284108,SCT
+Respiratory pathogen PCR,44131000284105,SCT
+Respiratory pathogen PCR,44141000284103,SCT
+Respiratory pathogen PCR,44151000284100,SCT
+Respiratory pathogen PCR,44161000284102,SCT
+Respiratory pathogen PCR,44171000284107,SCT
+Respiratory pathogen PCR,44181000284109,SCT
+Respiratory pathogen PCR,44191000284106,SCT
+Respiratory pathogen PCR,44201000284108,SCT
+Respiratory pathogen PCR,44211000284105,SCT
+Respiratory pathogen PCR,44221000284101,SCT
+Respiratory pathogen PCR,44231000284104,SCT
+Respiratory pathogen PCR,44241000284106,SCT
+Respiratory pathogen PCR,44251000284109,SCT
+Respiratory pathogen PCR,44261000284107,SCT
+Respiratory pathogen PCR,44271000284102,SCT
+Respiratory pathogen PCR,44281000284100,SCT
+Respiratory pathogen PCR,44291000284103,SCT
+Respiratory pathogen PCR,44301000284104,SCT
+Respiratory pathogen PCR,44311000284102,SCT
+Respiratory pathogen PCR,44321000284106,SCT
+Respiratory pathogen PCR,44331000284108,SCT
+Respiratory pathogen PCR,44341000284101,SCT
+Respiratory pathogen PCR,44351000284103,SCT
+Respiratory pathogen PCR,44361000284100,SCT
+Respiratory pathogen PCR,44371000284105,SCT
+Respiratory pathogen PCR,44381000284107,SCT
+Respiratory pathogen PCR,44391000284109,SCT
+Respiratory pathogen PCR,44401000284107,SCT
+Respiratory pathogen PCR,44411000284109,SCT
+Respiratory pathogen PCR,44421000284100,SCT
+Respiratory pathogen PCR,44431000284103,SCT
+Respiratory pathogen PCR,44441000284105,SCT
+Respiratory pathogen PCR,44451000284108,SCT
+Respiratory pathogen PCR,44461000284106,SCT
+Respiratory pathogen PCR,44471000284101,SCT
+Respiratory pathogen PCR,44481000284104,SCT
+Respiratory pathogen PCR,44491000284102,SCT
+Respiratory pathogen PCR,44501000284106,SCT
+Respiratory pathogen PCR,44511000284108,SCT
+Respiratory pathogen PCR,44521000284104,SCT
+Respiratory pathogen PCR,44531000284102,SCT
+Respiratory pathogen PCR,44541000284109,SCT
+Respiratory pathogen PCR,44551000284107,SCT
+Respiratory pathogen PCR,44561000284105,SCT
+Respiratory pathogen PCR,44571000284100,SCT
+Respiratory pathogen PCR,44581000284103,SCT
+Respiratory pathogen PCR,44591000284101,SCT
+Respiratory pathogen PCR,44601000284105,SCT
+Respiratory pathogen PCR,44611000284107,SCT
+Respiratory pathogen PCR,44621000284103,SCT
+Respiratory pathogen PCR,44631000284101,SCT
+Respiratory pathogen PCR,44641000284108,SCT
+Respiratory pathogen PCR,44651000284106,SCT
+Respiratory pathogen PCR,44661000284109,SCT
+Respiratory pathogen PCR,44671000284104,SCT
+Respiratory pathogen PCR,44681000284102,SCT
+Respiratory pathogen PCR,44691000284100,SCT
+Respiratory pathogen PCR,44701000284100,SCT
+Respiratory pathogen PCR,44711000284103,SCT
+Respiratory pathogen PCR,44721000284107,SCT
+Respiratory pathogen PCR,44731000284109,SCT
+Respiratory pathogen PCR,44741000284102,SCT
+Respiratory pathogen PCR,44751000284104,SCT
+Results PLT196,3641000284100,SCT
+Results PLT196,191000284100,SCT
+Results PLT196,1441000284102,SCT
+Results PLT196,1591000284106,SCT
+Results PLT171,3641000284100,SCT
+Results PLT171,2191000284105,SCT
+Results PLT171,191000284100,SCT
+Results PLT171,1441000284102,SCT
+Results PLT171,1591000284106,SCT
+Flu B lineage PCR,3641000284100,SCT
+Flu B lineage PCR,2191000284105,SCT
+Program list,1361000284107,SCT
+Program list,1351000284109,SCT
+Program list,443684005,SCT
+Pre-screen results,191000284100,SCT
+Pre-screen results,25801000284108,SCT
+Pre-screen results,2491000284101,SCT
+Pre-screen method,2501000284105,SCT
+HAI results,3651000284102,SCT
+Pyro results,1001000284105,SCT
+Pyro results,1011000284107,SCT
+Pyro results,861000284103,SCT
+Pyro results,871000284108,SCT
+Pyro results,891000284107,SCT
+Pyro results,931000284104,SCT
+Pyro results,941000284106,SCT
+Pyro results,921000284101,SCT
+Pyro results,911000284105,SCT
+Pyro results,901000284108,SCT
+Pyro results,1061000284109,SCT
+Pyro results,1071000284104,SCT
+Pyro results,1031000284101,SCT
+Pyro results,1041000284108,SCT
+SARS-CoV-2 variant lineage,44991000284108,SCT
+SARS-CoV-2 variant lineage,44781000284108,SCT
+SARS-CoV-2 variant lineage,45001000284103,SCT
+SARS-CoV-2 variant lineage,45011000284101,SCT
+SARS-CoV-2 variant lineage,45021000284105,SCT
+SARS-CoV-2 variant lineage,45031000284107,SCT
+SARS-CoV-2 variant lineage,45041000284100,SCT
+SARS-CoV-2 variant lineage,44901000284103,SCT
+SARS-CoV-2 variant lineage,44791000284105,SCT
+SARS-CoV-2 variant lineage,45051000284102,SCT
+SARS-CoV-2 variant lineage,45061000284104,SCT
+SARS-CoV-2 variant lineage,45071000284109,SCT
+SARS-CoV-2 variant lineage,45081000284106,SCT
+SARS-CoV-2 variant lineage,45091000284108,SCT
+SARS-CoV-2 variant lineage,45101000284102,SCT
+SARS-CoV-2 variant lineage,45111000284100,SCT
+SARS-CoV-2 variant lineage,45121000284109,SCT
+SARS-CoV-2 variant lineage,43971000284106,SCT
+SARS-CoV-2 variant lineage,45131000284106,SCT
+SARS-CoV-2 variant lineage,45141000284104,SCT
+SARS-CoV-2 variant lineage,44801000284109,SCT
+SARS-CoV-2 variant lineage,45151000284101,SCT
+SARS-CoV-2 variant lineage,45161000284103,SCT
+SARS-CoV-2 variant lineage,45171000284108,SCT
+SARS-CoV-2 variant lineage,45181000284105,SCT
+SARS-CoV-2 variant lineage,45191000284107,SCT
+SARS-CoV-2 variant lineage,45201000284109,SCT
+SARS-CoV-2 variant lineage,45211000284106,SCT
+SARS-CoV-2 variant lineage,45221000284102,SCT
+SARS-CoV-2 variant lineage,45231000284100,SCT
+SARS-CoV-2 variant lineage,45241000284107,SCT
+SARS-CoV-2 variant lineage,45251000284105,SCT
+SARS-CoV-2 variant lineage,45261000284108,SCT
+SARS-CoV-2 variant lineage,45271000284103,SCT
+SARS-CoV-2 variant lineage,45281000284101,SCT
+SARS-CoV-2 variant lineage,45291000284104,SCT
+SARS-CoV-2 variant lineage,45301000284100,SCT
+SARS-CoV-2 variant lineage,45311000284103,SCT
+SARS-CoV-2 variant lineage,45321000284107,SCT
+SARS-CoV-2 variant lineage,45331000284109,SCT
+SARS-CoV-2 variant lineage,45341000284102,SCT
+SARS-CoV-2 variant lineage,45351000284104,SCT
+SARS-CoV-2 variant lineage,45361000284101,SCT
+SARS-CoV-2 variant lineage,45371000284106,SCT
+SARS-CoV-2 variant lineage,45381000284108,SCT
+SARS-CoV-2 variant lineage,45391000284105,SCT
+SARS-CoV-2 variant lineage,45401000284108,SCT
+SARS-CoV-2 variant lineage,45411000284105,SCT
+SARS-CoV-2 variant lineage,45421000284101,SCT
+SARS-CoV-2 variant lineage,45431000284104,SCT
+SARS-CoV-2 variant lineage,45441000284106,SCT
+SARS-CoV-2 variant lineage,45451000284109,SCT
+SARS-CoV-2 variant lineage,45461000284107,SCT
+SARS-CoV-2 variant lineage,45471000284102,SCT
+SARS-CoV-2 variant lineage,45481000284100,SCT
+SARS-CoV-2 variant lineage,45491000284103,SCT
+SARS-CoV-2 variant lineage,45501000284107,SCT
+SARS-CoV-2 variant lineage,45511000284109,SCT
+SARS-CoV-2 variant lineage,45521000284100,SCT
+SARS-CoV-2 variant lineage,45531000284103,SCT
+SARS-CoV-2 variant lineage,44841000284107,SCT
+SARS-CoV-2 variant lineage,45541000284105,SCT
+SARS-CoV-2 variant lineage,43661000284106,SCT
+SARS-CoV-2 variant lineage,45551000284108,SCT
+SARS-CoV-2 variant lineage,45561000284106,SCT
+SARS-CoV-2 variant lineage,45571000284101,SCT
+SARS-CoV-2 variant lineage,45581000284104,SCT
+SARS-CoV-2 variant lineage,45591000284102,SCT
+SARS-CoV-2 variant lineage,45601000284106,SCT
+SARS-CoV-2 variant lineage,45611000284108,SCT
+SARS-CoV-2 variant lineage,45621000284104,SCT
+SARS-CoV-2 variant lineage,45631000284102,SCT
+SARS-CoV-2 variant lineage,45641000284109,SCT
+SARS-CoV-2 variant lineage,45651000284107,SCT
+SARS-CoV-2 variant lineage,45661000284105,SCT
+SARS-CoV-2 variant lineage,45671000284100,SCT
+SARS-CoV-2 variant lineage,45681000284103,SCT
+SARS-CoV-2 variant lineage,45691000284101,SCT
+SARS-CoV-2 variant lineage,44811000284106,SCT
+SARS-CoV-2 variant lineage,45701000284101,SCT
+SARS-CoV-2 variant lineage,45711000284104,SCT
+SARS-CoV-2 variant lineage,45721000284108,SCT
+SARS-CoV-2 variant lineage,44851000284105,SCT
+SARS-CoV-2 variant lineage,45731000284105,SCT
+SARS-CoV-2 variant lineage,45741000284103,SCT
+SARS-CoV-2 variant lineage,45751000284100,SCT
+SARS-CoV-2 variant lineage,44861000284108,SCT
+SARS-CoV-2 variant lineage,45761000284102,SCT
+SARS-CoV-2 variant lineage,45771000284107,SCT
+SARS-CoV-2 variant lineage,44821000284102,SCT
+SARS-CoV-2 variant lineage,45781000284109,SCT
+SARS-CoV-2 variant lineage,45791000284106,SCT
+SARS-CoV-2 variant lineage,45801000284105,SCT
+SARS-CoV-2 variant lineage,45811000284107,SCT
+SARS-CoV-2 variant lineage,45821000284103,SCT
+SARS-CoV-2 variant lineage,45831000284101,SCT
+SARS-CoV-2 variant lineage,45841000284108,SCT
+SARS-CoV-2 variant lineage,45851000284106,SCT
+SARS-CoV-2 variant lineage,45861000284109,SCT
+SARS-CoV-2 variant lineage,45871000284104,SCT
+SARS-CoV-2 variant lineage,45881000284102,SCT
+SARS-CoV-2 variant lineage,45891000284100,SCT
+SARS-CoV-2 variant lineage,45901000284104,SCT
+SARS-CoV-2 variant lineage,43671000284101,SCT
+SARS-CoV-2 variant lineage,43981000284108,SCT
+SARS-CoV-2 variant lineage,43991000284105,SCT
+SARS-CoV-2 variant lineage,44971000284109,SCT
+SARS-CoV-2 variant lineage,45911000284102,SCT
+SARS-CoV-2 variant lineage,45921000284106,SCT
+SARS-CoV-2 variant lineage,45931000284108,SCT
+SARS-CoV-2 variant lineage,45941000284101,SCT
+SARS-CoV-2 variant lineage,45951000284103,SCT
+SARS-CoV-2 variant lineage,45961000284100,SCT
+SARS-CoV-2 variant lineage,45971000284105,SCT
+SARS-CoV-2 variant lineage,45981000284107,SCT
+SARS-CoV-2 variant lineage,45991000284109,SCT
+SARS-CoV-2 variant lineage,46001000284108,SCT
+SARS-CoV-2 variant lineage,46011000284105,SCT
+SARS-CoV-2 variant lineage,46021000284101,SCT
+SARS-CoV-2 variant lineage,46031000284104,SCT
+SARS-CoV-2 variant lineage,46041000284106,SCT
+SARS-CoV-2 variant lineage,46051000284109,SCT
+SARS-CoV-2 variant lineage,46061000284107,SCT
+SARS-CoV-2 variant lineage,46071000284102,SCT
+SARS-CoV-2 variant lineage,46081000284100,SCT
+SARS-CoV-2 variant lineage,46091000284103,SCT
+SARS-CoV-2 variant lineage,46101000284109,SCT
+SARS-CoV-2 variant lineage,46111000284106,SCT
+SARS-CoV-2 variant lineage,46121000284102,SCT
+SARS-CoV-2 variant lineage,46131000284100,SCT
+SARS-CoV-2 variant lineage,46141000284107,SCT
+SARS-CoV-2 variant lineage,46151000284105,SCT
+SARS-CoV-2 variant lineage,46161000284108,SCT
+SARS-CoV-2 variant lineage,46171000284103,SCT
+SARS-CoV-2 variant lineage,43711000284100,SCT
+SARS-CoV-2 variant lineage,43691000284102,SCT
+SARS-CoV-2 variant lineage,44001000284102,SCT
+SARS-CoV-2 variant lineage,46181000284101,SCT
+SARS-CoV-2 variant lineage,46191000284104,SCT
+SARS-CoV-2 variant lineage,46201000284102,SCT
+SARS-CoV-2 variant lineage,46211000284100,SCT
+SARS-CoV-2 variant lineage,46221000284109,SCT
+SARS-CoV-2 variant lineage,46231000284106,SCT
+SARS-CoV-2 variant lineage,46241000284104,SCT
+SARS-CoV-2 variant lineage,46251000284101,SCT
+SARS-CoV-2 variant lineage,46261000284103,SCT
+SARS-CoV-2 variant lineage,46271000284108,SCT
+SARS-CoV-2 variant lineage,46281000284105,SCT
+SARS-CoV-2 variant lineage,46291000284107,SCT
+SARS-CoV-2 variant lineage,46301000284106,SCT
+SARS-CoV-2 variant lineage,46311000284108,SCT
+SARS-CoV-2 variant lineage,46321000284104,SCT
+SARS-CoV-2 variant lineage,44011000284100,SCT
+SARS-CoV-2 variant lineage,43701000284102,SCT
+SARS-CoV-2 variant lineage,44021000284109,SCT
+SARS-CoV-2 variant lineage,44031000284106,SCT
+SARS-CoV-2 variant lineage,44981000284106,SCT
+SARS-CoV-2 variant lineage,46331000284102,SCT
+SARS-CoV-2 variant lineage,46341000284109,SCT
+SARS-CoV-2 variant lineage,46351000284107,SCT
+SARS-CoV-2 variant lineage,46361000284105,SCT
+SARS-CoV-2 variant lineage,46371000284100,SCT
+SARS-CoV-2 variant lineage,46381000284103,SCT
+SARS-CoV-2 variant lineage,46391000284101,SCT
+SARS-CoV-2 variant lineage,46401000284103,SCT
+SARS-CoV-2 variant lineage,46411000284101,SCT
+SARS-CoV-2 variant lineage,46421000284105,SCT
+SARS-CoV-2 variant lineage,46431000284107,SCT
+SARS-CoV-2 variant lineage,46441000284100,SCT
+SARS-CoV-2 variant lineage,46451000284102,SCT
+SARS-CoV-2 variant lineage,44871000284103,SCT
+SARS-CoV-2 variant lineage,46461000284104,SCT
+SARS-CoV-2 variant lineage,46471000284109,SCT
+SARS-CoV-2 variant lineage,46481000284106,SCT
+SARS-CoV-2 variant lineage,46491000284108,SCT
+SARS-CoV-2 variant lineage,46501000284104,SCT
+SARS-CoV-2 variant lineage,46511000284102,SCT
+SARS-CoV-2 variant lineage,46521000284106,SCT
+SARS-CoV-2 variant lineage,46531000284108,SCT
+SARS-CoV-2 variant lineage,46541000284101,SCT
+SARS-CoV-2 variant lineage,44881000284101,SCT
+SARS-CoV-2 variant lineage,46551000284103,SCT
+SARS-CoV-2 variant lineage,46561000284100,SCT
+SARS-CoV-2 variant lineage,46571000284105,SCT
+SARS-CoV-2 variant lineage,46581000284107,SCT
+SARS-CoV-2 variant lineage,46591000284109,SCT
+SARS-CoV-2 variant lineage,46601000284100,SCT
+SARS-CoV-2 variant lineage,46611000284103,SCT
+SARS-CoV-2 variant lineage,44931000284107,SCT
+SARS-CoV-2 variant lineage,44941000284100,SCT
+SARS-CoV-2 variant lineage,44951000284102,SCT
+SARS-CoV-2 variant lineage,44961000284104,SCT
+SARS-CoV-2 variant lineage,46621000284107,SCT
+SARS-CoV-2 variant lineage,46631000284109,SCT
+SARS-CoV-2 variant lineage,46641000284102,SCT
+SARS-CoV-2 variant lineage,44831000284100,SCT
+SARS-CoV-2 variant lineage,46651000284104,SCT
+SARS-CoV-2 variant lineage,46661000284101,SCT
+SARS-CoV-2 variant lineage,46671000284106,SCT
+SARS-CoV-2 variant lineage,46681000284108,SCT
+SARS-CoV-2 variant lineage,46691000284105,SCT
+SARS-CoV-2 variant lineage,46701000284105,SCT
+SARS-CoV-2 variant lineage,46711000284107,SCT
+SARS-CoV-2 variant lineage,46721000284103,SCT
+SARS-CoV-2 variant lineage,46731000284101,SCT
+SARS-CoV-2 variant lineage,43681000284104,SCT
+SARS-CoV-2 variant lineage,44911000284101,SCT
+SARS-CoV-2 variant lineage,43721000284109,SCT
+SARS-CoV-2 variant lineage,44891000284104,SCT
+SARS-CoV-2 variant lineage,46741000284108,SCT
+SARS-CoV-2 variant lineage,46751000284106,SCT
+SARS-CoV-2 variant lineage,1681000284105,SCT
+SARS-CoV-2 variant lineage,46761000284109,SCT
+SARS-CoV-2 variant lineage,46771000284104,SCT
+SARS-CoV-2 variant lineage,46781000284102,SCT
+SARS-CoV-2 variant lineage,46791000284100,SCT
+SARS-CoV-2 variant lineage,46801000284101,SCT
+SARS-CoV-2 variant lineage,46811000284104,SCT
+SARS-CoV-2 variant lineage,46821000284108,SCT
+SARS-CoV-2 variant lineage,46831000284105,SCT
+SARS-CoV-2 variant lineage,46841000284103,SCT
+SARS-CoV-2 variant lineage,46851000284100,SCT
+SARS-CoV-2 variant lineage,46861000284102,SCT
+SARS-CoV-2 variant lineage,46871000284107,SCT
+SARS-CoV-2 variant lineage,46881000284109,SCT
+SARS-CoV-2 variant lineage,46891000284106,SCT
+SARS-CoV-2 variant lineage,46901000284107,SCT
+SARS-CoV-2 variant lineage,46911000284109,SCT
+SARS-CoV-2 variant lineage,46921000284100,SCT
+SARS-CoV-2 variant lineage,46931000284103,SCT
+SARS-CoV-2 variant lineage,46941000284105,SCT
+SARS-CoV-2 variant lineage,46951000284108,SCT
+SARS-CoV-2 variant lineage,46961000284106,SCT
+SARS-CoV-2 variant lineage,46971000284101,SCT
+SARS-CoV-2 variant lineage,46981000284104,SCT
+SARS-CoV-2 variant lineage,46991000284102,SCT
+SARS-CoV-2 variant lineage,47001000284106,SCT
+SARS-CoV-2 variant lineage,47011000284108,SCT
+SARS-CoV-2 variant lineage,47021000284104,SCT
+SARS-CoV-2 variant lineage,47031000284102,SCT
+SARS-CoV-2 variant lineage,47041000284109,SCT
+SARS-CoV-2 variant lineage,47051000284107,SCT
+SARS-CoV-2 variant lineage,47061000284105,SCT
+SARS-CoV-2 variant lineage,47071000284100,SCT
+SARS-CoV-2 variant lineage,47081000284103,SCT
+SARS-CoV-2 variant lineage,47091000284101,SCT
+SARS-CoV-2 variant lineage,47101000284107,SCT
+SARS-CoV-2 variant lineage,47111000284109,SCT
+SARS-CoV-2 variant lineage,47121000284100,SCT
+SARS-CoV-2 variant lineage,47131000284103,SCT
+SARS-CoV-2 variant lineage,47141000284105,SCT
+SARS-CoV-2 variant lineage,47151000284108,SCT
+SARS-CoV-2 variant lineage,47161000284106,SCT
+SARS-CoV-2 variant lineage,47171000284101,SCT
+SARS-CoV-2 variant lineage,47181000284104,SCT
+SARS-CoV-2 variant lineage,47191000284102,SCT
+SARS-CoV-2 variant lineage,47201000284100,SCT
+SARS-CoV-2 variant lineage,47211000284103,SCT
+SARS-CoV-2 variant lineage,47221000284107,SCT
+SARS-CoV-2 variant lineage,47231000284109,SCT
+SARS-CoV-2 variant lineage,47241000284102,SCT
+SARS-CoV-2 variant lineage,47251000284104,SCT
+SARS-CoV-2 variant lineage,47261000284101,SCT
+SARS-CoV-2 variant lineage,47271000284106,SCT
+SARS-CoV-2 variant lineage,47281000284108,SCT
+SARS-CoV-2 variant lineage,47291000284105,SCT
+SARS-CoV-2 variant lineage,47301000284109,SCT
+SARS-CoV-2 variant lineage,47311000284106,SCT
+SARS-CoV-2 variant lineage,47321000284102,SCT
+SARS-CoV-2 variant lineage,47331000284100,SCT
+SARS-CoV-2 variant lineage,47341000284107,SCT
+SARS-CoV-2 variant lineage,47351000284105,SCT
+SARS-CoV-2 variant lineage,47361000284108,SCT
+SARS-CoV-2 variant lineage,47371000284103,SCT
+SARS-CoV-2 variant lineage,47381000284101,SCT
+SARS-CoV-2 variant lineage,47391000284104,SCT
+SARS-CoV-2 variant lineage,47401000284101,SCT
+SARS-CoV-2 variant lineage,47411000284104,SCT
+SARS-CoV-2 variant lineage,47421000284108,SCT
+SARS-CoV-2 variant lineage,47431000284105,SCT
+SARS-CoV-2 variant lineage,47441000284103,SCT
+SARS-CoV-2 variant lineage,47451000284100,SCT
+SARS-CoV-2 variant lineage,47461000284102,SCT
+SARS-CoV-2 variant lineage,47471000284107,SCT
+SARS-CoV-2 variant lineage,47481000284109,SCT
+SARS-CoV-2 variant lineage,47491000284106,SCT
+SARS-CoV-2 variant lineage,47501000284102,SCT
+SARS-CoV-2 variant lineage,47511000284100,SCT
+SARS-CoV-2 variant lineage,47521000284109,SCT
+SARS-CoV-2 variant lineage,47531000284106,SCT
+SARS-CoV-2 variant lineage,47541000284104,SCT
+SARS-CoV-2 variant lineage,47551000284101,SCT
+SARS-CoV-2 variant lineage,47561000284103,SCT
+SARS-CoV-2 variant lineage,47571000284108,SCT
+SARS-CoV-2 variant lineage,47581000284105,SCT
+SARS-CoV-2 variant lineage,47591000284107,SCT
+SARS-CoV-2 variant lineage,47601000284103,SCT
+SARS-CoV-2 variant lineage,47611000284101,SCT
+SARS-CoV-2 variant lineage,47621000284105,SCT
+SARS-CoV-2 variant lineage,47631000284107,SCT
+SARS-CoV-2 variant lineage,47641000284100,SCT
+SARS-CoV-2 variant lineage,47651000284102,SCT
+SARS-CoV-2 variant lineage,47661000284104,SCT
+SARS-CoV-2 variant lineage,47671000284109,SCT
+SARS-CoV-2 variant lineage,47681000284106,SCT
+SARS-CoV-2 variant lineage,47691000284108,SCT
+SARS-CoV-2 variant lineage,47701000284108,SCT
+SARS-CoV-2 variant lineage,47711000284105,SCT
+SARS-CoV-2 variant lineage,47721000284101,SCT
+SARS-CoV-2 variant lineage,47731000284104,SCT
+SARS-CoV-2 variant lineage,47741000284106,SCT
+SARS-CoV-2 variant lineage,47751000284109,SCT
+SARS-CoV-2 variant lineage,47761000284107,SCT
+SARS-CoV-2 variant lineage,47771000284102,SCT
+SARS-CoV-2 variant lineage,47781000284100,SCT
+SARS-CoV-2 variant lineage,47791000284103,SCT
+SARS-CoV-2 variant lineage,47801000284104,SCT
+SARS-CoV-2 variant lineage,47811000284102,SCT
+SARS-CoV-2 variant lineage,47821000284106,SCT
+SARS-CoV-2 variant lineage,47831000284108,SCT
+SARS-CoV-2 variant lineage,47841000284101,SCT
+SARS-CoV-2 variant lineage,47851000284103,SCT
+SARS-CoV-2 variant lineage,47861000284100,SCT
+SARS-CoV-2 variant lineage,47871000284105,SCT
+SARS-CoV-2 variant lineage,47881000284107,SCT
+SARS-CoV-2 variant lineage,47891000284109,SCT
+SARS-CoV-2 variant lineage,47901000284105,SCT
+SARS-CoV-2 variant lineage,47911000284107,SCT
+SARS-CoV-2 variant lineage,47921000284103,SCT
+SARS-CoV-2 variant lineage,47931000284101,SCT
+SARS-CoV-2 variant lineage,47941000284108,SCT
+SARS-CoV-2 variant lineage,47951000284106,SCT
+SARS-CoV-2 variant lineage,47961000284109,SCT
+SARS-CoV-2 variant lineage,47971000284104,SCT
+SARS-CoV-2 variant lineage,47981000284102,SCT
+SARS-CoV-2 variant lineage,47991000284100,SCT
+SARS-CoV-2 variant lineage,48001000284107,SCT
+SARS-CoV-2 variant lineage,48011000284109,SCT
+SARS-CoV-2 variant lineage,48021000284100,SCT
+SARS-CoV-2 variant lineage,48031000284103,SCT
+SARS-CoV-2 variant lineage,48041000284105,SCT
+SARS-CoV-2 variant lineage,48061000284106,SCT
+SARS-CoV-2 variant lineage,48071000284101,SCT
+SARS-CoV-2 variant lineage,48081000284104,SCT
+SARS-CoV-2 variant lineage,48091000284102,SCT
+SARS-CoV-2 variant lineage,48101000284108,SCT
+SARS-CoV-2 variant lineage,48111000284105,SCT
+SARS-CoV-2 variant lineage,48121000284101,SCT
+SARS-CoV-2 variant lineage,48131000284104,SCT
+SARS-CoV-2 variant lineage,48141000284106,SCT
+SARS-CoV-2 variant lineage,48151000284109,SCT
+SARS-CoV-2 variant lineage,48161000284107,SCT
+SARS-CoV-2 variant lineage,48171000284102,SCT
+SARS-CoV-2 variant lineage,48181000284100,SCT
+SARS-CoV-2 variant lineage,48191000284103,SCT
+SARS-CoV-2 variant lineage,48201000284101,SCT
+SARS-CoV-2 variant lineage,48211000284104,SCT
+SARS-CoV-2 variant lineage,48221000284108,SCT
+SARS-CoV-2 variant lineage,48231000284105,SCT
+SARS-CoV-2 variant lineage,48241000284103,SCT
+SARS-CoV-2 variant lineage,48251000284100,SCT
+SARS-CoV-2 variant lineage,48261000284102,SCT
+SARS-CoV-2 variant lineage,48271000284107,SCT
+SARS-CoV-2 variant lineage,48281000284109,SCT
+SARS-CoV-2 variant lineage,48291000284106,SCT
+SARS-CoV-2 variant lineage,48301000284105,SCT
+SARS-CoV-2 variant lineage,48311000284107,SCT
+SARS-CoV-2 variant lineage,48321000284103,SCT
+SARS-CoV-2 variant lineage,48331000284101,SCT
+SARS-CoV-2 variant lineage,48341000284108,SCT
+SARS-CoV-2 variant lineage,48351000284106,SCT
+SARS-CoV-2 variant lineage,48361000284109,SCT
+SARS-CoV-2 variant lineage,48371000284104,SCT
+SARS-CoV-2 variant lineage,48381000284102,SCT
+SARS-CoV-2 variant lineage,48391000284100,SCT
+SARS-CoV-2 variant lineage,48401000284102,SCT
+SARS-CoV-2 variant lineage,48411000284100,SCT
+SARS-CoV-2 variant lineage,48421000284109,SCT
+SARS-CoV-2 variant lineage,48441000284104,SCT
+SARS-CoV-2 variant lineage,48451000284101,SCT
+SARS-CoV-2 variant lineage,48461000284103,SCT
+SARS-CoV-2 variant lineage,48471000284108,SCT
+SARS-CoV-2 variant lineage,48481000284105,SCT
+SARS-CoV-2 variant lineage,48491000284107,SCT
+SARS-CoV-2 variant lineage,48501000284103,SCT
+SARS-CoV-2 variant lineage,48511000284101,SCT
+SARS-CoV-2 variant lineage,48521000284105,SCT
+SARS-CoV-2 variant lineage,48531000284107,SCT
+SARS-CoV-2 variant lineage,48541000284100,SCT
+SARS-CoV-2 variant lineage,48551000284102,SCT
+SARS-CoV-2 variant lineage,48561000284104,SCT
+SARS-CoV-2 variant lineage,48571000284109,SCT
+SARS-CoV-2 variant lineage,48581000284106,SCT
+SARS-CoV-2 variant lineage,48591000284108,SCT
+SARS-CoV-2 variant lineage,48601000284104,SCT
+SARS-CoV-2 variant lineage,48611000284102,SCT
+SARS-CoV-2 variant lineage,48621000284106,SCT
+SARS-CoV-2 variant lineage,48631000284108,SCT
+SARS-CoV-2 variant lineage,48641000284101,SCT
+SARS-CoV-2 variant lineage,48651000284103,SCT
+SARS-CoV-2 variant lineage,48661000284100,SCT
+SARS-CoV-2 variant lineage,48671000284105,SCT
+SARS-CoV-2 variant lineage,48681000284107,SCT
+SARS-CoV-2 variant lineage,48691000284109,SCT
+SARS-CoV-2 variant lineage,48701000284109,SCT
+SARS-CoV-2 variant lineage,48711000284106,SCT
+SARS-CoV-2 variant lineage,48721000284102,SCT
+SARS-CoV-2 variant lineage,48731000284100,SCT
+SARS-CoV-2 variant lineage,48741000284107,SCT
+SARS-CoV-2 variant lineage,48751000284105,SCT
+SARS-CoV-2 variant lineage,48761000284108,SCT
+SARS-CoV-2 variant lineage,48771000284103,SCT
+SARS-CoV-2 variant lineage,48781000284101,SCT
+SARS-CoV-2 variant lineage,48791000284104,SCT
+SARS-CoV-2 variant lineage,48801000284100,SCT
+SARS-CoV-2 variant lineage,48811000284103,SCT
+SARS-CoV-2 variant lineage,48821000284107,SCT
+SARS-CoV-2 variant lineage,48831000284109,SCT
+SARS-CoV-2 variant lineage,48841000284102,SCT
+SARS-CoV-2 variant lineage,48851000284104,SCT
+SARS-CoV-2 variant lineage,48861000284101,SCT
+SARS-CoV-2 variant lineage,48871000284106,SCT
+SARS-CoV-2 variant lineage,48881000284108,SCT
+SARS-CoV-2 variant lineage,48891000284105,SCT
+SARS-CoV-2 variant lineage,48901000284106,SCT
+SARS-CoV-2 variant lineage,48911000284108,SCT
+SARS-CoV-2 variant lineage,48921000284104,SCT
+SARS-CoV-2 variant lineage,48931000284102,SCT
+SARS-CoV-2 variant lineage,48941000284109,SCT
+SARS-CoV-2 variant lineage,48951000284107,SCT
+SARS-CoV-2 variant lineage,48961000284105,SCT
+SARS-CoV-2 variant lineage,48971000284100,SCT
+SARS-CoV-2 variant lineage,48981000284103,SCT
+SARS-CoV-2 variant lineage,48991000284101,SCT
+SARS-CoV-2 variant lineage,49001000284101,SCT
+SARS-CoV-2 variant lineage,49011000284104,SCT
+SARS-CoV-2 variant lineage,49021000284108,SCT
+SARS-CoV-2 variant lineage,49031000284105,SCT
+SARS-CoV-2 variant lineage,49041000284103,SCT
+SARS-CoV-2 variant lineage,49051000284100,SCT
+SARS-CoV-2 variant lineage,49061000284102,SCT
+SARS-CoV-2 variant lineage,49071000284107,SCT
+SARS-CoV-2 variant lineage,49081000284109,SCT
+SARS-CoV-2 variant lineage,49091000284106,SCT
+SARS-CoV-2 variant lineage,49101000284100,SCT
+SARS-CoV-2 variant lineage,49111000284103,SCT
+SARS-CoV-2 variant lineage,49121000284107,SCT
+SARS-CoV-2 variant lineage,49131000284109,SCT
+SARS-CoV-2 variant lineage,49141000284102,SCT
+SARS-CoV-2 variant lineage,49151000284104,SCT
+SARS-CoV-2 variant lineage,49161000284101,SCT
+SARS-CoV-2 variant lineage,49171000284106,SCT
+SARS-CoV-2 variant lineage,49181000284108,SCT
+SARS-CoV-2 variant lineage,49191000284105,SCT
+SARS-CoV-2 variant lineage,49201000284107,SCT
+SARS-CoV-2 variant lineage,49211000284109,SCT
+SARS-CoV-2 variant lineage,49221000284100,SCT
+SARS-CoV-2 variant lineage,49231000284103,SCT
+SARS-CoV-2 variant lineage,49241000284105,SCT
+SARS-CoV-2 variant lineage,49251000284108,SCT
+SARS-CoV-2 variant lineage,49261000284106,SCT
+SARS-CoV-2 variant lineage,49271000284101,SCT
+SARS-CoV-2 variant lineage,49281000284104,SCT
+SARS-CoV-2 variant lineage,49291000284102,SCT
+SARS-CoV-2 variant lineage,49301000284103,SCT
+SARS-CoV-2 variant lineage,49311000284101,SCT
+SARS-CoV-2 variant lineage,49321000284105,SCT
+SARS-CoV-2 variant lineage,49331000284107,SCT
+SARS-CoV-2 variant lineage,49341000284100,SCT
+SARS-CoV-2 variant lineage,49351000284102,SCT
+SARS-CoV-2 variant lineage,49361000284104,SCT
+SARS-CoV-2 variant lineage,49371000284109,SCT
+SARS-CoV-2 variant lineage,49381000284106,SCT
+SARS-CoV-2 variant lineage,49391000284108,SCT
+SARS-CoV-2 variant lineage,49401000284106,SCT
+SARS-CoV-2 variant lineage,49411000284108,SCT
+SARS-CoV-2 variant lineage,49421000284104,SCT
+SARS-CoV-2 variant lineage,49431000284102,SCT
+SARS-CoV-2 variant lineage,49441000284109,SCT
+SARS-CoV-2 variant lineage,49451000284107,SCT
+SARS-CoV-2 variant lineage,49461000284105,SCT
+SARS-CoV-2 variant lineage,49471000284100,SCT
+SARS-CoV-2 variant lineage,49481000284103,SCT
+SARS-CoV-2 variant lineage,49491000284101,SCT
+SARS-CoV-2 variant lineage,49501000284105,SCT
+SARS-CoV-2 variant lineage,49511000284107,SCT
+SARS-CoV-2 variant lineage,49521000284103,SCT
+SARS-CoV-2 variant lineage,49531000284101,SCT
+SARS-CoV-2 variant lineage,49541000284108,SCT
+SARS-CoV-2 variant lineage,49551000284106,SCT
+SARS-CoV-2 variant lineage,49561000284109,SCT
+SARS-CoV-2 variant lineage,49571000284104,SCT
+SARS-CoV-2 variant lineage,49581000284102,SCT
+SARS-CoV-2 variant lineage,49591000284100,SCT
+SARS-CoV-2 variant lineage,49601000284109,SCT
+SARS-CoV-2 variant lineage,49611000284106,SCT
+SARS-CoV-2 variant lineage,49621000284102,SCT
+SARS-CoV-2 variant lineage,49631000284100,SCT
+SARS-CoV-2 variant lineage,49641000284107,SCT
+SARS-CoV-2 variant lineage,49651000284105,SCT
+SARS-CoV-2 variant lineage,49661000284108,SCT
+SARS-CoV-2 variant lineage,49671000284103,SCT
+SARS-CoV-2 variant lineage,49681000284101,SCT
+SARS-CoV-2 variant lineage,49691000284104,SCT
+SARS-CoV-2 variant lineage,49701000284104,SCT
+SARS-CoV-2 variant lineage,49711000284102,SCT
+SARS-CoV-2 variant lineage,49721000284106,SCT
+SARS-CoV-2 variant lineage,55891000284102,SCT
+SARS-CoV-2 variant lineage,49741000284101,SCT
+SARS-CoV-2 variant lineage,49751000284103,SCT
+SARS-CoV-2 variant lineage,49761000284100,SCT
+SARS-CoV-2 variant lineage,49771000284105,SCT
+SARS-CoV-2 variant lineage,49781000284107,SCT
+SARS-CoV-2 variant lineage,49791000284109,SCT
+SARS-CoV-2 variant lineage,49801000284108,SCT
+SARS-CoV-2 variant lineage,49811000284105,SCT
+SARS-CoV-2 variant lineage,49821000284101,SCT
+SARS-CoV-2 variant lineage,49831000284104,SCT
+SARS-CoV-2 variant lineage,49841000284106,SCT
+SARS-CoV-2 variant lineage,49851000284109,SCT
+SARS-CoV-2 variant lineage,49861000284107,SCT
+SARS-CoV-2 variant lineage,49871000284102,SCT
+SARS-CoV-2 variant lineage,49881000284100,SCT
+SARS-CoV-2 variant lineage,49891000284103,SCT
+SARS-CoV-2 variant lineage,49901000284102,SCT
+SARS-CoV-2 variant lineage,49911000284100,SCT
+SARS-CoV-2 variant lineage,49921000284109,SCT
+SARS-CoV-2 variant lineage,49931000284106,SCT
+SARS-CoV-2 variant lineage,49941000284104,SCT
+SARS-CoV-2 variant lineage,49951000284101,SCT
+SARS-CoV-2 variant lineage,49961000284103,SCT
+SARS-CoV-2 variant lineage,49971000284108,SCT
+SARS-CoV-2 variant lineage,49981000284105,SCT
+SARS-CoV-2 variant lineage,49991000284107,SCT
+SARS-CoV-2 variant lineage,50001000284107,SCT
+SARS-CoV-2 variant lineage,50011000284109,SCT
+SARS-CoV-2 variant lineage,50021000284100,SCT
+SARS-CoV-2 variant lineage,50031000284103,SCT
+SARS-CoV-2 variant lineage,50041000284105,SCT
+SARS-CoV-2 variant lineage,50051000284108,SCT
+SARS-CoV-2 variant lineage,52011000284108,SCT
+SARS-CoV-2 variant lineage,52021000284104,SCT
+SARS-CoV-2 variant lineage,52031000284102,SCT
+SARS-CoV-2 variant lineage,52041000284109,SCT
+SARS-CoV-2 variant lineage,52051000284107,SCT
+SARS-CoV-2 variant lineage,52061000284105,SCT
+SARS-CoV-2 variant lineage,52071000284100,SCT
+SARS-CoV-2 variant lineage,52081000284103,SCT
+SARS-CoV-2 variant lineage,52091000284101,SCT
+SARS-CoV-2 variant lineage,52101000284107,SCT
+SARS-CoV-2 variant lineage,52111000284109,SCT
+SARS-CoV-2 variant lineage,52121000284100,SCT
+SARS-CoV-2 variant lineage,52131000284103,SCT
+SARS-CoV-2 variant lineage,52141000284105,SCT
+SARS-CoV-2 variant lineage,52151000284108,SCT
+SARS-CoV-2 variant lineage,52161000284106,SCT
+SARS-CoV-2 variant lineage,52171000284101,SCT
+SARS-CoV-2 variant lineage,52181000284104,SCT
+SARS-CoV-2 variant lineage,52191000284102,SCT
+SARS-CoV-2 variant lineage,52201000284100,SCT
+SARS-CoV-2 variant lineage,52211000284103,SCT
+SARS-CoV-2 variant lineage,52221000284107,SCT
+SARS-CoV-2 variant lineage,52231000284109,SCT
+SARS-CoV-2 variant lineage,52241000284102,SCT
+SARS-CoV-2 variant lineage,52251000284104,SCT
+SARS-CoV-2 variant lineage,52261000284101,SCT
+SARS-CoV-2 variant lineage,52271000284106,SCT
+SARS-CoV-2 variant lineage,52281000284108,SCT
+SARS-CoV-2 variant lineage,52291000284105,SCT
+SARS-CoV-2 variant lineage,52301000284109,SCT
+SARS-CoV-2 variant lineage,52311000284106,SCT
+SARS-CoV-2 variant lineage,52321000284102,SCT
+SARS-CoV-2 variant lineage,52331000284100,SCT
+SARS-CoV-2 variant lineage,52341000284107,SCT
+SARS-CoV-2 variant lineage,52351000284105,SCT
+SARS-CoV-2 variant lineage,52361000284108,SCT
+SARS-CoV-2 variant lineage,52371000284103,SCT
+SARS-CoV-2 variant lineage,52381000284101,SCT
+SARS-CoV-2 variant lineage,52391000284104,SCT
+SARS-CoV-2 variant lineage,52401000284101,SCT
+SARS-CoV-2 variant lineage,52411000284104,SCT
+SARS-CoV-2 variant lineage,52421000284108,SCT
+SARS-CoV-2 variant lineage,52431000284105,SCT
+SARS-CoV-2 variant lineage,52441000284103,SCT
+SARS-CoV-2 variant lineage,52451000284100,SCT
+SARS-CoV-2 variant lineage,52461000284102,SCT
+SARS-CoV-2 variant lineage,52471000284107,SCT
+SARS-CoV-2 variant lineage,52481000284109,SCT
+SARS-CoV-2 variant lineage,52491000284106,SCT
+SARS-CoV-2 variant lineage,52501000284102,SCT
+SARS-CoV-2 variant lineage,52511000284100,SCT
+SARS-CoV-2 variant lineage,52521000284109,SCT
+SARS-CoV-2 variant lineage,52541000284104,SCT
+SARS-CoV-2 variant lineage,52551000284101,SCT
+SARS-CoV-2 variant lineage,52561000284103,SCT
+SARS-CoV-2 variant lineage,52571000284108,SCT
+SARS-CoV-2 variant lineage,52581000284105,SCT
+SARS-CoV-2 variant lineage,52591000284107,SCT
+SARS-CoV-2 variant lineage,52601000284103,SCT
+SARS-CoV-2 variant lineage,52611000284101,SCT
+SARS-CoV-2 variant lineage,52621000284105,SCT
+SARS-CoV-2 variant lineage,52631000284107,SCT
+SARS-CoV-2 variant lineage,52641000284100,SCT
+SARS-CoV-2 variant lineage,52651000284102,SCT
+SARS-CoV-2 variant lineage,52661000284104,SCT
+SARS-CoV-2 variant lineage,52671000284109,SCT
+SARS-CoV-2 variant lineage,52681000284106,SCT
+SARS-CoV-2 variant lineage,52691000284108,SCT
+SARS-CoV-2 variant lineage,52701000284108,SCT
+SARS-CoV-2 variant lineage,52711000284105,SCT
+SARS-CoV-2 variant lineage,52721000284101,SCT
+SARS-CoV-2 variant lineage,52731000284104,SCT
+SARS-CoV-2 variant lineage,52741000284106,SCT
+SARS-CoV-2 variant lineage,52751000284109,SCT
+SARS-CoV-2 variant lineage,52761000284107,SCT
+SARS-CoV-2 variant lineage,52771000284102,SCT
+SARS-CoV-2 variant lineage,52781000284100,SCT
+SARS-CoV-2 variant lineage,52791000284103,SCT
+SARS-CoV-2 variant lineage,52801000284104,SCT
+SARS-CoV-2 variant lineage,52811000284102,SCT
+SARS-CoV-2 variant lineage,52821000284106,SCT
+SARS-CoV-2 variant lineage,52831000284108,SCT
+SARS-CoV-2 variant lineage,52841000284101,SCT
+SARS-CoV-2 variant lineage,52851000284103,SCT
+SARS-CoV-2 variant lineage,52861000284100,SCT
+SARS-CoV-2 variant lineage,52871000284105,SCT
+SARS-CoV-2 variant lineage,52881000284107,SCT
+SARS-CoV-2 variant lineage,52891000284109,SCT
+SARS-CoV-2 variant lineage,52901000284105,SCT
+SARS-CoV-2 variant lineage,52911000284107,SCT
+SARS-CoV-2 variant lineage,52921000284103,SCT
+SARS-CoV-2 variant lineage,52931000284101,SCT
+SARS-CoV-2 variant lineage,52941000284108,SCT
+SARS-CoV-2 variant lineage,52951000284106,SCT
+SARS-CoV-2 variant lineage,52961000284109,SCT
+SARS-CoV-2 variant lineage,52971000284104,SCT
+SARS-CoV-2 variant lineage,52981000284102,SCT
+SARS-CoV-2 variant lineage,52991000284100,SCT
+SARS-CoV-2 variant lineage,53001000284101,SCT
+SARS-CoV-2 variant lineage,53011000284104,SCT
+SARS-CoV-2 variant lineage,53021000284108,SCT
+SARS-CoV-2 variant lineage,53031000284105,SCT
+SARS-CoV-2 variant lineage,53041000284103,SCT
+SARS-CoV-2 variant lineage,53051000284100,SCT
+SARS-CoV-2 variant lineage,53061000284102,SCT
+SARS-CoV-2 variant lineage,53071000284107,SCT
+SARS-CoV-2 variant lineage,53081000284109,SCT
+SARS-CoV-2 variant lineage,53091000284106,SCT
+SARS-CoV-2 variant lineage,53101000284100,SCT
+SARS-CoV-2 variant lineage,53111000284103,SCT
+SARS-CoV-2 variant lineage,53121000284107,SCT
+SARS-CoV-2 variant lineage,53131000284109,SCT
+SARS-CoV-2 variant lineage,53141000284102,SCT
+SARS-CoV-2 variant lineage,53151000284104,SCT
+SARS-CoV-2 variant lineage,53161000284101,SCT
+SARS-CoV-2 variant lineage,53171000284106,SCT
+SARS-CoV-2 variant lineage,53181000284108,SCT
+SARS-CoV-2 variant lineage,53191000284105,SCT
+SARS-CoV-2 variant lineage,53201000284107,SCT
+SARS-CoV-2 variant lineage,53211000284109,SCT
+SARS-CoV-2 variant lineage,53221000284100,SCT
+SARS-CoV-2 variant lineage,53231000284103,SCT
+SARS-CoV-2 variant lineage,53241000284105,SCT
+SARS-CoV-2 variant lineage,53251000284108,SCT
+SARS-CoV-2 variant lineage,53261000284106,SCT
+SARS-CoV-2 variant lineage,53271000284101,SCT
+SARS-CoV-2 variant lineage,53281000284104,SCT
+SARS-CoV-2 variant lineage,53291000284102,SCT
+SARS-CoV-2 variant lineage,53301000284103,SCT
+SARS-CoV-2 variant lineage,53311000284101,SCT
+SARS-CoV-2 variant lineage,53321000284105,SCT
+SARS-CoV-2 variant lineage,53331000284107,SCT
+SARS-CoV-2 variant lineage,53341000284100,SCT
+SARS-CoV-2 variant lineage,53351000284102,SCT
+SARS-CoV-2 variant lineage,53361000284104,SCT
+SARS-CoV-2 variant lineage,53371000284109,SCT
+SARS-CoV-2 variant lineage,53381000284106,SCT
+SARS-CoV-2 variant lineage,53391000284108,SCT
+SARS-CoV-2 variant lineage,53401000284106,SCT
+SARS-CoV-2 variant lineage,53411000284108,SCT
+SARS-CoV-2 variant lineage,53421000284104,SCT
+SARS-CoV-2 variant lineage,53431000284102,SCT
+SARS-CoV-2 variant lineage,53441000284109,SCT
+SARS-CoV-2 variant lineage,53451000284107,SCT
+SARS-CoV-2 variant lineage,53461000284105,SCT
+SARS-CoV-2 variant lineage,53471000284100,SCT
+SARS-CoV-2 variant lineage,53481000284103,SCT
+SARS-CoV-2 variant lineage,53491000284101,SCT
+SARS-CoV-2 variant lineage,53501000284105,SCT
+SARS-CoV-2 variant lineage,53511000284107,SCT
+SARS-CoV-2 variant lineage,53521000284103,SCT
+SARS-CoV-2 variant lineage,53531000284101,SCT
+SARS-CoV-2 variant lineage,53541000284108,SCT
+SARS-CoV-2 variant lineage,53551000284106,SCT
+SARS-CoV-2 variant lineage,53561000284109,SCT
+SARS-CoV-2 variant lineage,53571000284104,SCT
+SARS-CoV-2 variant lineage,53581000284102,SCT
+SARS-CoV-2 variant lineage,53591000284100,SCT
+SARS-CoV-2 variant lineage,53601000284109,SCT
+SARS-CoV-2 variant lineage,53611000284106,SCT
+SARS-CoV-2 variant lineage,53621000284102,SCT
+SARS-CoV-2 variant lineage,55081000284108,SCT
+SARS-CoV-2 variant lineage,55101000284104,SCT
+SARS-CoV-2 variant lineage,55111000284102,SCT
+SARS-CoV-2 variant lineage,55131000284108,SCT
+SARS-CoV-2 variant lineage,55141000284101,SCT
+SARS-CoV-2 variant lineage,55161000284100,SCT
+SARS-CoV-2 variant lineage,55171000284105,SCT
+SARS-CoV-2 variant lineage,55191000284109,SCT
+SARS-CoV-2 variant lineage,55201000284106,SCT
+SARS-CoV-2 variant lineage,55211000284108,SCT
+SARS-CoV-2 variant lineage,55241000284109,SCT
+SARS-CoV-2 variant lineage,55261000284105,SCT
+SARS-CoV-2 variant lineage,55281000284103,SCT
+SARS-CoV-2 variant lineage,55301000284102,SCT
+SARS-CoV-2 variant lineage,55321000284109,SCT
+SARS-CoV-2 variant lineage,55341000284104,SCT
+SARS-CoV-2 variant lineage,55361000284103,SCT
+SARS-CoV-2 variant lineage,55381000284105,SCT
+SARS-CoV-2 variant lineage,55401000284105,SCT
+SARS-CoV-2 variant lineage,55421000284103,SCT
+SARS-CoV-2 variant lineage,55431000284101,SCT
+SARS-CoV-2 variant lineage,55441000284108,SCT
+SARS-CoV-2 variant lineage,55451000284106,SCT
+SARS-CoV-2 variant lineage,55461000284109,SCT
+SARS-CoV-2 variant lineage,55471000284104,SCT
+SARS-CoV-2 variant lineage,55481000284102,SCT
+SARS-CoV-2 variant lineage,55491000284100,SCT
+SARS-CoV-2 variant lineage,55511000284106,SCT
+SARS-CoV-2 variant lineage,55521000284102,SCT
+SARS-CoV-2 variant lineage,55531000284100,SCT
+SARS-CoV-2 variant lineage,55541000284107,SCT
+SARS-CoV-2 variant lineage,55551000284105,SCT
+SARS-CoV-2 variant lineage,55561000284108,SCT
+SARS-CoV-2 variant lineage,55571000284103,SCT
+SARS-CoV-2 variant lineage,55591000284104,SCT
+SARS-CoV-2 variant lineage,55601000284108,SCT
+SARS-CoV-2 variant lineage,55621000284101,SCT
+SARS-CoV-2 variant lineage,55641000284106,SCT
+SARS-CoV-2 variant lineage,55661000284107,SCT
+SARS-CoV-2 variant lineage,55681000284100,SCT
+SARS-CoV-2 variant lineage,55701000284103,SCT
+SARS-CoV-2 variant lineage,55721000284105,SCT
+SARS-CoV-2 variant lineage,55741000284100,SCT
+SARS-CoV-2 variant lineage,55761000284104,SCT
+SARS-CoV-2 variant lineage,55771000284109,SCT
+SARS-CoV-2 variant lineage,55871000284101,SCT
+SARS-CoV-2 variant lineage,55881000284104,SCT
+SARS-CoV-2 variant lineage,55781000284106,SCT
+SARS-CoV-2 variant lineage,55961000284102,SCT
+SARS-CoV-2 variant lineage,55971000284107,SCT
+SARS-CoV-2 variant lineage,56141000284109,SCT
+SARS-CoV-2 variant lineage,56161000284105,SCT
+SARS-CoV-2 variant lineage,56181000284103,SCT
+SARS-CoV-2 variant lineage,56201000284104,SCT
+SARS-CoV-2 variant lineage,56221000284106,SCT
+SARS-CoV-2 variant lineage,56241000284101,SCT
+SARS-CoV-2 variant lineage,56261000284100,SCT
+SARS-CoV-2 variant lineage,56281000284107,SCT
+SARS-CoV-2 variant lineage,56301000284108,SCT
+SARS-CoV-2 variant lineage,56321000284101,SCT
+SARS-CoV-2 variant lineage,56341000284106,SCT
+SARS-CoV-2 variant lineage,56361000284107,SCT
+SARS-CoV-2 variant lineage,56371000284102,SCT
+SARS-CoV-2 variant lineage,56391000284103,SCT
+SARS-CoV-2 variant lineage,56411000284103,SCT
+SARS-CoV-2 variant lineage,56421000284107,SCT
+SARS-CoV-2 variant lineage,56441000284102,SCT
+SARS-CoV-2 variant lineage,56461000284101,SCT
+SARS-CoV-2 variant lineage,56471000284106,SCT
+SARS-CoV-2 variant lineage,56481000284108,SCT
+SARS-CoV-2 variant lineage,56501000284101,SCT
+SARS-CoV-2 variant lineage,56521000284108,SCT
+SARS-CoV-2 variant lineage,56531000284105,SCT
+SARS-CoV-2 variant lineage,56541000284103,SCT
+SARS-CoV-2 variant lineage,56551000284100,SCT
+SARS-CoV-2 variant lineage,56571000284107,SCT
+SARS-CoV-2 variant lineage,56591000284106,SCT
+SARS-CoV-2 variant lineage,56611000284100,SCT
+SARS-CoV-2 variant lineage,56631000284106,SCT
+SARS-CoV-2 variant lineage,56651000284101,SCT
+SARS-CoV-2 variant lineage,56671000284108,SCT
+SARS-CoV-2 variant lineage,56691000284107,SCT
+SARS-CoV-2 variant lineage,56711000284109,SCT
+SARS-CoV-2 variant lineage,56731000284103,SCT
+SARS-CoV-2 variant lineage,56741000284105,SCT
+SARS-CoV-2 variant lineage,56751000284108,SCT
+SARS-CoV-2 variant lineage,56761000284106,SCT
+SARS-CoV-2 variant lineage,56771000284101,SCT
+SARS-CoV-2 variant lineage,56781000284104,SCT
+SARS-CoV-2 variant lineage,56791000284102,SCT
+SARS-CoV-2 variant lineage,56801000284103,SCT
+SARS-CoV-2 variant lineage,56821000284105,SCT
+SARS-CoV-2 variant lineage,56841000284100,SCT
+SARS-CoV-2 variant lineage,56861000284104,SCT
+SARS-CoV-2 variant lineage,56881000284106,SCT
+SARS-CoV-2 variant lineage,56901000284109,SCT
+SARS-CoV-2 variant lineage,56921000284102,SCT
+SARS-CoV-2 variant lineage,56941000284107,SCT
+SARS-CoV-2 variant lineage,56961000284108,SCT
+SARS-CoV-2 variant lineage,56971000284103,SCT
+SARS-CoV-2 variant lineage,56981000284101,SCT
+SARS-CoV-2 variant lineage,56991000284104,SCT
+SARS-CoV-2 variant lineage,57001000284108,SCT
+SARS-CoV-2 variant lineage,57021000284101,SCT
+SARS-CoV-2 variant lineage,57171000284103,SCT
+SARS-CoV-2 variant lineage,57041000284106,SCT
+SARS-CoV-2 variant lineage,57061000284107,SCT
+SARS-CoV-2 variant lineage,57071000284102,SCT
+SARS-CoV-2 variant lineage,57091000284103,SCT
+SARS-CoV-2 variant lineage,57101000284109,SCT
+SARS-CoV-2 variant lineage,57111000284106,SCT
+SARS-CoV-2 variant lineage,57131000284100,SCT
+SARS-CoV-2 variant lineage,57141000284107,SCT
+SARS-CoV-2 variant lineage,57161000284108,SCT
+SARS-CoV-2 variant lineage,57491000284108,SCT
+SARS-CoV-2 variant lineage,57511000284102,SCT
+SARS-CoV-2 variant lineage,57521000284106,SCT
+SARS-CoV-2 variant lineage,57531000284108,SCT
+SARS-CoV-2 variant lineage,57551000284103,SCT
+SARS-CoV-2 variant lineage,57561000284100,SCT
+SARS-CoV-2 variant lineage,57581000284107,SCT
+SARS-CoV-2 variant lineage,57601000284100,SCT
+SARS-CoV-2 variant lineage,57621000284107,SCT
+SARS-CoV-2 variant lineage,57631000284109,SCT
+SARS-CoV-2 variant lineage,57661000284101,SCT
+SARS-CoV-2 variant lineage,57681000284108,SCT
+SARS-CoV-2 variant lineage,57691000284105,SCT
+SARS-CoV-2 variant lineage,57701000284105,SCT
+SARS-CoV-2 variant lineage,57711000284107,SCT
+SARS-CoV-2 variant lineage,57721000284103,SCT
+SARS-CoV-2 variant lineage,57731000284101,SCT
+SARS-CoV-2 variant lineage,57741000284108,SCT
+SARS-CoV-2 variant lineage,57751000284106,SCT
+SARS-CoV-2 variant lineage,57761000284109,SCT
+SARS-CoV-2 variant lineage,57771000284104,SCT
+SARS-CoV-2 variant lineage,57791000284100,SCT
+SARS-CoV-2 variant lineage,57811000284104,SCT
+SARS-CoV-2 variant lineage,57831000284105,SCT
+SARS-CoV-2 variant lineage,57851000284100,SCT
+SARS-CoV-2 variant lineage,57871000284107,SCT
+SARS-CoV-2 variant lineage,57891000284106,SCT
+SARS-CoV-2 variant lineage,57911000284109,SCT
+SARS-CoV-2 variant lineage,57931000284103,SCT
+SARS-CoV-2 variant lineage,57951000284108,SCT
+SARS-CoV-2 variant lineage,57961000284106,SCT
+SARS-CoV-2 variant lineage,57971000284101,SCT
+SARS-CoV-2 variant lineage,57981000284104,SCT
+SARS-CoV-2 variant lineage,57991000284102,SCT
+SARS-CoV-2 variant lineage,58001000284109,SCT
+SARS-CoV-2 variant lineage,58011000284106,SCT
+SARS-CoV-2 variant lineage,58021000284102,SCT
+SARS-CoV-2 variant lineage,58031000284100,SCT
+SARS-CoV-2 variant lineage,58041000284107,SCT
+SARS-CoV-2 variant lineage,58061000284108,SCT
+SARS-CoV-2 variant lineage,58081000284101,SCT
+SARS-CoV-2 variant lineage,58091000284104,SCT
+SARS-CoV-2 variant lineage,58701000284106,SCT
+SARS-CoV-2 variant lineage,58711000284108,SCT
+SARS-CoV-2 variant lineage,58721000284104,SCT
+SARS-CoV-2 variant lineage,58741000284109,SCT
+SARS-CoV-2 variant lineage,58761000284105,SCT
+SARS-CoV-2 variant lineage,58781000284103,SCT
+SARS-CoV-2 variant lineage,58791000284101,SCT
+SARS-CoV-2 variant lineage,58801000284102,SCT
+SARS-CoV-2 variant lineage,58811000284100,SCT
+SARS-CoV-2 variant lineage,58821000284109,SCT
+SARS-CoV-2 variant lineage,58831000284106,SCT
+SARS-CoV-2 variant lineage,58841000284104,SCT
+SARS-CoV-2 variant lineage,58851000284101,SCT
+SARS-CoV-2 variant lineage,58871000284108,SCT
+SARS-CoV-2 variant lineage,58881000284105,SCT
+SARS-CoV-2 variant lineage,58891000284107,SCT
+SARS-CoV-2 variant lineage,58911000284105,SCT
+SARS-CoV-2 variant lineage,58921000284101,SCT
+SARS-CoV-2 variant lineage,58931000284104,SCT
+SARS-CoV-2 variant lineage,58941000284106,SCT
+SARS-CoV-2 variant lineage,58951000284109,SCT
+SARS-CoV-2 variant lineage,58961000284107,SCT
+SARS-CoV-2 variant lineage,58971000284102,SCT
+SARS-CoV-2 variant lineage,58981000284100,SCT
+SARS-CoV-2 variant lineage,58991000284103,SCT
+SARS-CoV-2 variant lineage,59001000284103,SCT
+SARS-CoV-2 variant lineage,59011000284101,SCT
+SARS-CoV-2 variant lineage,59021000284105,SCT
+SARS-CoV-2 variant lineage,59031000284107,SCT
+SARS-CoV-2 variant lineage,59041000284100,SCT
+SARS-CoV-2 variant lineage,59051000284102,SCT
+SARS-CoV-2 variant lineage,59081000284106,SCT
+SARS-CoV-2 variant lineage,59091000284108,SCT
+SARS-CoV-2 variant lineage,59111000284100,SCT
+SARS-CoV-2 variant lineage,59121000284109,SCT
+SARS-CoV-2 variant lineage,59141000284104,SCT
+SARS-CoV-2 variant lineage,59151000284101,SCT
+SARS-CoV-2 variant lineage,59161000284103,SCT
+SARS-CoV-2 variant lineage,59181000284105,SCT
+SARS-CoV-2 variant lineage,59191000284107,SCT
+SARS-CoV-2 variant lineage,59251000284105,SCT
+SARS-CoV-2 variant lineage,59261000284108,SCT
+SARS-CoV-2 variant lineage,59271000284103,SCT
+SARS-CoV-2 variant lineage,59301000284100,SCT
+SARS-CoV-2 variant lineage,59321000284107,SCT
+SARS-CoV-2 variant lineage,59361000284101,SCT
+SARS-CoV-2 variant lineage,59381000284108,SCT
+SARS-CoV-2 variant lineage,59401000284108,SCT
+SARS-CoV-2 variant lineage,59421000284101,SCT
+SARS-CoV-2 variant lineage,59441000284106,SCT
+SARS-CoV-2 variant lineage,59451000284109,SCT
+SARS-CoV-2 variant lineage,59461000284107,SCT
+SARS-CoV-2 variant lineage,59471000284102,SCT
+SARS-CoV-2 variant lineage,59481000284100,SCT
+SARS-CoV-2 variant lineage,59491000284103,SCT
+SARS-CoV-2 variant lineage,59501000284107,SCT
+SARS-CoV-2 variant lineage,59511000284109,SCT
+SARS-CoV-2 variant lineage,59521000284100,SCT
+SARS-CoV-2 variant lineage,59531000284103,SCT
+SARS-CoV-2 variant lineage,59541000284105,SCT
+SARS-CoV-2 variant lineage,59561000284106,SCT
+SARS-CoV-2 variant lineage,59581000284104,SCT
+SARS-CoV-2 variant lineage,59601000284106,SCT
+SARS-CoV-2 variant lineage,59621000284104,SCT
+SARS-CoV-2 variant lineage,59641000284109,SCT
+SARS-CoV-2 variant lineage,59651000284107,SCT
+SARS-CoV-2 variant lineage,59661000284105,SCT
+SARS-CoV-2 variant lineage,59681000284103,SCT
+SARS-CoV-2 variant lineage,59701000284101,SCT
+SARS-CoV-2 variant lineage,59721000284108,SCT
+SARS-CoV-2 variant lineage,59741000284103,SCT
+SARS-CoV-2 variant lineage,59761000284102,SCT
+SARS-CoV-2 variant lineage,59781000284109,SCT
+SARS-CoV-2 variant lineage,59801000284105,SCT
+SARS-CoV-2 variant lineage,59811000284107,SCT
+SARS-CoV-2 variant lineage,59831000284101,SCT
+SARS-CoV-2 variant lineage,59851000284106,SCT
+SARS-CoV-2 variant lineage,59861000284109,SCT
+SARS-CoV-2 variant lineage,59871000284104,SCT
+SARS-CoV-2 variant lineage,59881000284102,SCT
+SARS-CoV-2 variant lineage,59891000284100,SCT
+SARS-CoV-2 variant lineage,59901000284104,SCT
+SARS-CoV-2 variant lineage,59911000284102,SCT
+SARS-CoV-2 variant lineage,59921000284106,SCT
+SARS-CoV-2 variant lineage,59931000284108,SCT
+SARS-CoV-2 variant lineage,59951000284103,SCT
+SARS-CoV-2 variant lineage,59961000284100,SCT
+SARS-CoV-2 variant lineage,59971000284105,SCT
+SARS-CoV-2 variant lineage,59981000284107,SCT
+SARS-CoV-2 variant lineage,59991000284109,SCT
+SARS-CoV-2 variant lineage,60001000284102,SCT
+SARS-CoV-2 variant lineage,60011000284100,SCT
+SARS-CoV-2 variant lineage,60021000284109,SCT
+SARS-CoV-2 variant lineage,60031000284106,SCT
+SARS-CoV-2 variant lineage,60041000284104,SCT
+SARS-CoV-2 variant lineage,60061000284103,SCT
+SARS-CoV-2 variant lineage,60081000284105,SCT
+SARS-CoV-2 variant lineage,60091000284107,SCT
+SARS-CoV-2 variant lineage,60101000284101,SCT
+SARS-CoV-2 variant lineage,60131000284105,SCT
+SARS-CoV-2 variant lineage,60151000284100,SCT
+SARS-CoV-2 variant lineage,60171000284107,SCT
+SARS-CoV-2 variant lineage,60191000284106,SCT
+SARS-CoV-2 variant lineage,60211000284105,SCT
+SARS-CoV-2 variant lineage,60231000284104,SCT
+SARS-CoV-2 variant lineage,60241000284106,SCT
+SARS-CoV-2 variant lineage,60261000284107,SCT
+SARS-CoV-2 variant lineage,60271000284102,SCT
+SARS-CoV-2 variant lineage,60281000284100,SCT
+SARS-CoV-2 variant lineage,60291000284103,SCT
+SARS-CoV-2 variant lineage,60311000284102,SCT
+SARS-CoV-2 variant lineage,60321000284106,SCT
+SARS-CoV-2 variant lineage,60341000284101,SCT
+SARS-CoV-2 variant lineage,60361000284100,SCT
+SARS-CoV-2 variant lineage,60381000284107,SCT
+SARS-CoV-2 variant lineage,60401000284107,SCT
+SARS-CoV-2 variant lineage,60421000284100,SCT
+SARS-CoV-2 variant lineage,60441000284105,SCT
+SARS-CoV-2 variant lineage,60451000284108,SCT
+SARS-CoV-2 variant lineage,60461000284106,SCT
+SARS-CoV-2 variant lineage,60471000284101,SCT
+SARS-CoV-2 variant lineage,60481000284104,SCT
+SARS-CoV-2 variant lineage,60501000284106,SCT
+SARS-CoV-2 variant lineage,60521000284104,SCT
+SARS-CoV-2 variant lineage,60551000284107,SCT
+SARS-CoV-2 variant lineage,60561000284105,SCT
+SARS-CoV-2 variant lineage,60581000284103,SCT
+SARS-CoV-2 variant lineage,60601000284105,SCT
+SARS-CoV-2 variant lineage,60621000284103,SCT
+SARS-CoV-2 variant lineage,60641000284108,SCT
+SARS-CoV-2 variant lineage,60661000284109,SCT
+SARS-CoV-2 variant lineage,60681000284102,SCT
+SARS-CoV-2 variant lineage,60701000284100,SCT
+SARS-CoV-2 variant lineage,60721000284107,SCT
+SARS-CoV-2 variant lineage,60741000284102,SCT
+SARS-CoV-2 variant lineage,60761000284101,SCT
+SARS-CoV-2 variant lineage,60781000284108,SCT
+SARS-CoV-2 variant lineage,60801000284109,SCT
+SARS-CoV-2 variant lineage,60821000284102,SCT
+SARS-CoV-2 variant lineage,60841000284107,SCT
+SARS-CoV-2 variant lineage,60871000284103,SCT
+SARS-CoV-2 variant lineage,60911000284101,SCT
+SARS-CoV-2 variant lineage,60921000284105,SCT
+SARS-CoV-2 variant lineage,60941000284100,SCT
+SARS-CoV-2 variant lineage,60951000284102,SCT
+SARS-CoV-2 variant lineage,60961000284104,SCT
+SARS-CoV-2 variant lineage,60971000284109,SCT
+SARS-CoV-2 variant lineage,60981000284106,SCT
+SARS-CoV-2 variant lineage,61001000284107,SCT
+SARS-CoV-2 variant lineage,61021000284100,SCT
+SARS-CoV-2 variant lineage,61051000284108,SCT
+SARS-CoV-2 variant lineage,61061000284106,SCT
+SARS-CoV-2 variant lineage,61071000284101,SCT
+SARS-CoV-2 variant lineage,61081000284104,SCT
+SARS-CoV-2 variant lineage,61091000284102,SCT
+SARS-CoV-2 variant lineage,61111000284105,SCT
+SARS-CoV-2 variant lineage,61161000284107,SCT
+SARS-CoV-2 variant lineage,61181000284100,SCT
+SARS-CoV-2 variant lineage,61201000284101,SCT
+SARS-CoV-2 variant lineage,61231000284105,SCT
+SARS-CoV-2 variant lineage,61251000284100,SCT
+SARS-CoV-2 variant lineage,61271000284107,SCT
+SARS-CoV-2 variant lineage,61291000284106,SCT
+SARS-CoV-2 variant lineage,61311000284107,SCT
+SARS-CoV-2 variant lineage,61331000284101,SCT
+SARS-CoV-2 variant lineage,61351000284106,SCT
+SARS-CoV-2 variant lineage,61371000284104,SCT
+SARS-CoV-2 variant lineage,61391000284100,SCT
+SARS-CoV-2 variant lineage,61411000284100,SCT
+SARS-CoV-2 variant lineage,61431000284106,SCT
+SARS-CoV-2 variant lineage,61451000284101,SCT
+SARS-CoV-2 variant lineage,61471000284108,SCT
+SARS-CoV-2 variant lineage,61491000284107,SCT
+SARS-CoV-2 variant lineage,61511000284101,SCT
+SARS-CoV-2 variant lineage,61521000284105,SCT
+SARS-CoV-2 variant lineage,61561000284104,SCT
+SARS-CoV-2 variant lineage,61651000284103,SCT
+SARS-CoV-2 variant lineage,61671000284105,SCT
+SARS-CoV-2 variant lineage,61681000284107,SCT
+SARS-CoV-2 variant lineage,61701000284109,SCT
+SARS-CoV-2 variant lineage,61721000284102,SCT
+SARS-CoV-2 variant lineage,61741000284107,SCT
+SARS-CoV-2 variant lineage,61761000284108,SCT
+SARS-CoV-2 variant lineage,61771000284103,SCT
+SARS-CoV-2 variant lineage,61781000284101,SCT
+SARS-CoV-2 variant lineage,61801000284100,SCT
+SARS-CoV-2 variant lineage,61821000284107,SCT
+SARS-CoV-2 variant lineage,61831000284109,SCT
+SARS-CoV-2 variant lineage,61871000284106,SCT
+SARS-CoV-2 variant lineage,61911000284108,SCT
+SARS-CoV-2 variant lineage,61931000284102,SCT
+SARS-CoV-2 variant lineage,61941000284109,SCT
+SARS-CoV-2 variant lineage,61961000284105,SCT
+SARS-CoV-2 variant lineage,61981000284103,SCT
+SARS-CoV-2 variant lineage,62001000284103,SCT
+SARS-CoV-2 variant lineage,62021000284105,SCT
+SARS-CoV-2 variant lineage,62041000284100,SCT
+SARS-CoV-2 variant lineage,62061000284104,SCT
+SARS-CoV-2 variant lineage,62071000284109,SCT
+SARS-CoV-2 variant lineage,62081000284106,SCT
+SARS-CoV-2 variant lineage,62091000284108,SCT
+SARS-CoV-2 variant lineage,62101000284102,SCT
+SARS-CoV-2 variant lineage,62161000284103,SCT
+SARS-CoV-2 variant lineage,62171000284108,SCT
+SARS-CoV-2 variant lineage,62191000284107,SCT
+SARS-CoV-2 variant lineage,62211000284106,SCT
+SARS-CoV-2 variant lineage,62221000284102,SCT
+SARS-CoV-2 variant lineage,62241000284107,SCT
+SARS-CoV-2 variant lineage,62261000284108,SCT
+SARS-CoV-2 variant lineage,62281000284101,SCT
+SARS-CoV-2 variant lineage,62291000284104,SCT
+SARS-CoV-2 variant lineage,62301000284100,SCT
+SARS-CoV-2 variant lineage,62371000284106,SCT
+SARS-CoV-2 variant lineage,62381000284108,SCT
+SARS-CoV-2 variant lineage,62391000284105,SCT
+SARS-CoV-2 variant lineage,63191000284104,SCT
+SARS-CoV-2 variant lineage,63201000284102,SCT
+SARS-CoV-2 variant lineage,63211000284100,SCT
+SARS-CoV-2 variant lineage,63221000284109,SCT
+SARS-CoV-2 variant lineage,63231000284106,SCT
+SARS-CoV-2 variant lineage,63241000284104,SCT
+SARS-CoV-2 variant lineage,63251000284101,SCT
+SARS-CoV-2 variant lineage,63261000284103,SCT
+SARS-CoV-2 variant lineage,63281000284105,SCT
+SARS-CoV-2 variant lineage,63301000284106,SCT
+SARS-CoV-2 variant lineage,63321000284104,SCT
+SARS-CoV-2 variant lineage,63341000284109,SCT
+SARS-CoV-2 variant lineage,63361000284105,SCT
+SARS-CoV-2 variant lineage,63381000284103,SCT
+SARS-CoV-2 variant lineage,63401000284103,SCT
+SARS-CoV-2 variant lineage,63421000284105,SCT
+SARS-CoV-2 variant lineage,63441000284100,SCT
+SARS-CoV-2 variant lineage,63461000284104,SCT
+SARS-CoV-2 variant lineage,63481000284106,SCT
+SARS-CoV-2 variant lineage,63501000284104,SCT
+SARS-CoV-2 variant lineage,63521000284106,SCT
+SARS-CoV-2 variant lineage,63541000284101,SCT
+SARS-CoV-2 variant lineage,63561000284100,SCT
+SARS-CoV-2 variant lineage,63581000284107,SCT
+SARS-CoV-2 variant lineage,63601000284100,SCT
+SARS-CoV-2 variant lineage,63621000284107,SCT
+SARS-CoV-2 variant lineage,63641000284102,SCT
+SARS-CoV-2 variant lineage,63651000284104,SCT
+SARS-CoV-2 variant lineage,63661000284101,SCT
+SARS-CoV-2 variant lineage,63671000284106,SCT
+SARS-CoV-2 variant lineage,63681000284108,SCT
+SARS-CoV-2 variant lineage,63981000284104,SCT
+SARS-CoV-2 variant lineage,64001000284105,SCT
+SARS-CoV-2 variant lineage,64021000284103,SCT
+SARS-CoV-2 variant lineage,64041000284108,SCT
+SARS-CoV-2 variant lineage,64061000284109,SCT
+SARS-CoV-2 variant lineage,64081000284102,SCT
+SARS-CoV-2 variant lineage,64101000284106,SCT
+SARS-CoV-2 variant lineage,64111000284108,SCT
+SARS-CoV-2 variant lineage,64131000284102,SCT
+SARS-CoV-2 variant lineage,64151000284107,SCT
+SARS-CoV-2 variant lineage,64171000284100,SCT
+SARS-CoV-2 variant lineage,64191000284101,SCT
+SARS-CoV-2 variant lineage,64211000284102,SCT
+SARS-CoV-2 variant lineage,64221000284106,SCT
+SARS-CoV-2 variant lineage,64231000284108,SCT
+SARS-CoV-2 variant lineage,64251000284103,SCT
+SARS-CoV-2 variant lineage,64271000284105,SCT
+SARS-CoV-2 variant lineage,64291000284109,SCT
+SARS-CoV-2 variant lineage,64311000284105,SCT
+SARS-CoV-2 variant lineage,64331000284104,SCT
+SARS-CoV-2 variant lineage,64341000284106,SCT
+SARS-CoV-2 variant lineage,64351000284109,SCT
+SARS-CoV-2 variant lineage,64361000284107,SCT
+SARS-CoV-2 variant lineage,64371000284102,SCT
+SARS-CoV-2 variant lineage,64381000284100,SCT
+SARS-CoV-2 variant lineage,64391000284103,SCT
+SARS-CoV-2 variant lineage,64401000284100,SCT
+SARS-CoV-2 variant lineage,64411000284103,SCT
+SARS-CoV-2 variant lineage,64421000284107,SCT
+SARS-CoV-2 variant lineage,64431000284109,SCT
+SARS-CoV-2 variant lineage,64441000284102,SCT
+SARS-CoV-2 variant lineage,64451000284104,SCT
+SARS-CoV-2 variant lineage,64461000284101,SCT
+SARS-CoV-2 variant lineage,64471000284106,SCT
+SARS-CoV-2 variant lineage,64481000284108,SCT
+SARS-CoV-2 variant lineage,64491000284105,SCT
+SARS-CoV-2 variant lineage,64501000284101,SCT
+SARS-CoV-2 variant lineage,64511000284104,SCT
+SARS-CoV-2 variant lineage,64741000284105,SCT
+SARS-CoV-2 variant lineage,64801000284103,SCT
+SARS-CoV-2 variant lineage,64821000284105,SCT
+SARS-CoV-2 variant lineage,64841000284100,SCT
+SARS-CoV-2 variant lineage,64861000284104,SCT
+SARS-CoV-2 variant lineage,64871000284109,SCT
+SARS-CoV-2 variant lineage,64881000284106,SCT
+SARS-CoV-2 variant lineage,64901000284109,SCT
+SARS-CoV-2 variant lineage,64921000284102,SCT
+SARS-CoV-2 variant lineage,64931000284100,SCT
+SARS-CoV-2 variant lineage,64941000284107,SCT
+SARS-CoV-2 variant lineage,64951000284105,SCT
+SARS-CoV-2 variant lineage,64971000284103,SCT
+SARS-CoV-2 variant lineage,64991000284104,SCT
+SARS-CoV-2 variant lineage,65001000284109,SCT
+SARS-CoV-2 variant lineage,65011000284106,SCT
+SARS-CoV-2 variant lineage,65031000284100,SCT
+SARS-CoV-2 variant lineage,65051000284105,SCT
+SARS-CoV-2 variant lineage,65071000284103,SCT
+SARS-CoV-2 variant lineage,65091000284104,SCT
+SARS-CoV-2 variant lineage,65111000284107,SCT
+SARS-CoV-2 variant lineage,65121000284103,SCT
+SARS-CoV-2 variant lineage,65131000284101,SCT
+SARS-CoV-2 variant lineage,65151000284106,SCT
+SARS-CoV-2 variant lineage,65171000284104,SCT
+SARS-CoV-2 variant lineage,65191000284100,SCT
+SARS-CoV-2 variant lineage,65211000284101,SCT
+SARS-CoV-2 variant lineage,65221000284105,SCT
+SARS-CoV-2 variant lineage,65241000284100,SCT
+SARS-CoV-2 variant lineage,65251000284102,SCT
+SARS-CoV-2 variant lineage,65261000284104,SCT
+SARS-CoV-2 variant lineage,65281000284106,SCT
+SARS-CoV-2 variant lineage,65291000284108,SCT
+SARS-CoV-2 variant lineage,65301000284107,SCT
+SARS-CoV-2 variant lineage,65311000284109,SCT
+SARS-CoV-2 variant lineage,65321000284100,SCT
+SARS-CoV-2 variant lineage,65331000284103,SCT
+SARS-CoV-2 variant lineage,65341000284105,SCT
+SARS-CoV-2 variant lineage,65351000284108,SCT
+SARS-CoV-2 variant lineage,65371000284101,SCT
+SARS-CoV-2 variant lineage,65381000284104,SCT
+SARS-CoV-2 variant lineage,65391000284102,SCT
+SARS-CoV-2 variant lineage,65401000284104,SCT
+SARS-CoV-2 variant lineage,65421000284106,SCT
+SARS-CoV-2 variant lineage,65431000284108,SCT
+SARS-CoV-2 variant lineage,65441000284101,SCT
+SARS-CoV-2 variant lineage,65491000284109,SCT
+SARS-CoV-2 variant lineage,65501000284100,SCT
+SARS-CoV-2 variant lineage,65511000284103,SCT
+SARS-CoV-2 variant lineage,65521000284107,SCT
+SARS-CoV-2 variant lineage,65531000284109,SCT
+SARS-CoV-2 variant lineage,65541000284102,SCT
+SARS-CoV-2 variant lineage,65711000284108,SCT
+SARS-CoV-2 variant lineage,65721000284104,SCT
+SARS-CoV-2 variant lineage,65731000284102,SCT
+SARS-CoV-2 variant lineage,65741000284109,SCT
+SARS-CoV-2 variant lineage,65561000284101,SCT
+SARS-CoV-2 variant lineage,65581000284108,SCT
+SARS-CoV-2 variant lineage,65601000284101,SCT
+SARS-CoV-2 variant lineage,65621000284108,SCT
+SARS-CoV-2 variant lineage,65641000284103,SCT
+SARS-CoV-2 variant lineage,65651000284100,SCT
+SARS-CoV-2 variant lineage,65661000284102,SCT
+SARS-CoV-2 variant lineage,65671000284107,SCT
+SARS-CoV-2 variant lineage,65681000284109,SCT
+SARS-CoV-2 variant lineage,65691000284106,SCT
+SARS-CoV-2 variant lineage,65701000284106,SCT
+SARS-CoV-2 variant lineage,65761000284105,SCT
+SARS-CoV-2 variant lineage,65781000284103,SCT
+SARS-CoV-2 variant lineage,65791000284101,SCT
+SARS-CoV-2 variant lineage,65801000284102,SCT
+SARS-CoV-2 variant lineage,65821000284109,SCT
+SARS-CoV-2 variant lineage,65831000284106,SCT
+SARS-CoV-2 variant lineage,65841000284104,SCT
+SARS-CoV-2 variant lineage,65861000284103,SCT
+SARS-CoV-2 variant lineage,65951000284109,SCT
+SARS-CoV-2 variant lineage,65961000284107,SCT
+SARS-CoV-2 variant lineage,65971000284102,SCT
+SARS-CoV-2 variant lineage,66031000284108,SCT
+SARS-CoV-2 variant lineage,66051000284103,SCT
+SARS-CoV-2 variant lineage,66071000284105,SCT
+SARS-CoV-2 variant lineage,66081000284107,SCT
+SARS-CoV-2 variant lineage,66101000284103,SCT
+SARS-CoV-2 variant lineage,66121000284105,SCT
+SARS-CoV-2 variant lineage,66141000284100,SCT
+SARS-CoV-2 variant lineage,66151000284102,SCT
+SARS-CoV-2 variant lineage,66161000284104,SCT
+SARS-CoV-2 variant lineage,66181000284106,SCT
+SARS-CoV-2 variant lineage,66201000284105,SCT
+SARS-CoV-2 variant lineage,66211000284107,SCT
+SARS-CoV-2 variant lineage,66221000284103,SCT
+SARS-CoV-2 variant lineage,66241000284108,SCT
+SARS-CoV-2 variant lineage,66261000284109,SCT
+SARS-CoV-2 variant lineage,66281000284102,SCT
+SARS-CoV-2 variant lineage,66301000284101,SCT
+SARS-CoV-2 variant lineage,66311000284104,SCT
+SARS-CoV-2 variant lineage,66361000284102,SCT
+SARS-CoV-2 variant lineage,66371000284107,SCT
+SARS-CoV-2 variant lineage,66391000284106,SCT
+SARS-CoV-2 variant lineage,66471000284103,SCT
+SARS-CoV-2 variant lineage,66481000284101,SCT
+SARS-CoV-2 variant lineage,66491000284104,SCT
+SARS-CoV-2 variant lineage,66501000284108,SCT
+SARS-CoV-2 variant lineage,66521000284101,SCT
+SARS-CoV-2 variant lineage,66531000284104,SCT
+SARS-CoV-2 variant lineage,66541000284106,SCT
+SARS-CoV-2 variant lineage,66551000284109,SCT
+SARS-CoV-2 variant lineage,66561000284107,SCT
+SARS-CoV-2 variant lineage,66571000284102,SCT
+SARS-CoV-2 variant lineage,66671000284101,SCT
+SARS-CoV-2 variant lineage,66691000284102,SCT
+SARS-CoV-2 variant lineage,66701000284102,SCT
+SARS-CoV-2 variant lineage,66721000284109,SCT
+SARS-CoV-2 variant lineage,66731000284106,SCT
+SARS-CoV-2 variant lineage,66741000284104,SCT
+SARS-CoV-2 variant lineage,66751000284101,SCT
+SARS-CoV-2 variant lineage,66771000284108,SCT
+SARS-CoV-2 variant lineage,66781000284105,SCT
+SARS-CoV-2 variant lineage,66841000284109,SCT
+SARS-CoV-2 variant lineage,66861000284105,SCT
+SARS-CoV-2 variant lineage,66881000284103,SCT
+SARS-CoV-2 variant lineage,66891000284101,SCT
+SARS-CoV-2 variant lineage,66901000284100,SCT
+SARS-CoV-2 variant lineage,66911000284103,SCT
+SARS-CoV-2 variant lineage,66931000284109,SCT
+SARS-CoV-2 variant lineage,66951000284104,SCT
+SARS-CoV-2 variant lineage,66971000284106,SCT
+SARS-CoV-2 variant lineage,66981000284108,SCT
+SARS-CoV-2 variant lineage,67001000284101,SCT
+SARS-CoV-2 variant lineage,67051000284100,SCT
+SARS-CoV-2 variant lineage,67071000284107,SCT
+SARS-CoV-2 variant lineage,67081000284109,SCT
+SARS-CoV-2 variant lineage,67111000284103,SCT
+SARS-CoV-2 variant lineage,67241000284105,SCT
+SARS-CoV-2 variant lineage,67251000284108,SCT
+SARS-CoV-2 variant lineage,67261000284106,SCT
+SARS-CoV-2 variant lineage,67271000284101,SCT
+SARS-CoV-2 variant lineage,67281000284104,SCT
+SARS-CoV-2 variant lineage,67291000284102,SCT
+SARS-CoV-2 variant lineage,67301000284103,SCT
+SARS-CoV-2 variant lineage,67311000284101,SCT
+SARS-CoV-2 variant lineage,67321000284105,SCT
+SARS-CoV-2 variant lineage,67331000284107,SCT
+SARS-CoV-2 variant lineage,67341000284100,SCT
+SARS-CoV-2 variant lineage,67351000284102,SCT
+SARS-CoV-2 variant lineage,67371000284109,SCT
+SARS-CoV-2 variant lineage,67381000284106,SCT
+SARS-CoV-2 variant lineage,67391000284108,SCT
+SARS-CoV-2 variant lineage,67401000284106,SCT
+SARS-CoV-2 variant lineage,67431000284102,SCT
+SARS-CoV-2 variant lineage,67441000284109,SCT
+SARS-CoV-2 variant lineage,67451000284107,SCT
+SARS-CoV-2 variant lineage,67461000284105,SCT
+SARS-CoV-2 variant lineage,67471000284100,SCT
+SARS-CoV-2 variant lineage,67511000284107,SCT
+SARS-CoV-2 variant lineage,67521000284103,SCT
+SARS-CoV-2 variant lineage,67531000284101,SCT
+SARS-CoV-2 variant lineage,67541000284108,SCT
+SARS-CoV-2 variant lineage,67551000284106,SCT
+SARS-CoV-2 variant lineage,67571000284104,SCT
+SARS-CoV-2 variant lineage,67581000284102,SCT
+SARS-CoV-2 variant lineage,67601000284109,SCT
+SARS-CoV-2 variant lineage,67611000284106,SCT
+SARS-CoV-2 variant lineage,67621000284102,SCT
+SARS-CoV-2 variant lineage,67631000284100,SCT
+SARS-CoV-2 variant lineage,67651000284105,SCT
+SARS-CoV-2 variant lineage,67661000284108,SCT
+SARS-CoV-2 variant lineage,67671000284103,SCT
+SARS-CoV-2 variant lineage,67681000284101,SCT
+SARS-CoV-2 variant lineage,67691000284104,SCT
+SARS-CoV-2 variant lineage,67701000284104,SCT
+SARS-CoV-2 variant lineage,67711000284102,SCT
+SARS-CoV-2 variant lineage,67721000284106,SCT
+SARS-CoV-2 variant lineage,67731000284108,SCT
+SARS-CoV-2 variant lineage,67741000284101,SCT
+SARS-CoV-2 variant lineage,67751000284103,SCT
+SARS-CoV-2 variant lineage,67771000284105,SCT
+SARS-CoV-2 variant lineage,67791000284109,SCT
+SARS-CoV-2 variant lineage,67801000284108,SCT
+SARS-CoV-2 variant lineage,67881000284100,SCT
+SARS-CoV-2 variant lineage,67921000284109,SCT
+SARS-CoV-2 variant lineage,67931000284106,SCT
+SARS-CoV-2 variant lineage,67951000284101,SCT
+SARS-CoV-2 variant lineage,67981000284105,SCT
+SARS-CoV-2 variant lineage,68001000284100,SCT
+SARS-CoV-2 variant lineage,68011000284103,SCT
+SARS-CoV-2 variant lineage,68031000284109,SCT
+SARS-CoV-2 variant lineage,68041000284102,SCT
+SARS-CoV-2 variant lineage,68051000284104,SCT
+SARS-CoV-2 variant lineage,68071000284106,SCT
+SARS-CoV-2 variant lineage,68081000284108,SCT
+SARS-CoV-2 variant lineage,68151000284103,SCT
+SARS-CoV-2 variant lineage,68161000284100,SCT
+SARS-CoV-2 variant lineage,68171000284105,SCT
+SARS-CoV-2 variant lineage,68181000284107,SCT
+SARS-CoV-2 variant lineage,68191000284109,SCT
+SARS-CoV-2 variant lineage,68231000284102,SCT
+SARS-CoV-2 variant lineage,68241000284109,SCT
+SARS-CoV-2 variant lineage,68251000284107,SCT
+SARS-CoV-2 variant lineage,68261000284105,SCT
+SARS-CoV-2 variant lineage,68381000284105,SCT
+SARS-CoV-2 variant lineage,68391000284107,SCT
+SARS-CoV-2 variant lineage,68401000284105,SCT
+SARS-CoV-2 variant lineage,68411000284107,SCT
+SARS-CoV-2 variant lineage,68431000284101,SCT
+SARS-CoV-2 variant lineage,68491000284100,SCT
+SARS-CoV-2 variant lineage,68501000284109,SCT
+SARS-CoV-2 variant lineage,68511000284106,SCT
+SARS-CoV-2 variant lineage,68521000284102,SCT
+SARS-CoV-2 variant lineage,68531000284100,SCT
+SARS-CoV-2 variant lineage,68541000284107,SCT
+SARS-CoV-2 variant lineage,68551000284105,SCT
+SARS-CoV-2 variant lineage,68561000284108,SCT
+SARS-CoV-2 variant lineage,68571000284103,SCT
+SARS-CoV-2 variant lineage,68581000284101,SCT
+SARS-CoV-2 variant lineage,68591000284104,SCT
+SARS-CoV-2 variant lineage,68601000284108,SCT
+SARS-CoV-2 variant lineage,68611000284105,SCT
+SARS-CoV-2 variant lineage,68621000284101,SCT
+SARS-CoV-2 variant lineage,68631000284104,SCT
+SARS-CoV-2 variant lineage,68641000284106,SCT
+SARS-CoV-2 variant lineage,68651000284109,SCT
+SARS-CoV-2 variant lineage,68661000284107,SCT
+SARS-CoV-2 variant lineage,68671000284102,SCT
+SARS-CoV-2 variant lineage,68681000284100,SCT
+SARS-CoV-2 variant lineage,68691000284103,SCT
+SARS-CoV-2 variant lineage,68701000284103,SCT
+SARS-CoV-2 variant lineage,68711000284101,SCT
+SARS-CoV-2 variant lineage,68721000284105,SCT
+SARS-CoV-2 variant lineage,68731000284107,SCT
+SARS-CoV-2 variant lineage,68741000284100,SCT
+SARS-CoV-2 variant lineage,68751000284102,SCT
+SARS-CoV-2 variant lineage,68761000284104,SCT
+SARS-CoV-2 variant lineage,68771000284109,SCT
+SARS-CoV-2 variant lineage,68791000284108,SCT
+SARS-CoV-2 variant lineage,68801000284107,SCT
+SARS-CoV-2 variant lineage,68811000284109,SCT
+SARS-CoV-2 variant lineage,68821000284100,SCT
+SARS-CoV-2 variant lineage,68831000284103,SCT
+SARS-CoV-2 variant lineage,68851000284108,SCT
+SARS-CoV-2 variant lineage,68861000284106,SCT
+SARS-CoV-2 variant lineage,68871000284101,SCT
+SARS-CoV-2 variant lineage,68881000284104,SCT
+SARS-CoV-2 variant lineage,68891000284102,SCT
+SARS-CoV-2 variant lineage,68911000284104,SCT
+SARS-CoV-2 variant lineage,68921000284108,SCT
+SARS-CoV-2 variant lineage,68931000284105,SCT
+SARS-CoV-2 variant lineage,68941000284103,SCT
+SARS-CoV-2 variant lineage,68951000284100,SCT
+SARS-CoV-2 variant lineage,68961000284102,SCT
+Respiratory pathogen PCR,716253006,SCT
+Respiratory pathogen PCR,450615008,SCT
+Respiratory pathogen PCR,22521005,SCT
+Respiratory pathogen PCR,32452004,SCT
+Respiratory pathogen PCR,4831000284105,SCT
+Respiratory pathogen PCR,56180002,SCT
+Respiratory pathogen PCR,81857000,SCT
+Respiratory pathogen PCR,89766006,SCT
+Respiratory pathogen PCR,22580008,SCT
+Respiratory pathogen PCR,55174004,SCT
+Respiratory pathogen PCR,16362001,SCT
+Respiratory viruses,716253006,SCT
+Respiratory viruses,450615008,SCT
+Respiratory viruses,22521005,SCT
+Respiratory viruses,32452004,SCT
+Respiratory viruses,4831000284105,SCT
+Respiratory viruses,56180002,SCT
+Respiratory viruses,81857000,SCT
+Respiratory viruses,89766006,SCT
+Respiratory viruses,1838001,SCT
+Program list,1371000284102,SCT
+Flu A H subtype,407479009,SCT
+Flu B lineage,407480007,SCT
+Flu B lineage PCR,407480007,SCT
+Target PCR result,42425007,SCT
+Conclusion PCR result,455371000124106,SCT
+RSV lineage,78341000284107,SCT
+RSV lineage,78371000284103,SCT
+RSV lineage,78391000284104,SCT
+RSV lineage,78411000284104,SCT
+RSV lineage,78431000284105,SCT
+RSV lineage,78451000284100,SCT
+RSV lineage,78461000284102,SCT
+RSV lineage,78471000284107,SCT
+RSV lineage,78491000284106,SCT
+RSV lineage,OTH,NULLFL
+RSV lineage,1681000284105,SCT
+Respiratory pathogen PCR,5091000284102,SCT
+Respiratory pathogen PCR,422298007,SCT
+Respiratory pathogen PCR,450870009,SCT
+Flu A H subtype,4601000284100,SCT
+Flu A H subtype,4581000284107,SCT
+Flu A H subtype,4591000284109,SCT
+Flu A H subtype,81471000284106,SCT
+Respiratory pathogen PCR,81461000284101,SCT
+Results PLT196,78071000284100,SCT
+Flu A H5,1441000284102,SCT
+Flu A H5,951000124103,SCT
+Flu A H5,419984006,SCT
+Flu A H5,78071000284100,SCT
+Flu A H5,260415000,SCT
+Respiratory pathogen PCR,83091000284101,SCT
+RSV subtype,417770000,SCT
+RSV subtype,417771001,SCT
+RSV subtype,83091000284101,SCT
+RSV subtype,1681000284105,SCT
+Program list,84471000284109,SCT
+RSV lineage,80041000284102,SCT
+RSV lineage,82471000284100,SCT
+RSV lineage,82491000284101,SCT
+RSV lineage,82511000284107,SCT
+RSV lineage,82531000284101,SCT
+RSV lineage,82551000284106,SCT
+RSV lineage,82571000284104,SCT
+RSV lineage,83011000284108,SCT
+RSV lineage,83031000284102,SCT
+RSV lineage,83111000284109,SCT
+RSV lineage,83131000284103,SCT
+RSV lineage,83201000284100,SCT
+RSV lineage,83791000284103,SCT
+RSV lineage,84201000284102,SCT
+RSV lineage,84491000284108,SCT
+RSV lineage,84511000284102,SCT
+RSV lineage,84531000284108,SCT
+RSV lineage,84551000284103,SCT
+RSV lineage,84561000284100,SCT
+SARS-CoV-2 variant lineage,69031000284102,SCT
+SARS-CoV-2 variant lineage,69041000284109,SCT
+SARS-CoV-2 variant lineage,69051000284107,SCT
+SARS-CoV-2 variant lineage,69061000284105,SCT
+SARS-CoV-2 variant lineage,69071000284100,SCT
+SARS-CoV-2 variant lineage,69081000284103,SCT
+SARS-CoV-2 variant lineage,69091000284101,SCT
+SARS-CoV-2 variant lineage,69131000284103,SCT
+SARS-CoV-2 variant lineage,69171000284101,SCT
+SARS-CoV-2 variant lineage,69181000284104,SCT
+SARS-CoV-2 variant lineage,69201000284100,SCT
+SARS-CoV-2 variant lineage,69211000284103,SCT
+SARS-CoV-2 variant lineage,69221000284107,SCT
+SARS-CoV-2 variant lineage,69231000284109,SCT
+SARS-CoV-2 variant lineage,69241000284102,SCT
+SARS-CoV-2 variant lineage,69251000284104,SCT
+SARS-CoV-2 variant lineage,69271000284106,SCT
+SARS-CoV-2 variant lineage,69281000284108,SCT
+SARS-CoV-2 variant lineage,69291000284105,SCT
+SARS-CoV-2 variant lineage,69301000284109,SCT
+SARS-CoV-2 variant lineage,69321000284102,SCT
+SARS-CoV-2 variant lineage,69331000284100,SCT
+SARS-CoV-2 variant lineage,69341000284107,SCT
+SARS-CoV-2 variant lineage,69351000284105,SCT
+SARS-CoV-2 variant lineage,69361000284108,SCT
+SARS-CoV-2 variant lineage,69371000284103,SCT
+SARS-CoV-2 variant lineage,69441000284103,SCT
+SARS-CoV-2 variant lineage,69451000284100,SCT
+SARS-CoV-2 variant lineage,69461000284102,SCT
+SARS-CoV-2 variant lineage,69531000284106,SCT
+SARS-CoV-2 variant lineage,69541000284104,SCT
+SARS-CoV-2 variant lineage,69551000284101,SCT
+SARS-CoV-2 variant lineage,69561000284103,SCT
+SARS-CoV-2 variant lineage,69571000284108,SCT
+SARS-CoV-2 variant lineage,69581000284105,SCT
+SARS-CoV-2 variant lineage,69591000284107,SCT
+SARS-CoV-2 variant lineage,69611000284101,SCT
+SARS-CoV-2 variant lineage,69631000284107,SCT
+SARS-CoV-2 variant lineage,69751000284109,SCT
+SARS-CoV-2 variant lineage,69761000284107,SCT
+SARS-CoV-2 variant lineage,69771000284102,SCT
+SARS-CoV-2 variant lineage,69791000284103,SCT
+SARS-CoV-2 variant lineage,69801000284104,SCT
+SARS-CoV-2 variant lineage,69811000284102,SCT
+SARS-CoV-2 variant lineage,69861000284100,SCT
+SARS-CoV-2 variant lineage,69871000284105,SCT
+SARS-CoV-2 variant lineage,69891000284109,SCT
+SARS-CoV-2 variant lineage,69901000284105,SCT
+SARS-CoV-2 variant lineage,69911000284107,SCT
+SARS-CoV-2 variant lineage,69921000284103,SCT
+SARS-CoV-2 variant lineage,69941000284108,SCT
+SARS-CoV-2 variant lineage,69951000284106,SCT
+SARS-CoV-2 variant lineage,69961000284109,SCT
+SARS-CoV-2 variant lineage,69971000284104,SCT
+SARS-CoV-2 variant lineage,69981000284102,SCT
+SARS-CoV-2 variant lineage,69991000284100,SCT
+SARS-CoV-2 variant lineage,70061000284108,SCT
+SARS-CoV-2 variant lineage,70091000284104,SCT
+SARS-CoV-2 variant lineage,70111000284107,SCT
+SARS-CoV-2 variant lineage,70131000284101,SCT
+SARS-CoV-2 variant lineage,70141000284108,SCT
+SARS-CoV-2 variant lineage,70151000284106,SCT
+SARS-CoV-2 variant lineage,70161000284109,SCT
+SARS-CoV-2 variant lineage,70181000284102,SCT
+SARS-CoV-2 variant lineage,70201000284103,SCT
+SARS-CoV-2 variant lineage,70211000284101,SCT
+SARS-CoV-2 variant lineage,70221000284105,SCT
+SARS-CoV-2 variant lineage,70231000284107,SCT
+SARS-CoV-2 variant lineage,70241000284100,SCT
+SARS-CoV-2 variant lineage,70251000284102,SCT
+SARS-CoV-2 variant lineage,70261000284104,SCT
+SARS-CoV-2 variant lineage,70271000284109,SCT
+SARS-CoV-2 variant lineage,70281000284106,SCT
+SARS-CoV-2 variant lineage,70291000284108,SCT
+SARS-CoV-2 variant lineage,70301000284107,SCT
+SARS-CoV-2 variant lineage,70311000284109,SCT
+SARS-CoV-2 variant lineage,70321000284100,SCT
+SARS-CoV-2 variant lineage,70331000284103,SCT
+SARS-CoV-2 variant lineage,70341000284105,SCT
+SARS-CoV-2 variant lineage,70351000284108,SCT
+SARS-CoV-2 variant lineage,70361000284106,SCT
+SARS-CoV-2 variant lineage,70371000284101,SCT
+SARS-CoV-2 variant lineage,70391000284102,SCT
+SARS-CoV-2 variant lineage,70401000284104,SCT
+SARS-CoV-2 variant lineage,70421000284106,SCT
+SARS-CoV-2 variant lineage,70431000284108,SCT
+SARS-CoV-2 variant lineage,70441000284101,SCT
+SARS-CoV-2 variant lineage,70451000284103,SCT
+SARS-CoV-2 variant lineage,70461000284100,SCT
+SARS-CoV-2 variant lineage,70471000284105,SCT
+SARS-CoV-2 variant lineage,70481000284107,SCT
+SARS-CoV-2 variant lineage,70491000284109,SCT
+SARS-CoV-2 variant lineage,70511000284103,SCT
+SARS-CoV-2 variant lineage,70531000284109,SCT
+SARS-CoV-2 variant lineage,70541000284102,SCT
+SARS-CoV-2 variant lineage,70561000284101,SCT
+SARS-CoV-2 variant lineage,70571000284106,SCT
+SARS-CoV-2 variant lineage,70591000284105,SCT
+SARS-CoV-2 variant lineage,70601000284101,SCT
+SARS-CoV-2 variant lineage,70611000284104,SCT
+SARS-CoV-2 variant lineage,70621000284108,SCT
+SARS-CoV-2 variant lineage,70641000284103,SCT
+SARS-CoV-2 variant lineage,70661000284102,SCT
+SARS-CoV-2 variant lineage,70691000284106,SCT
+SARS-CoV-2 variant lineage,70711000284108,SCT
+SARS-CoV-2 variant lineage,70721000284104,SCT
+SARS-CoV-2 variant lineage,70741000284109,SCT
+SARS-CoV-2 variant lineage,70751000284107,SCT
+SARS-CoV-2 variant lineage,70781000284103,SCT
+SARS-CoV-2 variant lineage,70791000284101,SCT
+SARS-CoV-2 variant lineage,70801000284102,SCT
+SARS-CoV-2 variant lineage,70811000284100,SCT
+SARS-CoV-2 variant lineage,70821000284109,SCT
+SARS-CoV-2 variant lineage,70831000284106,SCT
+SARS-CoV-2 variant lineage,70851000284101,SCT
+SARS-CoV-2 variant lineage,70861000284103,SCT
+SARS-CoV-2 variant lineage,70871000284108,SCT
+SARS-CoV-2 variant lineage,70881000284105,SCT
+SARS-CoV-2 variant lineage,70891000284107,SCT
+SARS-CoV-2 variant lineage,70901000284108,SCT
+SARS-CoV-2 variant lineage,71041000284101,SCT
+SARS-CoV-2 variant lineage,71051000284103,SCT
+SARS-CoV-2 variant lineage,71061000284100,SCT
+SARS-CoV-2 variant lineage,71071000284105,SCT
+SARS-CoV-2 variant lineage,71091000284109,SCT
+SARS-CoV-2 variant lineage,71111000284101,SCT
+SARS-CoV-2 variant lineage,71131000284107,SCT
+SARS-CoV-2 variant lineage,71141000284100,SCT
+SARS-CoV-2 variant lineage,71161000284104,SCT
+SARS-CoV-2 variant lineage,71171000284109,SCT
+SARS-CoV-2 variant lineage,71181000284106,SCT
+SARS-CoV-2 variant lineage,71191000284108,SCT
+SARS-CoV-2 variant lineage,71211000284107,SCT
+SARS-CoV-2 variant lineage,71221000284103,SCT
+SARS-CoV-2 variant lineage,71231000284101,SCT
+SARS-CoV-2 variant lineage,71241000284108,SCT
+SARS-CoV-2 variant lineage,71251000284106,SCT
+SARS-CoV-2 variant lineage,71271000284104,SCT
+SARS-CoV-2 variant lineage,71451000284105,SCT
+SARS-CoV-2 variant lineage,71461000284108,SCT
+SARS-CoV-2 variant lineage,71481000284101,SCT
+SARS-CoV-2 variant lineage,71491000284104,SCT
+SARS-CoV-2 variant lineage,71511000284105,SCT
+SARS-CoV-2 variant lineage,71541000284106,SCT
+SARS-CoV-2 variant lineage,71581000284100,SCT
+SARS-CoV-2 variant lineage,71631000284103,SCT
+SARS-CoV-2 variant lineage,71641000284105,SCT
+SARS-CoV-2 variant lineage,71651000284108,SCT
+SARS-CoV-2 variant lineage,71671000284101,SCT
+SARS-CoV-2 variant lineage,71681000284104,SCT
+SARS-CoV-2 variant lineage,71691000284102,SCT
+SARS-CoV-2 variant lineage,71711000284100,SCT
+SARS-CoV-2 variant lineage,71721000284109,SCT
+SARS-CoV-2 variant lineage,71801000284106,SCT
+SARS-CoV-2 variant lineage,71811000284108,SCT
+SARS-CoV-2 variant lineage,71821000284104,SCT
+SARS-CoV-2 variant lineage,71831000284102,SCT
+SARS-CoV-2 variant lineage,71851000284107,SCT
+SARS-CoV-2 variant lineage,71881000284103,SCT
+SARS-CoV-2 variant lineage,71901000284100,SCT
+SARS-CoV-2 variant lineage,72021000284101,SCT
+SARS-CoV-2 variant lineage,72031000284104,SCT
+SARS-CoV-2 variant lineage,72041000284106,SCT
+SARS-CoV-2 variant lineage,72061000284107,SCT
+SARS-CoV-2 variant lineage,72071000284102,SCT
+SARS-CoV-2 variant lineage,72081000284100,SCT
+SARS-CoV-2 variant lineage,72101000284109,SCT
+SARS-CoV-2 variant lineage,72111000284106,SCT
+SARS-CoV-2 variant lineage,72161000284108,SCT
+SARS-CoV-2 variant lineage,72171000284103,SCT
+SARS-CoV-2 variant lineage,72181000284101,SCT
+SARS-CoV-2 variant lineage,72191000284104,SCT
+SARS-CoV-2 variant lineage,72201000284102,SCT
+SARS-CoV-2 variant lineage,72211000284100,SCT
+SARS-CoV-2 variant lineage,72221000284109,SCT
+SARS-CoV-2 variant lineage,72311000284108,SCT
+SARS-CoV-2 variant lineage,72331000284102,SCT
+SARS-CoV-2 variant lineage,72351000284107,SCT
+SARS-CoV-2 variant lineage,72361000284105,SCT
+SARS-CoV-2 variant lineage,72371000284100,SCT
+SARS-CoV-2 variant lineage,72391000284101,SCT
+SARS-CoV-2 variant lineage,72401000284103,SCT
+SARS-CoV-2 variant lineage,72411000284101,SCT
+SARS-CoV-2 variant lineage,72431000284107,SCT
+SARS-CoV-2 variant lineage,72441000284100,SCT
+SARS-CoV-2 variant lineage,72451000284102,SCT
+SARS-CoV-2 variant lineage,72461000284104,SCT
+SARS-CoV-2 variant lineage,72471000284109,SCT
+SARS-CoV-2 variant lineage,72481000284106,SCT
+SARS-CoV-2 variant lineage,72501000284104,SCT
+SARS-CoV-2 variant lineage,72511000284102,SCT
+SARS-CoV-2 variant lineage,72521000284106,SCT
+SARS-CoV-2 variant lineage,72541000284101,SCT
+SARS-CoV-2 variant lineage,72561000284100,SCT
+SARS-CoV-2 variant lineage,72571000284105,SCT
+SARS-CoV-2 variant lineage,72591000284109,SCT
+SARS-CoV-2 variant lineage,72611000284103,SCT
+SARS-CoV-2 variant lineage,72631000284109,SCT
+SARS-CoV-2 variant lineage,72641000284102,SCT
+SARS-CoV-2 variant lineage,72651000284104,SCT
+SARS-CoV-2 variant lineage,72661000284101,SCT
+SARS-CoV-2 variant lineage,72681000284108,SCT
+SARS-CoV-2 variant lineage,72691000284105,SCT
+SARS-CoV-2 variant lineage,72701000284105,SCT
+SARS-CoV-2 variant lineage,72711000284107,SCT
+SARS-CoV-2 variant lineage,72721000284103,SCT
+SARS-CoV-2 variant lineage,72731000284101,SCT
+SARS-CoV-2 variant lineage,72741000284108,SCT
+SARS-CoV-2 variant lineage,72751000284106,SCT
+SARS-CoV-2 variant lineage,72761000284109,SCT
+SARS-CoV-2 variant lineage,72771000284104,SCT
+SARS-CoV-2 variant lineage,72801000284101,SCT
+SARS-CoV-2 variant lineage,72811000284104,SCT
+SARS-CoV-2 variant lineage,72821000284108,SCT
+SARS-CoV-2 variant lineage,72831000284105,SCT
+SARS-CoV-2 variant lineage,72841000284103,SCT
+SARS-CoV-2 variant lineage,72861000284102,SCT
+SARS-CoV-2 variant lineage,72871000284107,SCT
+SARS-CoV-2 variant lineage,72881000284109,SCT
+SARS-CoV-2 variant lineage,72901000284107,SCT
+SARS-CoV-2 variant lineage,72921000284100,SCT
+SARS-CoV-2 variant lineage,72941000284105,SCT
+SARS-CoV-2 variant lineage,72951000284108,SCT
+SARS-CoV-2 variant lineage,72961000284106,SCT
+SARS-CoV-2 variant lineage,72981000284104,SCT
+SARS-CoV-2 variant lineage,72991000284102,SCT
+SARS-CoV-2 variant lineage,73001000284103,SCT
+SARS-CoV-2 variant lineage,73011000284101,SCT
+SARS-CoV-2 variant lineage,73021000284105,SCT
+SARS-CoV-2 variant lineage,73031000284107,SCT
+SARS-CoV-2 variant lineage,73041000284100,SCT
+SARS-CoV-2 variant lineage,73051000284102,SCT
+SARS-CoV-2 variant lineage,73061000284104,SCT
+SARS-CoV-2 variant lineage,73071000284109,SCT
+SARS-CoV-2 variant lineage,73081000284106,SCT
+SARS-CoV-2 variant lineage,73091000284108,SCT
+SARS-CoV-2 variant lineage,73111000284100,SCT
+SARS-CoV-2 variant lineage,73131000284106,SCT
+SARS-CoV-2 variant lineage,73151000284101,SCT
+SARS-CoV-2 variant lineage,73171000284108,SCT
+SARS-CoV-2 variant lineage,73191000284107,SCT
+SARS-CoV-2 variant lineage,73211000284106,SCT
+SARS-CoV-2 variant lineage,73221000284102,SCT
+SARS-CoV-2 variant lineage,73241000284107,SCT
+SARS-CoV-2 variant lineage,73251000284105,SCT
+SARS-CoV-2 variant lineage,73271000284103,SCT
+SARS-CoV-2 variant lineage,73281000284101,SCT
+SARS-CoV-2 variant lineage,73291000284104,SCT
+SARS-CoV-2 variant lineage,73311000284103,SCT
+SARS-CoV-2 variant lineage,73371000284106,SCT
+SARS-CoV-2 variant lineage,73391000284105,SCT
+SARS-CoV-2 variant lineage,73401000284108,SCT
+SARS-CoV-2 variant lineage,73411000284105,SCT
+SARS-CoV-2 variant lineage,73421000284101,SCT
+SARS-CoV-2 variant lineage,73441000284106,SCT
+SARS-CoV-2 variant lineage,73461000284107,SCT
+SARS-CoV-2 variant lineage,73471000284102,SCT
+SARS-CoV-2 variant lineage,73491000284103,SCT
+SARS-CoV-2 variant lineage,73501000284107,SCT
+SARS-CoV-2 variant lineage,73521000284100,SCT
+SARS-CoV-2 variant lineage,73541000284105,SCT
+SARS-CoV-2 variant lineage,73561000284106,SCT
+SARS-CoV-2 variant lineage,73581000284104,SCT
+SARS-CoV-2 variant lineage,73591000284102,SCT
+SARS-CoV-2 variant lineage,73601000284106,SCT
+SARS-CoV-2 variant lineage,73611000284108,SCT
+SARS-CoV-2 variant lineage,73631000284102,SCT
+SARS-CoV-2 variant lineage,73651000284107,SCT
+SARS-CoV-2 variant lineage,73661000284105,SCT
+SARS-CoV-2 variant lineage,73681000284103,SCT
+SARS-CoV-2 variant lineage,73691000284101,SCT
+SARS-CoV-2 variant lineage,73711000284104,SCT
+SARS-CoV-2 variant lineage,73721000284108,SCT
+SARS-CoV-2 variant lineage,73731000284105,SCT
+SARS-CoV-2 variant lineage,73741000284103,SCT
+SARS-CoV-2 variant lineage,73751000284100,SCT
+SARS-CoV-2 variant lineage,73761000284102,SCT
+SARS-CoV-2 variant lineage,73771000284107,SCT
+SARS-CoV-2 variant lineage,73781000284109,SCT
+SARS-CoV-2 variant lineage,73801000284105,SCT
+SARS-CoV-2 variant lineage,73811000284107,SCT
+SARS-CoV-2 variant lineage,73831000284101,SCT
+SARS-CoV-2 variant lineage,73841000284108,SCT
+SARS-CoV-2 variant lineage,73861000284109,SCT
+SARS-CoV-2 variant lineage,73911000284102,SCT
+SARS-CoV-2 variant lineage,73931000284108,SCT
+SARS-CoV-2 variant lineage,73941000284101,SCT
+SARS-CoV-2 variant lineage,73961000284100,SCT
+SARS-CoV-2 variant lineage,73981000284107,SCT
+SARS-CoV-2 variant lineage,74001000284101,SCT
+SARS-CoV-2 variant lineage,74191000284105,SCT
+SARS-CoV-2 variant lineage,74211000284109,SCT
+SARS-CoV-2 variant lineage,74221000284100,SCT
+SARS-CoV-2 variant lineage,74231000284103,SCT
+SARS-CoV-2 variant lineage,74391000284108,SCT
+SARS-CoV-2 variant lineage,74401000284106,SCT
+SARS-CoV-2 variant lineage,74411000284108,SCT
+SARS-CoV-2 variant lineage,74461000284105,SCT
+SARS-CoV-2 variant lineage,74491000284101,SCT
+SARS-CoV-2 variant lineage,74501000284105,SCT
+SARS-CoV-2 variant lineage,74511000284107,SCT
+SARS-CoV-2 variant lineage,74531000284101,SCT
+SARS-CoV-2 variant lineage,74541000284108,SCT
+SARS-CoV-2 variant lineage,74561000284109,SCT
+SARS-CoV-2 variant lineage,74581000284102,SCT
+SARS-CoV-2 variant lineage,74601000284109,SCT
+SARS-CoV-2 variant lineage,74611000284106,SCT
+SARS-CoV-2 variant lineage,74621000284102,SCT
+SARS-CoV-2 variant lineage,74631000284100,SCT
+SARS-CoV-2 variant lineage,74641000284107,SCT
+SARS-CoV-2 variant lineage,74661000284108,SCT
+SARS-CoV-2 variant lineage,74711000284102,SCT
+SARS-CoV-2 variant lineage,74731000284108,SCT
+SARS-CoV-2 variant lineage,74751000284103,SCT
+SARS-CoV-2 variant lineage,74771000284105,SCT
+SARS-CoV-2 variant lineage,74781000284107,SCT
+SARS-CoV-2 variant lineage,74791000284109,SCT
+SARS-CoV-2 variant lineage,74811000284105,SCT
+SARS-CoV-2 variant lineage,74841000284106,SCT
+SARS-CoV-2 variant lineage,74921000284109,SCT
+SARS-CoV-2 variant lineage,74931000284106,SCT
+SARS-CoV-2 variant lineage,74941000284104,SCT
+SARS-CoV-2 variant lineage,74951000284101,SCT
+SARS-CoV-2 variant lineage,74961000284103,SCT
+SARS-CoV-2 variant lineage,74981000284105,SCT
+SARS-CoV-2 variant lineage,74991000284107,SCT
+SARS-CoV-2 variant lineage,75011000284100,SCT
+SARS-CoV-2 variant lineage,75031000284106,SCT
+SARS-CoV-2 variant lineage,75051000284101,SCT
+SARS-CoV-2 variant lineage,75071000284108,SCT
+SARS-CoV-2 variant lineage,75091000284107,SCT
+SARS-CoV-2 variant lineage,75111000284104,SCT
+SARS-CoV-2 variant lineage,75131000284105,SCT
+SARS-CoV-2 variant lineage,75151000284100,SCT
+SARS-CoV-2 variant lineage,75161000284102,SCT
+SARS-CoV-2 variant lineage,75181000284109,SCT
+SARS-CoV-2 variant lineage,75191000284106,SCT
+SARS-CoV-2 variant lineage,75201000284108,SCT
+SARS-CoV-2 variant lineage,75221000284101,SCT
+SARS-CoV-2 variant lineage,75231000284104,SCT
+SARS-CoV-2 variant lineage,75241000284106,SCT
+SARS-CoV-2 variant lineage,75251000284109,SCT
+SARS-CoV-2 variant lineage,75261000284107,SCT
+SARS-CoV-2 variant lineage,75271000284102,SCT
+SARS-CoV-2 variant lineage,75301000284104,SCT
+SARS-CoV-2 variant lineage,75321000284106,SCT
+SARS-CoV-2 variant lineage,75331000284108,SCT
+SARS-CoV-2 variant lineage,75361000284100,SCT
+SARS-CoV-2 variant lineage,75371000284105,SCT
+SARS-CoV-2 variant lineage,75391000284109,SCT
+SARS-CoV-2 variant lineage,75411000284109,SCT
+SARS-CoV-2 variant lineage,75421000284100,SCT
+SARS-CoV-2 variant lineage,75431000284103,SCT
+SARS-CoV-2 variant lineage,75441000284105,SCT
+SARS-CoV-2 variant lineage,75451000284108,SCT
+SARS-CoV-2 variant lineage,75461000284106,SCT
+SARS-CoV-2 variant lineage,75481000284104,SCT
+SARS-CoV-2 variant lineage,75551000284107,SCT
+SARS-CoV-2 variant lineage,75561000284105,SCT
+SARS-CoV-2 variant lineage,75571000284100,SCT
+SARS-CoV-2 variant lineage,75581000284103,SCT
+SARS-CoV-2 variant lineage,75591000284101,SCT
+SARS-CoV-2 variant lineage,75601000284105,SCT
+SARS-CoV-2 variant lineage,75611000284107,SCT
+SARS-CoV-2 variant lineage,75671000284104,SCT
+SARS-CoV-2 variant lineage,75711000284103,SCT
+SARS-CoV-2 variant lineage,75721000284107,SCT
+SARS-CoV-2 variant lineage,75731000284109,SCT
+SARS-CoV-2 variant lineage,75751000284104,SCT
+SARS-CoV-2 variant lineage,75811000284106,SCT
+SARS-CoV-2 variant lineage,75821000284102,SCT
+SARS-CoV-2 variant lineage,75831000284100,SCT
+SARS-CoV-2 variant lineage,75871000284103,SCT
+SARS-CoV-2 variant lineage,75911000284101,SCT
+SARS-CoV-2 variant lineage,75951000284102,SCT
+SARS-CoV-2 variant lineage,75961000284104,SCT
+SARS-CoV-2 variant lineage,75971000284109,SCT
+SARS-CoV-2 variant lineage,75981000284106,SCT
+SARS-CoV-2 variant lineage,76001000284107,SCT
+SARS-CoV-2 variant lineage,76021000284100,SCT
+SARS-CoV-2 variant lineage,76041000284105,SCT
+SARS-CoV-2 variant lineage,76061000284106,SCT
+SARS-CoV-2 variant lineage,76081000284104,SCT
+SARS-CoV-2 variant lineage,76101000284108,SCT
+SARS-CoV-2 variant lineage,76111000284105,SCT
+SARS-CoV-2 variant lineage,76121000284101,SCT
+SARS-CoV-2 variant lineage,76131000284104,SCT
+SARS-CoV-2 variant lineage,76151000284109,SCT
+SARS-CoV-2 variant lineage,76161000284107,SCT
+SARS-CoV-2 variant lineage,76171000284102,SCT
+SARS-CoV-2 variant lineage,76191000284103,SCT
+SARS-CoV-2 variant lineage,76211000284104,SCT
+SARS-CoV-2 variant lineage,76221000284108,SCT
+SARS-CoV-2 variant lineage,76231000284105,SCT
+SARS-CoV-2 variant lineage,76251000284100,SCT
+SARS-CoV-2 variant lineage,76271000284107,SCT
+SARS-CoV-2 variant lineage,76281000284109,SCT
+SARS-CoV-2 variant lineage,76291000284106,SCT
+SARS-CoV-2 variant lineage,76311000284107,SCT
+SARS-CoV-2 variant lineage,76331000284101,SCT
+SARS-CoV-2 variant lineage,76351000284106,SCT
+SARS-CoV-2 variant lineage,76371000284104,SCT
+SARS-CoV-2 variant lineage,76391000284100,SCT
+SARS-CoV-2 variant lineage,76411000284100,SCT
+SARS-CoV-2 variant lineage,76431000284106,SCT
+SARS-CoV-2 variant lineage,76451000284101,SCT
+SARS-CoV-2 variant lineage,76461000284103,SCT
+SARS-CoV-2 variant lineage,76471000284108,SCT
+SARS-CoV-2 variant lineage,76481000284105,SCT
+SARS-CoV-2 variant lineage,76491000284107,SCT
+SARS-CoV-2 variant lineage,76571000284109,SCT
+SARS-CoV-2 variant lineage,76591000284108,SCT
+SARS-CoV-2 variant lineage,76611000284102,SCT
+SARS-CoV-2 variant lineage,76631000284108,SCT
+SARS-CoV-2 variant lineage,76641000284101,SCT
+SARS-CoV-2 variant lineage,76651000284103,SCT
+SARS-CoV-2 variant lineage,76691000284109,SCT
+SARS-CoV-2 variant lineage,76701000284109,SCT
+SARS-CoV-2 variant lineage,76721000284102,SCT
+SARS-CoV-2 variant lineage,76741000284107,SCT
+SARS-CoV-2 variant lineage,76761000284108,SCT
+SARS-CoV-2 variant lineage,76771000284103,SCT
+SARS-CoV-2 variant lineage,76781000284101,SCT
+SARS-CoV-2 variant lineage,76791000284104,SCT
+SARS-CoV-2 variant lineage,76801000284100,SCT
+SARS-CoV-2 variant lineage,76811000284103,SCT
+SARS-CoV-2 variant lineage,76821000284107,SCT
+SARS-CoV-2 variant lineage,76831000284109,SCT
+SARS-CoV-2 variant lineage,76841000284102,SCT
+SARS-CoV-2 variant lineage,76851000284104,SCT
+SARS-CoV-2 variant lineage,76861000284101,SCT
+SARS-CoV-2 variant lineage,76881000284108,SCT
+SARS-CoV-2 variant lineage,76901000284106,SCT
+SARS-CoV-2 variant lineage,76921000284104,SCT
+SARS-CoV-2 variant lineage,76931000284102,SCT
+SARS-CoV-2 variant lineage,76941000284109,SCT
+SARS-CoV-2 variant lineage,76951000284107,SCT
+SARS-CoV-2 variant lineage,76961000284105,SCT
+SARS-CoV-2 variant lineage,76981000284103,SCT
+SARS-CoV-2 variant lineage,76991000284101,SCT
+SARS-CoV-2 variant lineage,77001000284105,SCT
+SARS-CoV-2 variant lineage,77011000284107,SCT
+SARS-CoV-2 variant lineage,77021000284103,SCT
+SARS-CoV-2 variant lineage,77041000284108,SCT
+SARS-CoV-2 variant lineage,77051000284106,SCT
+SARS-CoV-2 variant lineage,77071000284104,SCT
+SARS-CoV-2 variant lineage,77081000284102,SCT
+SARS-CoV-2 variant lineage,77091000284100,SCT
+SARS-CoV-2 variant lineage,77191000284101,SCT
+SARS-CoV-2 variant lineage,77211000284102,SCT
+SARS-CoV-2 variant lineage,77221000284106,SCT
+SARS-CoV-2 variant lineage,77261000284100,SCT
+SARS-CoV-2 variant lineage,77271000284105,SCT
+SARS-CoV-2 variant lineage,77281000284107,SCT
+SARS-CoV-2 variant lineage,77301000284108,SCT
+SARS-CoV-2 variant lineage,77321000284101,SCT
+SARS-CoV-2 variant lineage,77341000284106,SCT
+SARS-CoV-2 variant lineage,77361000284107,SCT
+SARS-CoV-2 variant lineage,77381000284100,SCT
+SARS-CoV-2 variant lineage,77451000284104,SCT
+SARS-CoV-2 variant lineage,77461000284101,SCT
+SARS-CoV-2 variant lineage,77471000284106,SCT
+SARS-CoV-2 variant lineage,77481000284108,SCT
+SARS-CoV-2 variant lineage,77501000284101,SCT
+SARS-CoV-2 variant lineage,77521000284108,SCT
+SARS-CoV-2 variant lineage,77531000284105,SCT
+SARS-CoV-2 variant lineage,77541000284103,SCT
+SARS-CoV-2 variant lineage,77551000284100,SCT
+SARS-CoV-2 variant lineage,77561000284102,SCT
+SARS-CoV-2 variant lineage,77571000284107,SCT
+SARS-CoV-2 variant lineage,77591000284106,SCT
+SARS-CoV-2 variant lineage,77611000284100,SCT
+SARS-CoV-2 variant lineage,77641000284104,SCT
+SARS-CoV-2 variant lineage,77661000284103,SCT
+SARS-CoV-2 variant lineage,77671000284108,SCT
+SARS-CoV-2 variant lineage,77681000284105,SCT
+SARS-CoV-2 variant lineage,77691000284107,SCT
+SARS-CoV-2 variant lineage,77711000284109,SCT
+SARS-CoV-2 variant lineage,77731000284103,SCT
+SARS-CoV-2 variant lineage,77741000284105,SCT
+SARS-CoV-2 variant lineage,77761000284106,SCT
+SARS-CoV-2 variant lineage,77781000284104,SCT
+SARS-CoV-2 variant lineage,77791000284102,SCT
+SARS-CoV-2 variant lineage,77801000284103,SCT
+SARS-CoV-2 variant lineage,77821000284105,SCT
+SARS-CoV-2 variant lineage,78201000284100,SCT
+SARS-CoV-2 variant lineage,78221000284107,SCT
+SARS-CoV-2 variant lineage,78241000284102,SCT
+SARS-CoV-2 variant lineage,78251000284104,SCT
+SARS-CoV-2 variant lineage,78261000284101,SCT
+SARS-CoV-2 variant lineage,78281000284108,SCT
+SARS-CoV-2 variant lineage,78291000284105,SCT
+SARS-CoV-2 variant lineage,78311000284106,SCT
+SARS-CoV-2 variant lineage,78331000284100,SCT
+SARS-CoV-2 variant lineage,78541000284104,SCT
+SARS-CoV-2 variant lineage,78551000284101,SCT
+SARS-CoV-2 variant lineage,78571000284108,SCT
+SARS-CoV-2 variant lineage,78581000284105,SCT
+SARS-CoV-2 variant lineage,78591000284107,SCT
+SARS-CoV-2 variant lineage,78601000284103,SCT
+SARS-CoV-2 variant lineage,78611000284101,SCT
+SARS-CoV-2 variant lineage,78621000284105,SCT
+SARS-CoV-2 variant lineage,78641000284100,SCT
+SARS-CoV-2 variant lineage,78651000284102,SCT
+SARS-CoV-2 variant lineage,78671000284109,SCT
+SARS-CoV-2 variant lineage,78681000284106,SCT
+SARS-CoV-2 variant lineage,78691000284108,SCT
+SARS-CoV-2 variant lineage,78701000284108,SCT
+SARS-CoV-2 variant lineage,78721000284101,SCT
+SARS-CoV-2 variant lineage,78731000284104,SCT
+SARS-CoV-2 variant lineage,78851000284103,SCT
+SARS-CoV-2 variant lineage,78871000284105,SCT
+SARS-CoV-2 variant lineage,78891000284109,SCT
+SARS-CoV-2 variant lineage,78911000284107,SCT
+SARS-CoV-2 variant lineage,78931000284101,SCT
+SARS-CoV-2 variant lineage,78941000284108,SCT
+SARS-CoV-2 variant lineage,78951000284106,SCT
+SARS-CoV-2 variant lineage,78961000284109,SCT
+SARS-CoV-2 variant lineage,78971000284104,SCT
+SARS-CoV-2 variant lineage,79151000284103,SCT
+SARS-CoV-2 variant lineage,79161000284100,SCT
+SARS-CoV-2 variant lineage,79191000284109,SCT
+SARS-CoV-2 variant lineage,79201000284106,SCT
+SARS-CoV-2 variant lineage,79211000284108,SCT
+SARS-CoV-2 variant lineage,79221000284104,SCT
+SARS-CoV-2 variant lineage,79241000284109,SCT
+SARS-CoV-2 variant lineage,79251000284107,SCT
+SARS-CoV-2 variant lineage,79261000284105,SCT
+SARS-CoV-2 variant lineage,79271000284100,SCT
+SARS-CoV-2 variant lineage,79281000284103,SCT
+SARS-CoV-2 variant lineage,79291000284101,SCT
+SARS-CoV-2 variant lineage,79301000284102,SCT
+SARS-CoV-2 variant lineage,79311000284100,SCT
+SARS-CoV-2 variant lineage,79321000284109,SCT
+SARS-CoV-2 variant lineage,79331000284106,SCT
+SARS-CoV-2 variant lineage,79411000284107,SCT
+SARS-CoV-2 variant lineage,79591000284104,SCT
+SARS-CoV-2 variant lineage,79611000284105,SCT
+SARS-CoV-2 variant lineage,79621000284101,SCT
+SARS-CoV-2 variant lineage,79641000284106,SCT
+SARS-CoV-2 variant lineage,79651000284109,SCT
+SARS-CoV-2 variant lineage,79691000284103,SCT
+SARS-CoV-2 variant lineage,79751000284102,SCT
+SARS-CoV-2 variant lineage,79761000284104,SCT
+SARS-CoV-2 variant lineage,79781000284106,SCT
+SARS-CoV-2 variant lineage,79801000284107,SCT
+SARS-CoV-2 variant lineage,79811000284109,SCT
+SARS-CoV-2 variant lineage,79831000284103,SCT
+SARS-CoV-2 variant lineage,79841000284105,SCT
+SARS-CoV-2 variant lineage,79861000284106,SCT
+SARS-CoV-2 variant lineage,79881000284104,SCT
+SARS-CoV-2 variant lineage,79901000284101,SCT
+SARS-CoV-2 variant lineage,79921000284108,SCT
+SARS-CoV-2 variant lineage,79941000284103,SCT
+SARS-CoV-2 variant lineage,79961000284102,SCT
+SARS-CoV-2 variant lineage,79981000284109,SCT
+SARS-CoV-2 variant lineage,79991000284106,SCT
+SARS-CoV-2 variant lineage,80011000284103,SCT
+SARS-CoV-2 variant lineage,80021000284107,SCT
+SARS-CoV-2 variant lineage,80061000284101,SCT
+SARS-CoV-2 variant lineage,80071000284106,SCT
+SARS-CoV-2 variant lineage,80081000284108,SCT
+SARS-CoV-2 variant lineage,80091000284105,SCT
+SARS-CoV-2 variant lineage,80111000284102,SCT
+SARS-CoV-2 variant lineage,80121000284106,SCT
+SARS-CoV-2 variant lineage,80131000284108,SCT
+SARS-CoV-2 variant lineage,80141000284101,SCT
+SARS-CoV-2 variant lineage,80161000284100,SCT
+SARS-CoV-2 variant lineage,80181000284107,SCT
+SARS-CoV-2 variant lineage,80191000284109,SCT
+SARS-CoV-2 variant lineage,80201000284106,SCT
+SARS-CoV-2 variant lineage,80221000284104,SCT
+SARS-CoV-2 variant lineage,80241000284109,SCT
+SARS-CoV-2 variant lineage,80261000284105,SCT
+SARS-CoV-2 variant lineage,80281000284103,SCT
+SARS-CoV-2 variant lineage,80321000284109,SCT
+SARS-CoV-2 variant lineage,80341000284104,SCT
+SARS-CoV-2 variant lineage,80361000284103,SCT
+SARS-CoV-2 variant lineage,80371000284108,SCT
+SARS-CoV-2 variant lineage,80391000284107,SCT
+SARS-CoV-2 variant lineage,80401000284105,SCT
+SARS-CoV-2 variant lineage,80411000284107,SCT
+SARS-CoV-2 variant lineage,80431000284101,SCT
+SARS-CoV-2 variant lineage,80461000284109,SCT
+SARS-CoV-2 variant lineage,80471000284104,SCT
+SARS-CoV-2 variant lineage,80481000284102,SCT
+SARS-CoV-2 variant lineage,80501000284109,SCT
+SARS-CoV-2 variant lineage,80511000284106,SCT
+SARS-CoV-2 variant lineage,80531000284100,SCT
+SARS-CoV-2 variant lineage,80541000284107,SCT
+SARS-CoV-2 variant lineage,80591000284104,SCT
+SARS-CoV-2 variant lineage,80601000284108,SCT
+SARS-CoV-2 variant lineage,80621000284101,SCT
+SARS-CoV-2 variant lineage,80641000284106,SCT
+SARS-CoV-2 variant lineage,80651000284109,SCT
+SARS-CoV-2 variant lineage,80661000284107,SCT
+SARS-CoV-2 variant lineage,80671000284102,SCT
+SARS-CoV-2 variant lineage,80691000284103,SCT
+SARS-CoV-2 variant lineage,80711000284101,SCT
+SARS-CoV-2 variant lineage,80721000284105,SCT
+SARS-CoV-2 variant lineage,80731000284107,SCT
+SARS-CoV-2 variant lineage,80741000284100,SCT
+SARS-CoV-2 variant lineage,80751000284102,SCT
+SARS-CoV-2 variant lineage,80761000284104,SCT
+SARS-CoV-2 variant lineage,80781000284106,SCT
+SARS-CoV-2 variant lineage,80791000284108,SCT
+SARS-CoV-2 variant lineage,80811000284109,SCT
+SARS-CoV-2 variant lineage,80831000284103,SCT
+SARS-CoV-2 variant lineage,80851000284108,SCT
+SARS-CoV-2 variant lineage,80871000284101,SCT
+SARS-CoV-2 variant lineage,80881000284104,SCT
+SARS-CoV-2 variant lineage,80901000284101,SCT
+SARS-CoV-2 variant lineage,80951000284100,SCT
+SARS-CoV-2 variant lineage,80971000284107,SCT
+SARS-CoV-2 variant lineage,80991000284106,SCT
+SARS-CoV-2 variant lineage,81011000284107,SCT
+SARS-CoV-2 variant lineage,81031000284101,SCT
+SARS-CoV-2 variant lineage,81051000284106,SCT
+SARS-CoV-2 variant lineage,81071000284104,SCT
+SARS-CoV-2 variant lineage,81111000284108,SCT
+SARS-CoV-2 variant lineage,81121000284104,SCT
+SARS-CoV-2 variant lineage,81141000284109,SCT
+SARS-CoV-2 variant lineage,81151000284107,SCT
+SARS-CoV-2 variant lineage,81171000284100,SCT
+SARS-CoV-2 variant lineage,81181000284103,SCT
+SARS-CoV-2 variant lineage,81191000284101,SCT
+SARS-CoV-2 variant lineage,81201000284104,SCT
+SARS-CoV-2 variant lineage,81211000284102,SCT
+SARS-CoV-2 variant lineage,81221000284106,SCT
+SARS-CoV-2 variant lineage,81241000284101,SCT
+SARS-CoV-2 variant lineage,81251000284103,SCT
+SARS-CoV-2 variant lineage,81271000284105,SCT
+SARS-CoV-2 variant lineage,81311000284105,SCT
+SARS-CoV-2 variant lineage,81321000284101,SCT
+SARS-CoV-2 variant lineage,81331000284104,SCT
+SARS-CoV-2 variant lineage,81341000284106,SCT
+SARS-CoV-2 variant lineage,81351000284109,SCT
+SARS-CoV-2 variant lineage,81361000284107,SCT
+SARS-CoV-2 variant lineage,81371000284102,SCT
+SARS-CoV-2 variant lineage,81391000284103,SCT
+SARS-CoV-2 variant lineage,81441000284102,SCT
+SARS-CoV-2 variant lineage,81491000284105,SCT
+SARS-CoV-2 variant lineage,81501000284101,SCT
+SARS-CoV-2 variant lineage,81511000284104,SCT
+SARS-CoV-2 variant lineage,81531000284105,SCT
+SARS-CoV-2 variant lineage,81551000284100,SCT
+SARS-CoV-2 variant lineage,81561000284102,SCT
+SARS-CoV-2 variant lineage,81571000284107,SCT
+SARS-CoV-2 variant lineage,81581000284109,SCT
+SARS-CoV-2 variant lineage,81591000284106,SCT
+SARS-CoV-2 variant lineage,81611000284100,SCT
+SARS-CoV-2 variant lineage,81621000284109,SCT
+SARS-CoV-2 variant lineage,81631000284106,SCT
+SARS-CoV-2 variant lineage,81651000284101,SCT
+SARS-CoV-2 variant lineage,81671000284108,SCT
+SARS-CoV-2 variant lineage,81691000284107,SCT
+SARS-CoV-2 variant lineage,81701000284107,SCT
+SARS-CoV-2 variant lineage,81721000284100,SCT
+SARS-CoV-2 variant lineage,81731000284103,SCT
+SARS-CoV-2 variant lineage,81741000284105,SCT
+SARS-CoV-2 variant lineage,81751000284108,SCT
+SARS-CoV-2 variant lineage,81761000284106,SCT
+SARS-CoV-2 variant lineage,81771000284101,SCT
+SARS-CoV-2 variant lineage,81781000284104,SCT
+SARS-CoV-2 variant lineage,81801000284103,SCT
+SARS-CoV-2 variant lineage,81811000284101,SCT
+SARS-CoV-2 variant lineage,81821000284105,SCT
+SARS-CoV-2 variant lineage,81851000284102,SCT
+SARS-CoV-2 variant lineage,81891000284108,SCT
+SARS-CoV-2 variant lineage,81911000284106,SCT
+SARS-CoV-2 variant lineage,81921000284102,SCT
+SARS-CoV-2 variant lineage,81941000284107,SCT
+SARS-CoV-2 variant lineage,81961000284108,SCT
+SARS-CoV-2 variant lineage,81981000284101,SCT
+SARS-CoV-2 variant lineage,82041000284103,SCT
+SARS-CoV-2 variant lineage,82061000284102,SCT
+SARS-CoV-2 variant lineage,82081000284109,SCT
+SARS-CoV-2 variant lineage,82101000284100,SCT
+SARS-CoV-2 variant lineage,82111000284103,SCT
+SARS-CoV-2 variant lineage,82131000284109,SCT
+SARS-CoV-2 variant lineage,82151000284104,SCT
+SARS-CoV-2 variant lineage,82181000284108,SCT
+SARS-CoV-2 variant lineage,82201000284107,SCT
+SARS-CoV-2 variant lineage,82211000284109,SCT
+SARS-CoV-2 variant lineage,82221000284100,SCT
+SARS-CoV-2 variant lineage,82231000284103,SCT
+SARS-CoV-2 variant lineage,82251000284108,SCT
+SARS-CoV-2 variant lineage,82351000284102,SCT
+SARS-CoV-2 variant lineage,82361000284104,SCT
+SARS-CoV-2 variant lineage,82381000284106,SCT
+SARS-CoV-2 variant lineage,82411000284108,SCT
+SARS-CoV-2 variant lineage,82431000284102,SCT
+SARS-CoV-2 variant lineage,82441000284109,SCT
+SARS-CoV-2 variant lineage,82451000284107,SCT
+SARS-CoV-2 variant lineage,82831000284104,SCT
+SARS-CoV-2 variant lineage,82851000284109,SCT
+SARS-CoV-2 variant lineage,83051000284107,SCT
+SARS-CoV-2 variant lineage,83061000284105,SCT
+SARS-CoV-2 variant lineage,83071000284100,SCT
+SARS-CoV-2 variant lineage,83081000284103,SCT
+SARS-CoV-2 variant lineage,83151000284108,SCT
+SARS-CoV-2 variant lineage,83161000284106,SCT
+SARS-CoV-2 variant lineage,83171000284101,SCT
+SARS-CoV-2 variant lineage,83181000284104,SCT
+SARS-CoV-2 variant lineage,83221000284107,SCT
+SARS-CoV-2 variant lineage,83241000284102,SCT
+SARS-CoV-2 variant lineage,83251000284104,SCT
+SARS-CoV-2 variant lineage,83271000284106,SCT
+SARS-CoV-2 variant lineage,83281000284108,SCT
+SARS-CoV-2 variant lineage,83291000284105,SCT
+SARS-CoV-2 variant lineage,83301000284109,SCT
+SARS-CoV-2 variant lineage,83321000284102,SCT
+SARS-CoV-2 variant lineage,83341000284107,SCT
+SARS-CoV-2 variant lineage,83351000284105,SCT
+SARS-CoV-2 variant lineage,83361000284108,SCT
+SARS-CoV-2 variant lineage,83381000284101,SCT
+SARS-CoV-2 variant lineage,83391000284104,SCT
+SARS-CoV-2 variant lineage,83401000284101,SCT
+SARS-CoV-2 variant lineage,83411000284104,SCT
+SARS-CoV-2 variant lineage,83421000284108,SCT
+SARS-CoV-2 variant lineage,83441000284103,SCT
+SARS-CoV-2 variant lineage,83491000284106,SCT
+SARS-CoV-2 variant lineage,83511000284100,SCT
+SARS-CoV-2 variant lineage,83521000284109,SCT
+SARS-CoV-2 variant lineage,83541000284104,SCT
+SARS-CoV-2 variant lineage,83551000284101,SCT
+SARS-CoV-2 variant lineage,83561000284103,SCT
+SARS-CoV-2 variant lineage,83581000284105,SCT
+SARS-CoV-2 variant lineage,83591000284107,SCT
+SARS-CoV-2 variant lineage,83601000284103,SCT
+SARS-CoV-2 variant lineage,83621000284105,SCT
+SARS-CoV-2 variant lineage,83631000284107,SCT
+SARS-CoV-2 variant lineage,83841000284101,SCT
+SARS-CoV-2 variant lineage,83851000284103,SCT
+SARS-CoV-2 variant lineage,84081000284100,SCT
+SARS-CoV-2 variant lineage,84101000284109,SCT
+SARS-CoV-2 variant lineage,84111000284106,SCT
+SARS-CoV-2 variant lineage,84121000284102,SCT
+SARS-CoV-2 variant lineage,84141000284107,SCT
+SARS-CoV-2 variant lineage,84161000284108,SCT
+SARS-CoV-2 variant lineage,84181000284101,SCT
+SARS-CoV-2 variant lineage,84191000284104,SCT
+SARS-CoV-2 variant lineage,84221000284109,SCT
+SARS-CoV-2 variant lineage,84241000284104,SCT
+SARS-CoV-2 variant lineage,84251000284101,SCT
+SARS-CoV-2 variant lineage,84271000284108,SCT
+SARS-CoV-2 variant lineage,84291000284107,SCT
+SARS-CoV-2 variant lineage,84311000284108,SCT
+SARS-CoV-2 variant lineage,84331000284102,SCT
+SARS-CoV-2 variant lineage,84351000284107,SCT
+SARS-CoV-2 variant lineage,84391000284101,SCT
+SARS-CoV-2 variant lineage,84411000284101,SCT
+SARS-CoV-2 variant lineage,84421000284105,SCT
+SARS-CoV-2 variant lineage,84431000284107,SCT
+SARS-CoV-2 variant lineage,84451000284102,SCT
+SARS-CoV-2 variant lineage,84591000284109,SCT
+SARS-CoV-2 variant lineage,84611000284103,SCT
+SARS-CoV-2 variant lineage,84621000284107,SCT
+SARS-CoV-2 variant lineage,84631000284109,SCT
+SARS-CoV-2 variant lineage,84641000284102,SCT
+SARS-CoV-2 variant lineage,84661000284101,SCT
+SARS-CoV-2 variant lineage,84671000284106,SCT
+SARS-CoV-2 variant lineage,84681000284108,SCT
+SARS-CoV-2 variant lineage,84701000284105,SCT
+SARS-CoV-2 variant lineage,84721000284103,SCT
+SARS-CoV-2 variant lineage,84731000284101,SCT
+SARS-CoV-2 variant lineage,84741000284108,SCT
+Respiratory pathogen PCR,455371000124106,SCT
+SARS-CoV-2 variant lineage,84751000284106,SCT
+SARS-CoV-2 variant lineage,84851000284100,SCT
+SARS-CoV-2 variant lineage,84961000284106,SCT
+SARS-CoV-2 variant lineage,84991000284102,SCT
+SARS-CoV-2 variant lineage,85011000284109,SCT
+SARS-CoV-2 variant lineage,85021000284100,SCT
+SARS-CoV-2 variant lineage,85031000284103,SCT
+SARS-CoV-2 variant lineage,85051000284108,SCT
+SARS-CoV-2 variant lineage,85071000284101,SCT
+SARS-CoV-2 variant lineage,85081000284104,SCT
+SARS-CoV-2 variant lineage,85091000284102,SCT
+SARS-CoV-2 variant lineage,85101000284108,SCT
+SARS-CoV-2 variant lineage,85121000284101,SCT
+SARS-CoV-2 variant lineage,85141000284106,SCT
+SARS-CoV-2 variant lineage,85151000284109,SCT
+SARS-CoV-2 variant lineage,85161000284107,SCT
+SARS-CoV-2 variant lineage,85181000284100,SCT
+SARS-CoV-2 variant lineage,85191000284103,SCT
+SARS-CoV-2 variant lineage,85211000284104,SCT
+SARS-CoV-2 variant lineage,85231000284105,SCT
+SARS-CoV-2 variant lineage,85281000284109,SCT
+SARS-CoV-2 variant lineage,85291000284106,SCT
+SARS-CoV-2 variant lineage,85311000284107,SCT
+SARS-CoV-2 variant lineage,85331000284101,SCT
+SARS-CoV-2 variant lineage,85351000284106,SCT
+SARS-CoV-2 variant lineage,85361000284109,SCT
+SARS-CoV-2 variant lineage,85381000284102,SCT
+RSV lineage,85421000284109,SCT
+RSV lineage,85431000284106,SCT
+RSV lineage,85451000284101,SCT
+RSV lineage,85471000284108,SCT
+RSV lineage,85501000284103,SCT
+RSV lineage,85521000284105,SCT
+Flu A H7,66661000284106,SCT
+Flu A H7,419984006,SCT
+Flu A H7,78161000284106,SCT
+Flu A H7,260415000,SCT
+RSV lineage,85871000284106,SCT
+RSV lineage,86491000284102,SCT
+SARS-CoV-2 variant lineage,85561000284104,SCT
+SARS-CoV-2 variant lineage,85571000284109,SCT
+SARS-CoV-2 variant lineage,85581000284106,SCT
+SARS-CoV-2 variant lineage,85591000284108,SCT
+SARS-CoV-2 variant lineage,85601000284104,SCT
+SARS-CoV-2 variant lineage,85611000284102,SCT
+SARS-CoV-2 variant lineage,85621000284106,SCT
+SARS-CoV-2 variant lineage,85631000284108,SCT
+SARS-CoV-2 variant lineage,85651000284103,SCT
+SARS-CoV-2 variant lineage,85671000284105,SCT
+SARS-CoV-2 variant lineage,85681000284107,SCT
+SARS-CoV-2 variant lineage,85691000284109,SCT
+SARS-CoV-2 variant lineage,85751000284105,SCT
+SARS-CoV-2 variant lineage,85761000284108,SCT
+SARS-CoV-2 variant lineage,85841000284102,SCT
+SARS-CoV-2 variant lineage,85851000284104,SCT
+SARS-CoV-2 variant lineage,85891000284105,SCT
+SARS-CoV-2 variant lineage,85901000284106,SCT
+SARS-CoV-2 variant lineage,85911000284108,SCT
+SARS-CoV-2 variant lineage,85921000284104,SCT
+SARS-CoV-2 variant lineage,86161000284102,SCT
+SARS-CoV-2 variant lineage,86181000284109,SCT
+SARS-CoV-2 variant lineage,86191000284106,SCT
+SARS-CoV-2 variant lineage,86211000284105,SCT
+SARS-CoV-2 variant lineage,86231000284104,SCT
+SARS-CoV-2 variant lineage,86251000284109,SCT
+SARS-CoV-2 variant lineage,86261000284107,SCT
+SARS-CoV-2 variant lineage,86271000284102,SCT
+SARS-CoV-2 variant lineage,86281000284100,SCT
+SARS-CoV-2 variant lineage,86291000284103,SCT
+SARS-CoV-2 variant lineage,86301000284104,SCT
+SARS-CoV-2 variant lineage,86321000284106,SCT
+SARS-CoV-2 variant lineage,86331000284108,SCT
+SARS-CoV-2 variant lineage,86351000284103,SCT
+SARS-CoV-2 variant lineage,86371000284105,SCT
+SARS-CoV-2 variant lineage,86381000284107,SCT
+SARS-CoV-2 variant lineage,86391000284109,SCT
+SARS-CoV-2 variant lineage,86401000284107,SCT
+SARS-CoV-2 variant lineage,86421000284100,SCT
+SARS-CoV-2 variant lineage,86461000284106,SCT
+SARS-CoV-2 variant lineage,86481000284104,SCT
+RSV lineage,86601000284105,SCT
+SARS-CoV-2 variant lineage,86511000284108,SCT
+SARS-CoV-2 variant lineage,86521000284104,SCT
+SARS-CoV-2 variant lineage,86541000284109,SCT
+SARS-CoV-2 variant lineage,86551000284107,SCT
+SARS-CoV-2 variant lineage,86571000284100,SCT
+SARS-CoV-2 variant lineage,86591000284101,SCT
+SARS-CoV-2 variant lineage,86631000284101,SCT
+SARS-CoV-2 variant lineage,86641000284108,SCT
+SARS-CoV-2 variant lineage,86661000284109,SCT
+SARS-CoV-2 variant lineage,86681000284102,SCT
+SARS-CoV-2 variant lineage,86701000284100,SCT
+SARS-CoV-2 variant lineage,86721000284107,SCT
+SARS-CoV-2 variant lineage,86731000284109,SCT
+SARS-CoV-2 variant lineage,86751000284104,SCT
+SARS-CoV-2 variant lineage,86761000284101,SCT
+SARS-CoV-2 variant lineage,86771000284106,SCT
+SARS-CoV-2 variant lineage,86791000284105,SCT
+SARS-CoV-2 variant lineage,86801000284109,SCT
+RSV lineage,86891000284104,SCT
+SARS-CoV-2 variant lineage,86861000284108,SCT
+SARS-CoV-2 variant lineage,86921000284105,SCT
+SARS-CoV-2 variant lineage,86941000284100,SCT
+SARS-CoV-2 variant lineage,86961000284104,SCT
+SARS-CoV-2 variant lineage,87001000284104,SCT
+SARS-CoV-2 variant lineage,87021000284106,SCT
+SARS-CoV-2 variant lineage,87051000284103,SCT
+SARS-CoV-2 variant lineage,87071000284105,SCT
+SARS-CoV-2 variant lineage,87091000284109,SCT
+SARS-CoV-2 variant lineage,87261000284109,SCT
+Results PLT196,78161000284106,SCT
+Results PLT196,85401000284102,SCT
+Results PLT171,78071000284100,SCT
+Results PLT171,78161000284106,SCT
+Results PLT171,85401000284102,SCT
