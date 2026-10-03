@@ -126,6 +126,20 @@ public class TestARLN_OBX3 {
   }
 
   @Test
+  public void testCheckCrePcrCodes20260929() throws IOException {
+    // the five OBX-3 codes APHL added on 2026-09-29 (CRE PCR results), bound to
+    // no OBR-4 in the Tests table, so the order is checked against Orders only
+    String[] codes = {"115816-1", "115817-9", "115818-7", "115819-5", "115820-3"};
+    for (String code : codes) {
+      OBX3s.removeAll(OBX3s);
+      OBX3s.add(new ComplexCodedElement(code, "LN", "", ""));
+      OBR4 = new ComplexCodedElement("68991-9", "LN", "", "");
+      List<String> result = testObject.check(OBR4, OBX3s);
+      assertEquals(code + " must be known", 0, result.size());
+    }
+  }
+
+  @Test
   @Ignore
   public void testMessage() throws Exception {
 
