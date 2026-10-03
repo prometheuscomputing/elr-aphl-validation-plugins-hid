@@ -23,6 +23,10 @@ import gov.nist.validation.report.Report;
 import hl7.v2.validation.SyncHL7Validator;
 
 
+// Calls the APHL web service on aphl.nist.gov, which is being shut down with the
+// rest of NIST's servers; our deployment reads the bundled CSV tables instead
+// (the csv package has the same cases). Skipped like the other ws tests.
+@Ignore
 public class TestPHLIP_OBX3_OBR4 {
 
   // SUCCESS
